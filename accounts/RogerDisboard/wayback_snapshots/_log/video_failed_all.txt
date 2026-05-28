@@ -15,7 +15,6 @@ https://video.twimg.com/tweet_video/HGW5_gfbIAAQPcF.mp4
 https://video.twimg.com/tweet_video/HGW7-WnacAA58ii.mp4
 https://video.twimg.com/tweet_video/HGXckY5aoAA6SKM.mp4
 https://video.twimg.com/tweet_video/HGb5L2kbsAAqp61.mp4
-https://video.twimg.com/tweet_video/HGb6AhvaYAAo6ri.mp4
 https://video.twimg.com/tweet_video/HGb6UtsbMAAaqDi.mp4
 https://video.twimg.com/tweet_video/HGcL2YlawAAYaFU.mp4
 https://video.twimg.com/tweet_video/HGvmDTIaUAAXtKT.mp4
@@ -33,19 +32,16 @@ https://video.twimg.com/tweet_video/HHJz4g9XYAAtrvf.mp4
 https://video.twimg.com/tweet_video/HHKh6q6XUAA-mYu.mp4
 https://video.twimg.com/tweet_video/HHOJzZdbQAE-Xaq.mp4
 https://video.twimg.com/tweet_video/HHOWOVRa4AAOiMQ.mp4
-https://video.twimg.com/tweet_video/HHPDLiKawAA5d3p.mp4
 https://video.twimg.com/tweet_video/HHS2r3paQAATB0C.mp4
 https://video.twimg.com/tweet_video/HHSJLrtaIAA2JoY.mp4
 https://video.twimg.com/tweet_video/HHT8RU9bEAE5znn.mp4
 https://video.twimg.com/tweet_video/HHT8qchaIAA9I_I.mp4
-https://video.twimg.com/tweet_video/HHTYL2BawAAX-0w.mp4
 https://video.twimg.com/tweet_video/HHThmUCawAAfvtY.mp4
 https://video.twimg.com/tweet_video/HHTnqRUbMAAE9jI.mp4
 https://video.twimg.com/tweet_video/HHUKR-saQAATVWn.mp4
 https://video.twimg.com/tweet_video/HHU_yChbUAA9rVP.mp4
 https://video.twimg.com/tweet_video/HHXuGluakAAhHu8.mp4
 https://video.twimg.com/tweet_video/HHYDW-gbkAATWFD.mp4
-https://video.twimg.com/tweet_video/HHcEemRbAAAgJcc.mp4
 https://video.twimg.com/tweet_video/HHdp97ob0AAXx7t.mp4
 https://video.twimg.com/tweet_video/HHkHrpoakAAvAED.mp4
 https://video.twimg.com/tweet_video/HHkIPIjaEAAeBxj.mp4
@@ -53,7 +49,6 @@ https://video.twimg.com/tweet_video/HHklhq7bwAAXETF.mp4
 https://video.twimg.com/tweet_video/HHklvB-bMAA-Z1E.mp4
 https://video.twimg.com/tweet_video/HHuhW47akAE7tdF.mp4
 https://video.twimg.com/tweet_video/HIC0kpZbYAAhaQ9.mp4
-https://video.twimg.com/tweet_video/HIIIOXqbAAAmaOp.mp4
 https://video.twimg.com/tweet_video/HIIesSCaAAAiBp1.mp4
 https://video.twimg.com/tweet_video/HIXTIYYaEAAqWk4.mp4
 https://video.twimg.com/tweet_video/HIZhUjAaMAA6gft.mp4
