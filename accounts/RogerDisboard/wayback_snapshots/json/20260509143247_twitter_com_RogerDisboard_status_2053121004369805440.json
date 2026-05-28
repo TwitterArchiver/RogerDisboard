@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052945341650210976",
+    "created_at": "2026-05-09T14:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053121004369805440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883854964772175872",
+          "start": 0,
+          "username": "kocatia_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053121004369805440",
+    "in_reply_to_user_id": "1883854964772175872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052945341650210976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kocatia_ 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052945341650210976",
+        "created_at": "2026-05-09T14:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053121004369805440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883854964772175872",
+              "start": 0,
+              "username": "kocatia_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053121004369805440",
+        "in_reply_to_user_id": "1883854964772175872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052945341650210976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kocatia_ 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883854964772175872",
+        "conversation_id": "2052945341650210976",
+        "created_at": "2026-05-09T02:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052945341650210976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052945341650210976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想拥抱。。。能感受到别人的体温真的好幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 959,
+          "like_count": 3635,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 898
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T12:30:09.000Z",
+        "description": "もうじき夏が終わるから",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kocatia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kocatia",
+                "start": 0,
+                "url": "https://t.co/LvgztTx1QC"
+              }
+            ]
+          }
+        },
+        "id": "1883854964772175872",
+        "location": "秘封俱乐部",
+        "name": "幻想のサテライト",
+        "pinned_tweet_id": "2033157704857035136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281813410316288/lEMIcIyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 192,
+          "like_count": 7585,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/LvgztTx1QC",
+        "username": "kocatia_",
+        "verified": false
+      }
+    ]
+  }
+}

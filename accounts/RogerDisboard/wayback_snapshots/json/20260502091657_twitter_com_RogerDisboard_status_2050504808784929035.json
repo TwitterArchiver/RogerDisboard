@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050302504030842880"
+      ],
+      "media_source_tweet_id": [
+        "2050302533718122941"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2050504808784929035",
+    "created_at": "2026-05-02T09:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050504808784929035"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 16,
+          "tag": "LimbusCompany"
+        },
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "LCB3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1225042518468775937",
+          "start": 3,
+          "username": "Rinko_5191"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8icA8kC0hH",
+          "end": 60,
+          "expanded_url": "https://x.com/Rinko_5191/status/2050302533718122941/photo/1",
+          "media_key": "3_2050302504030842880",
+          "start": 37,
+          "url": "https://t.co/8icA8kC0hH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050504808784929035",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 343
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050302533718122941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinko_5191: #LimbusCompany #LCB3 https://t.co/8icA8kC0hH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050302504030842880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQjQ7LaMAAgn3m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050302504030842880"
+          ],
+          "media_source_tweet_id": [
+            "2050302533718122941"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2050504808784929035",
+        "created_at": "2026-05-02T09:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050504808784929035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 16,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "LCB3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1225042518468775937",
+              "start": 3,
+              "username": "Rinko_5191"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8icA8kC0hH",
+              "end": 60,
+              "expanded_url": "https://x.com/Rinko_5191/status/2050302533718122941/photo/1",
+              "media_key": "3_2050302504030842880",
+              "start": 37,
+              "url": "https://t.co/8icA8kC0hH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050504808784929035",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 343
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050302533718122941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinko_5191: #LimbusCompany #LCB3 https://t.co/8icA8kC0hH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050302504030842880"
+          ]
+        },
+        "author_id": "1225042518468775937",
+        "conversation_id": "2050302533718122941",
+        "created_at": "2026-05-01T19:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050302533718122941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "LCB3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8icA8kC0hH",
+              "end": 44,
+              "expanded_url": "https://x.com/Rinko_5191/status/2050302533718122941/photo/1",
+              "media_key": "3_2050302504030842880",
+              "start": 21,
+              "url": "https://t.co/8icA8kC0hH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050302533718122941",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 17735,
+          "like_count": 2860,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 343
+        },
+        "reply_settings": "everyone",
+        "text": "#LimbusCompany #LCB3 https://t.co/8icA8kC0hH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 777,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 597
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T13:04:40.000Z",
+        "description": "https://t.co/beSv2kpPc2\n\n🇨🇳20↑｜中文/En｜低浮上｜\n\n           ❌無断轉載禁止、AI學習禁止❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/Rinko5191",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/Rinko5191",
+                "start": 0,
+                "url": "https://t.co/beSv2kpPc2"
+              }
+            ]
+          }
+        },
+        "id": "1225042518468775937",
+        "location": "People's Republic of China",
+        "name": "鈴",
+        "pinned_tweet_id": "2046257897466978787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049574375658246144/l6hkDnAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 75,
+          "like_count": 473,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 517
+        },
+        "username": "Rinko_5191",
+        "verified": false
+      }
+    ]
+  }
+}

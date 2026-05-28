@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2053179784231031009",
+    "created_at": "2026-05-09T18:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053183310449512578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1618314905475743749",
+          "start": 0,
+          "username": "CuOqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053183310449512578",
+    "in_reply_to_user_id": "1618314905475743749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053183136771780899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuOqwq 我直说吧\n就是海月水母"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2053179784231031009",
+        "created_at": "2026-05-09T18:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053183310449512578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1618314905475743749",
+              "start": 0,
+              "username": "CuOqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053183310449512578",
+        "in_reply_to_user_id": "1618314905475743749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053183136771780899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuOqwq 我直说吧\n就是海月水母"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618314905475743749",
+        "conversation_id": "2053179784231031009",
+        "created_at": "2026-05-09T18:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053183136771780899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053183136771780899",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053182347110125822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 他/她现在是什么情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/守护他人的决意/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 93,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 986,
+          "like_count": 3760,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 926
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T18:28:45.000Z",
+        "description": "§Anyway The Wind Blows Doesn't Really Matter To Me§ § YOU ARE NOT ALONE § ｜自杀干预 重点关注 请私信｜",
+        "id": "1618314905475743749",
+        "location": "重庆",
+        "name": "CuO",
+        "pinned_tweet_id": "1945531580057096550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945466156887760896/sroU907E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 130,
+          "like_count": 2500,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 486
+        },
+        "username": "CuOqwq",
+        "verified": false
+      }
+    ]
+  }
+}

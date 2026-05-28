@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2050416063083594223",
+    "created_at": "2026-05-02T03:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T04:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050420083667693921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843360729199718404",
+          "start": 0,
+          "username": "longlongp97w"
+        },
+        {
+          "end": 30,
+          "id": "1510195720137023499",
+          "start": 14,
+          "username": "index_ourFusion"
+        },
+        {
+          "end": 40,
+          "id": "2013321876224057344",
+          "start": 31,
+          "username": "OTxiashu"
+        },
+        {
+          "end": 53,
+          "id": "1914766734420279296",
+          "start": 41,
+          "username": "yangtao1729"
+        },
+        {
+          "end": 62,
+          "id": "1726808702387449856",
+          "start": 54,
+          "username": "Nargiti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050420083667693921",
+    "in_reply_to_user_id": "1843360729199718404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050418697034936784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longlongp97w @index_ourFusion @OTxiashu @yangtao1729 @Nargiti 有点逆天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2050416063083594223",
+        "created_at": "2026-05-02T03:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050420083667693921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843360729199718404",
+              "start": 0,
+              "username": "longlongp97w"
+            },
+            {
+              "end": 30,
+              "id": "1510195720137023499",
+              "start": 14,
+              "username": "index_ourFusion"
+            },
+            {
+              "end": 40,
+              "id": "2013321876224057344",
+              "start": 31,
+              "username": "OTxiashu"
+            },
+            {
+              "end": 53,
+              "id": "1914766734420279296",
+              "start": 41,
+              "username": "yangtao1729"
+            },
+            {
+              "end": 62,
+              "id": "1726808702387449856",
+              "start": 54,
+              "username": "Nargiti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050420083667693921",
+        "in_reply_to_user_id": "1843360729199718404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050418697034936784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longlongp97w @index_ourFusion @OTxiashu @yangtao1729 @Nargiti 有点逆天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843360729199718404",
+        "conversation_id": "2050416063083594223",
+        "created_at": "2026-05-02T03:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050418697034936784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 31,
+              "id": "1510195720137023499",
+              "start": 15,
+              "username": "index_ourFusion"
+            },
+            {
+              "end": 41,
+              "id": "2013321876224057344",
+              "start": 32,
+              "username": "OTxiashu"
+            },
+            {
+              "end": 54,
+              "id": "1914766734420279296",
+              "start": 42,
+              "username": "yangtao1729"
+            },
+            {
+              "end": 63,
+              "id": "1726808702387449856",
+              "start": 55,
+              "username": "Nargiti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050418697034936784",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050416063083594223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard @index_ourFusion @OTxiashu @yangtao1729 @Nargiti 啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 774,
+          "like_count": 1932,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 572
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）ps.龙的聊天能力堪比人机，龙喜欢被夸🥰,然后我不是同！想多找互关呀，提问箱：https://t.co/oCgXhmsRO0\n小号：@longrc7x  #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "碎碎念"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "longrc7x"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 129,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 106,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041004546806468608/r_cGy1V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 182,
+          "like_count": 8374,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1626
+        },
+        "url": "https://t.co/oCgXhmsRO0",
+        "username": "longlongp97w",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T10:01:43.000Z",
+        "description": "シビュラ精霊記爱好者｜中文日本語Eng👌\n曾用名：Limiremelootes、Arethusa\n废文书@OurFusion_index\n匿名提问渠道⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "OurFusion_index"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/T6LPDG",
+                "end": 23,
+                "expanded_url": "https://qntwx.cn/T6LPDG",
+                "start": 0,
+                "url": "https://t.co/xrhZagfogu"
+              }
+            ]
+          }
+        },
+        "id": "1510195720137023499",
+        "location": "奉天重工",
+        "name": "index",
+        "pinned_tweet_id": "2047821016810893729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049453547188854784/04Hec3yl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 693,
+          "like_count": 11114,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 1470
+        },
+        "url": "https://t.co/xrhZagfogu",
+        "username": "index_ourFusion",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 539,
+          "like_count": 10152,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 3949
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T19:42:30.000Z",
+        "description": "♂男\n\n 永远的@XiShangguan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "XiShangguan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangtao1729",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangtao1729",
+                "start": 0,
+                "url": "https://t.co/MjsQHi05n5"
+              }
+            ]
+          }
+        },
+        "id": "1914766734420279296",
+        "location": "下界",
+        "name": "白骑士与刺玫瑰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 167,
+          "like_count": 13768,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 6692
+        },
+        "url": "https://t.co/MjsQHi05n5",
+        "username": "yangtao1729",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允",
+        "id": "1726808702387449856",
+        "name": "丌乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043402687564349440/_o9ITcv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 4586,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 171
+        },
+        "username": "Nargiti",
+        "verified": false
+      }
+    ]
+  }
+}

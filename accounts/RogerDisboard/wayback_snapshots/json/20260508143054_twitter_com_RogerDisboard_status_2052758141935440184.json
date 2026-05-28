@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052428367979573527",
+    "created_at": "2026-05-08T14:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052758141935440184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "289298525",
+          "start": 0,
+          "username": "jiandu23333"
+        },
+        {
+          "end": 21,
+          "id": "1546104577161760768",
+          "start": 13,
+          "username": "R0y0o0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052758141935440184",
+    "in_reply_to_user_id": "289298525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052428367979573527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiandu23333 @R0y0o0u 蹲蹲喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052428365534294017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuwuWabcAEyzOe.jpg",
+        "width": 946
+      },
+      {
+        "height": 1389,
+        "media_key": "3_2052428365559390208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuwuWgaYAA6pAD.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052428367979573527",
+        "created_at": "2026-05-08T14:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052758141935440184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "289298525",
+              "start": 0,
+              "username": "jiandu23333"
+            },
+            {
+              "end": 21,
+              "id": "1546104577161760768",
+              "start": 13,
+              "username": "R0y0o0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052758141935440184",
+        "in_reply_to_user_id": "289298525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052428367979573527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiandu23333 @R0y0o0u 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052428365534294017",
+            "3_2052428365559390208"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052428367979573527",
+        "created_at": "2026-05-07T16:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052428367979573527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwETSptXoN",
+              "end": 78,
+              "expanded_url": "https://x.com/jiandu23333/status/2052428367979573527/photo/1",
+              "media_key": "3_2052428365534294017",
+              "start": 55,
+              "url": "https://t.co/GwETSptXoN"
+            },
+            {
+              "display_url": "pic.x.com/GwETSptXoN",
+              "end": 78,
+              "expanded_url": "https://x.com/jiandu23333/status/2052428367979573527/photo/1",
+              "media_key": "3_2052428365559390208",
+              "start": 55,
+              "url": "https://t.co/GwETSptXoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052428367979573527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1284,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "20fo\n关注+转帖+评论+❤️\n抽奖\n东方冰之勇者记CDK一份（折19r）\n5月8日—5月11日\nAI开奖 https://t.co/GwETSptXoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/不o不割不健全/友跨/妄想成为心理委员/守护他人的决意/查成分互fo/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2052040284293460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 894,
+          "like_count": 3282,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 855
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "description": "沃尔玛塑料袋/INTP/06年/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 111,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T12:11:13.000Z",
+        "description": "单机｜❤️→@Monika13145201｜裏垢→@moep89677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "Monika13145201"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "moep89677"
+              }
+            ]
+          }
+        },
+        "id": "1546104577161760768",
+        "location": "Suisei",
+        "name": "Ryou",
+        "pinned_tweet_id": "2003518084133585011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003510168538210305/EGadh2x3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 369,
+          "like_count": 6915,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 8112
+        },
+        "username": "R0y0o0u",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2056779203891400896",
+    "created_at": "2026-05-19T16:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056779203891400896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rogerdisboard/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/rogerdisboard/status/2056767919183589496",
+          "start": 29,
+          "url": "https://t.co/JF4B2fhPAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056779203891400896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056767919183589496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呜\n谢谢你们还在意Roger\n感谢你们一直陪着Roger https://t.co/JF4B2fhPAA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2056779203891400896",
+        "created_at": "2026-05-19T16:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056779203891400896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rogerdisboard/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/rogerdisboard/status/2056767919183589496",
+              "start": 29,
+              "url": "https://t.co/JF4B2fhPAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056779203891400896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056767919183589496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜\n谢谢你们还在意Roger\n感谢你们一直陪着Roger https://t.co/JF4B2fhPAA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2056767919183589496",
+        "created_at": "2026-05-19T16:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056767919183589496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056767919183589496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像没什么人会理Roger了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 858,
+          "like_count": 5306,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1205
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

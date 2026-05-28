@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2048085903911113141",
+    "created_at": "2026-04-26T17:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048449425836777883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1741359104184967168",
+          "start": 0,
+          "username": "LanMei012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048449425836777883",
+    "in_reply_to_user_id": "1741359104184967168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048085903911113141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanMei012 这强的是到底是血魔还是环宝呢（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1383,
+        "media_key": "3_2048085900954062848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxDRpPaUAAzbNg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2048085903911113141",
+        "created_at": "2026-04-26T17:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048449425836777883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1741359104184967168",
+              "start": 0,
+              "username": "LanMei012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048449425836777883",
+        "in_reply_to_user_id": "1741359104184967168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048085903911113141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanMei012 这强的是到底是血魔还是环宝呢（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048085900954062848"
+          ]
+        },
+        "author_id": "1741359104184967168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048085903911113141",
+        "created_at": "2026-04-25T17:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048085903911113141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUElGbfXOr",
+              "end": 72,
+              "expanded_url": "https://x.com/LanMei012/status/2048085903911113141/photo/1",
+              "media_key": "3_2048085900954062848",
+              "start": 49,
+              "url": "https://t.co/oUElGbfXOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048085903911113141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2050,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道的，我一直认为血魔队很强，他们甚至能在死路游刃有余。拉曼却领王子死在W列车上了不要再问了。 https://t.co/oUElGbfXOr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 640,
+          "like_count": 1335,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 391
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T07:22:30.000Z",
+        "description": "16//没学过画画所以如果画得不丑是我超常发挥了。先提前说声抱歉。平常就玩玩fgo。这号也基本拿来看fgo的别的推荐糊我脸上会看一眼。发点巴里或者书籍猎手，偶尔整点跟这俩有关系的。\n/月亮计划巴里书籍猎手和型月泛人类摩根的粉丝。👍//用我的图不关注我被我看到屏蔽一律活该。麻烦点赞前看下我顶置。",
+        "id": "1741359104184967168",
+        "location": "→i like bari🌕 & 汎人類史のモルガン🧙🏻",
+        "name": "蓝莓吖鸭莓(回复不了消息所以用的引用",
+        "pinned_tweet_id": "1957675512400073079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041179630032531456/GmstLtqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5420,
+          "following_count": 4,
+          "like_count": 252,
+          "listed_count": 9,
+          "media_count": 315,
+          "tweet_count": 646
+        },
+        "username": "LanMei012",
+        "verified": false
+      }
+    ]
+  }
+}

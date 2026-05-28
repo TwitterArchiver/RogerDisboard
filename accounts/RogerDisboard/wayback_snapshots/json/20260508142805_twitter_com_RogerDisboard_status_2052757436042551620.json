@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052626366584209605",
+    "created_at": "2026-05-08T14:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052757436042551620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1577362467419611137",
+          "start": 0,
+          "username": "Retepa555"
+        },
+        {
+          "end": 19,
+          "id": "1546104577161760768",
+          "start": 11,
+          "username": "R0y0o0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052757436042551620",
+    "in_reply_to_user_id": "1577362467419611137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052626366584209605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retepa555 @R0y0o0u 蹲蹲喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2052626357113544704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxky-hbYAAxXnh.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052626366584209605",
+        "created_at": "2026-05-08T14:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052757436042551620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577362467419611137",
+              "start": 0,
+              "username": "Retepa555"
+            },
+            {
+              "end": 19,
+              "id": "1546104577161760768",
+              "start": 11,
+              "username": "R0y0o0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052757436042551620",
+        "in_reply_to_user_id": "1577362467419611137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052626366584209605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retepa555 @R0y0o0u 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052626357113544704"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2052626366584209605",
+        "created_at": "2026-05-08T05:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052626366584209605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjgLhtJq9j",
+              "end": 127,
+              "expanded_url": "https://x.com/Retepa555/status/2052626366584209605/photo/1",
+              "media_key": "3_2052626357113544704",
+              "start": 104,
+              "url": "https://t.co/zjgLhtJq9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052626366584209605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1374,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "300fo了😋，发个感谢抽奖，没人参会尴尬惹啊！\n奖池:影子武士2*1（原价108r，cdk）\n绿普*2（缅怀pr，折现13r）\n冰红茶*3（折现3r）\n都是点便宜小玩意（）\n关注+转发+扣1即可参与≡ω≡ https://t.co/zjgLhtJq9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/不o不割不健全/友跨/妄想成为心理委员/守护他人的决意/查成分互fo/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2052040284293460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 894,
+          "like_count": 3254,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 852
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666622110531584/OB6tshlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 736,
+          "like_count": 20779,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1665
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T12:11:13.000Z",
+        "description": "单机｜❤️→@Monika13145201｜裏垢→@moep89677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "Monika13145201"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "moep89677"
+              }
+            ]
+          }
+        },
+        "id": "1546104577161760768",
+        "location": "Suisei",
+        "name": "Ryou",
+        "pinned_tweet_id": "2003518084133585011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003510168538210305/EGadh2x3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 369,
+          "like_count": 6915,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 8112
+        },
+        "username": "R0y0o0u",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2048963247026647333",
+    "created_at": "2026-04-28T13:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049117873969201607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "TeamRain_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049117873969201607",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048963247026647333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamRain_2024 我可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2048963247026647333",
+        "created_at": "2026-04-28T13:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049117873969201607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "TeamRain_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049117873969201607",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048963247026647333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamRain_2024 我可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2048963247026647333",
+        "created_at": "2026-04-28T03:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048963247026647333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TeamRain_2024/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/TeamRain_2024/status/2048914395355627781",
+              "start": 14,
+              "url": "https://t.co/LOY9IkIOR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048963247026647333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3651,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048914395355627781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说有没有人想和我扩列的（ https://t.co/LOY9IkIOR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 662,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 428
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴.",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9849,
+          "following_count": 980,
+          "like_count": 81772,
+          "listed_count": 19,
+          "media_count": 1612,
+          "tweet_count": 11452
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "TeamRain_2024",
+        "verified": true
+      }
+    ]
+  }
+}

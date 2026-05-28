@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045425339334377472"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2045413585699115310",
+    "created_at": "2026-04-18T08:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045425344359157933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mIdKsFqPD7",
+          "end": 47,
+          "expanded_url": "https://x.com/RogerDisboard/status/2045425344359157933/photo/1",
+          "media_key": "3_2045425339334377472",
+          "start": 24,
+          "url": "https://t.co/mIdKsFqPD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045425344359157933",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045413585699115310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 看上去好好吃~ https://t.co/mIdKsFqPD7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045425344359157933].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045425344359157933",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045425344359157933"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_2045425339334377472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLPgk2bwAAfxW2.jpg",
+        "width": 806
+      },
+      {
+        "height": 2233,
+        "media_key": "3_2045413570884861952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLEzj9bAAAQ65D.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2233,
+        "media_key": "3_2045413571035852800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLEzkha8AA7FpX.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045413570884861952",
+            "3_2045413571035852800"
+          ]
+        },
+        "author_id": "1847835560175685635",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045413585699115310",
+        "created_at": "2026-04-18T08:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045413585699115310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEirhQs126",
+              "end": 82,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2045413585699115310/photo/1",
+              "media_key": "3_2045413570884861952",
+              "start": 59,
+              "url": "https://t.co/iEirhQs126"
+            },
+            {
+              "display_url": "pic.x.com/iEirhQs126",
+              "end": 82,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2045413585699115310/photo/1",
+              "media_key": "3_2045413571035852800",
+              "start": 59,
+              "url": "https://t.co/iEirhQs126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045413585699115310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午好，天天开心( ⩌⤚⩌)\n披萨～ʢ˶ᵒ ᵕ ˂˶ʡᶻ\n多加了芝士，芝士就是力量喵！\n(៸៸៸º ᗜ º៸៸៸ ) https://t.co/iEirhQs126"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "RogerDISBOARD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 297,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 103
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n但记住，你一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n不吃🍔了，现在已对🍕上瘾 INFP-T\n颜文字万岁！( ≧▽≦ )\n凉面派😼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 2238,
+          "like_count": 22389,
+          "listed_count": 8,
+          "media_count": 829,
+          "tweet_count": 21557
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

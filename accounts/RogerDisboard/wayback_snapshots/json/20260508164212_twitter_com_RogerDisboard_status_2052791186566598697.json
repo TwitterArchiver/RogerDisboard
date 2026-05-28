@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052791186566598697",
+    "created_at": "2026-05-08T16:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052791186566598697"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052791186566598697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "共感\n共交织的情感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052791186566598697",
+        "created_at": "2026-05-08T16:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052791186566598697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052791186566598697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "共感\n共交织的情感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机产生奇妙思想/查成分互fo喵/欢迎私信喵/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2052040284293460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 925,
+          "like_count": 3388,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 868
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2045927913569320961"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2045927007813583238",
+    "created_at": "2026-04-19T18:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045927925099421864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858393719080366080",
+          "start": 0,
+          "username": "xiaomonuya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ti6uC3UnWc",
+          "end": 46,
+          "expanded_url": "https://x.com/RogerDisboard/status/2045927925099421864/photo/1",
+          "media_key": "16_2045927913569320961",
+          "start": 23,
+          "url": "https://t.co/Ti6uC3UnWc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045927925099421864",
+    "in_reply_to_user_id": "1858393719080366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045927007813583238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomonuya 应该直接攻击他的长辈 https://t.co/Ti6uC3UnWc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045927925099421864].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045927925099421864",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045927925099421864"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2045927913569320961",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGSYmPxbAAELn8I.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGSYmPxbAAELn8I.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045927005510832130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSXxY_aEAIT9N9.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045927005510832130"
+          ]
+        },
+        "author_id": "1858393719080366080",
+        "conversation_id": "2045927007813583238",
+        "created_at": "2026-04-19T18:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045927007813583238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmJgz7cQyH",
+              "end": 37,
+              "expanded_url": "https://x.com/xiaomonuya/status/2045927007813583238/photo/1",
+              "media_key": "3_2045927005510832130",
+              "start": 14,
+              "url": "https://t.co/tmJgz7cQyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045927007813583238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都这样了居然不怕？？？？ https://t.co/tmJgz7cQyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 367,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 165
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的想给我发性器照片的给我滚～～～！\n🚪52喵\n我是跨性別喵",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2045865932678164868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 164,
+          "like_count": 2951,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 3850
+        },
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

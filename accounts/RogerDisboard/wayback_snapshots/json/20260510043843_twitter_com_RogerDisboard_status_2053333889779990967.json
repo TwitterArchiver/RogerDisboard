@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2053333889779990967",
+    "created_at": "2026-05-10T04:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053333889779990967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1979068278673981440",
+          "start": 3,
+          "username": "orange219695619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053333889779990967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048412804332527786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orange219695619: 请不要在春天自杀，因为紫藤曾绚烂了嶙峋的树木\n请不要在夏天自杀，因为栀子花还包裹着夜的星辰\n请不要在秋天自杀，因为落叶尚存碎阳触留的余温\n请不要在冬天自杀，因为雪松仍讴歌那自由的朔风"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2053333889779990967",
+        "created_at": "2026-05-10T04:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053333889779990967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1979068278673981440",
+              "start": 3,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053333889779990967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048412804332527786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orange219695619: 请不要在春天自杀，因为紫藤曾绚烂了嶙峋的树木\n请不要在夏天自杀，因为栀子花还包裹着夜的星辰\n请不要在秋天自杀，因为落叶尚存碎阳触留的余温\n请不要在冬天自杀，因为雪松仍讴歌那自由的朔风"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2048412804332527786",
+        "created_at": "2026-04-26T14:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048412804332527786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048412804332527786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 655,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "请不要在春天自杀，因为紫藤曾绚烂了嶙峋的树木\n请不要在夏天自杀，因为栀子花还包裹着夜的星辰\n请不要在秋天自杀，因为落叶尚存碎阳触留的余温\n请不要在冬天自杀，因为雪松仍讴歌那自由的朔风"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 997,
+          "like_count": 3851,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 952
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 99,
+          "like_count": 2582,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2605
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

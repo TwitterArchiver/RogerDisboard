@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2056693255874744719",
+    "created_at": "2026-05-19T16:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056771614596063652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1872705536321282048",
+          "start": 0,
+          "username": "guanljjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056771614596063652",
+    "in_reply_to_user_id": "1872705536321282048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056693255874744719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanljjj 恭喜喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2056693255874744719",
+        "created_at": "2026-05-19T16:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056771614596063652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1872705536321282048",
+              "start": 0,
+              "username": "guanljjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056771614596063652",
+        "in_reply_to_user_id": "1872705536321282048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056693255874744719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanljjj 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872705536321282048",
+        "conversation_id": "2056693255874744719",
+        "created_at": "2026-05-19T11:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056693255874744719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056693255874744719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1276,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我终于100粉丝了。太好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 857,
+          "like_count": 5272,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1195
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T18:06:18.000Z",
+        "description": "我是一个08的小女孩。请善待我。谢谢你",
+        "id": "1872705536321282048",
+        "name": "rukaaa",
+        "pinned_tweet_id": "2050617179394195510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049096214852128768/lL4lUfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 37,
+          "like_count": 713,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 214
+        },
+        "username": "guanljjj",
+        "verified": false
+      }
+    ]
+  }
+}

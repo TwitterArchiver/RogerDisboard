@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2047607350106927389",
+    "created_at": "2026-04-24T14:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047690297640095877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047601862422208512",
+          "start": 0,
+          "username": "QianQian_FanQie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047690297640095877",
+    "in_reply_to_user_id": "2047601862422208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047607350106927389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_FanQie ？！强强！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2047607342062313472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqQB2cbIAA4u1-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2047607350106927389",
+        "created_at": "2026-04-24T14:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047690297640095877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047601862422208512",
+              "start": 0,
+              "username": "QianQian_FanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047690297640095877",
+        "in_reply_to_user_id": "2047601862422208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047607350106927389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_FanQie ？！强强！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047607342062313472"
+          ]
+        },
+        "author_id": "2047601862422208512",
+        "conversation_id": "2047607350106927389",
+        "created_at": "2026-04-24T09:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047607350106927389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNw5GbHbib",
+              "end": 41,
+              "expanded_url": "https://x.com/QianQian_FanQie/status/2047607350106927389/photo/1",
+              "media_key": "3_2047607342062313472",
+              "start": 18,
+              "url": "https://t.co/mNw5GbHbib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047607350106927389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 991,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋——凱旋歸來！\n——七代目—— https://t.co/mNw5GbHbib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 511,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 258
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T09:01:56.000Z",
+        "description": "這裏是操蛋七代目——可以叫我芊芊！\n11年 順女 LGBTQ全友好 互關尋回 \nmsk頭號夢女",
+        "id": "2047601862422208512",
+        "location": "🚪",
+        "name": "芊芊芊芊芊芊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047604629802995712/zLAGZYl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 9,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "QianQian_FanQie",
+        "verified": false
+      }
+    ]
+  }
+}

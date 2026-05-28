@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2055573160184209877",
+    "created_at": "2026-05-16T09:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055574021383798919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055574021383798919",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055573160184209877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan 不要走..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055572783489576960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbcjkHbcAAUs30.jpg",
+        "width": 907
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055572890888925184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbcp0NbcAAHiHX.jpg",
+        "width": 907
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055573035537842177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbcyPEawAEUGqk.jpg",
+        "width": 907
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055573127896432640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbc3nIbAAAHHBL.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2055573160184209877",
+        "created_at": "2026-05-16T09:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055574021383798919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055574021383798919",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055573160184209877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 不要走..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055572783489576960",
+            "3_2055572890888925184",
+            "3_2055573035537842177",
+            "3_2055573127896432640"
+          ]
+        },
+        "author_id": "1748064252521545731",
+        "conversation_id": "2055573160184209877",
+        "created_at": "2026-05-16T08:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055573160184209877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcez0j2NRT",
+              "end": 36,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2055573160184209877/photo/1",
+              "media_key": "3_2055572783489576960",
+              "start": 13,
+              "url": "https://t.co/wcez0j2NRT"
+            },
+            {
+              "display_url": "pic.x.com/wcez0j2NRT",
+              "end": 36,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2055573160184209877/photo/1",
+              "media_key": "3_2055572890888925184",
+              "start": 13,
+              "url": "https://t.co/wcez0j2NRT"
+            },
+            {
+              "display_url": "pic.x.com/wcez0j2NRT",
+              "end": 36,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2055573160184209877/photo/1",
+              "media_key": "3_2055573035537842177",
+              "start": 13,
+              "url": "https://t.co/wcez0j2NRT"
+            },
+            {
+              "display_url": "pic.x.com/wcez0j2NRT",
+              "end": 36,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2055573160184209877/photo/1",
+              "media_key": "3_2055573127896432640",
+              "start": 13,
+              "url": "https://t.co/wcez0j2NRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055573160184209877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克是真想让我走……… https://t.co/wcez0j2NRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2055293038222774543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 889,
+          "like_count": 4721,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1098
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "你好 我是紫色章鱼（叫我章鱼）\n我希望@Aureliax17QwQ 活下去 大家帮帮我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2055364824901841049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 459,
+          "like_count": 3175,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 3320
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

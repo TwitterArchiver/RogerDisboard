@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2049135262496911360"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2049135300421804417",
+    "created_at": "2026-04-28T14:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049135300421804417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vw0BmsCulC",
+          "end": 53,
+          "expanded_url": "https://x.com/RogerDisboard/status/2049135300421804417/photo/1",
+          "media_key": "16_2049135262496911360",
+          "start": 30,
+          "url": "https://t.co/vw0BmsCulC"
+        },
+        {
+          "display_url": "x.com/rogerdisboard/…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/rogerdisboard/status/2049086063948550162",
+          "start": 54,
+          "url": "https://t.co/z6k4vX8MUa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049135300421804417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049086063948550162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们肯定都看到了吧\n为什么不在我刷推的时候让我去学习... https://t.co/vw0BmsCulC https://t.co/z6k4vX8MUa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049135300421804417].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049135300421804417",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049135300421804417"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2049135262496911360",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HG_9qhna8AAx4n1.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HG_9qhna8AAx4n1.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 500,
+        "media_key": "16_2049085997628223488",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HG_Q27rbcAAukUn.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HG_Q27rbcAAukUn.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2049085997628223488"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2049086063948550162",
+        "created_at": "2026-04-28T11:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049086063948550162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMyI4DhuZS",
+              "end": 57,
+              "expanded_url": "https://x.com/RogerDisboard/status/2049086063948550162/photo/1",
+              "media_key": "16_2049085997628223488",
+              "start": 34,
+              "url": "https://t.co/jMyI4DhuZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049086063948550162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于考试原因，直到五一我都不会再上推\n如果有人看到我上推请把我赶走 https://t.co/jMyI4DhuZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 667,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 435
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

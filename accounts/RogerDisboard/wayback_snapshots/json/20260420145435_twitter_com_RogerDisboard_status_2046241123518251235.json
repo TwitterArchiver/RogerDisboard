@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2046241099786924032"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2046185133812965725",
+    "created_at": "2026-04-20T14:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046241123518251235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883117066812882944",
+          "start": 0,
+          "username": "jituiroubaogu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LSyX30Kjam",
+          "end": 38,
+          "expanded_url": "https://x.com/RogerDisboard/status/2046241123518251235/photo/1",
+          "media_key": "16_2046241099786924032",
+          "start": 15,
+          "url": "https://t.co/LSyX30Kjam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046241123518251235",
+    "in_reply_to_user_id": "1883117066812882944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046185133812965725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jituiroubaogu https://t.co/LSyX30Kjam"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046241123518251235].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046241123518251235",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046241123518251235"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2046241099786924032",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGW1cFWasAAKJ6E.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGW1cFWasAAKJ6E.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2046185133812965725",
+        "created_at": "2026-04-20T11:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046185133812965725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046185133812965725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在没囤货还爱磕普瑞的只能喝自己的尿了。好悲催。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 376,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 174
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 383,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052769637620912143",
+    "created_at": "2026-05-08T15:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052769637620912143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rogerdisboard/…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/rogerdisboard/status/2052518646380204190",
+          "start": 41,
+          "url": "https://t.co/rEOVgoZlCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052769637620912143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052518646380204190",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或许我永远都不能面对死亡\n因而我会阻止别人走向死亡\n即便这干扰了他们的流向... https://t.co/rEOVgoZlCM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052769637620912143",
+        "created_at": "2026-05-08T15:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052769637620912143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rogerdisboard/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/rogerdisboard/status/2052518646380204190",
+              "start": 41,
+              "url": "https://t.co/rEOVgoZlCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052769637620912143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052518646380204190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许我永远都不能面对死亡\n因而我会阻止别人走向死亡\n即便这干扰了他们的流向... https://t.co/rEOVgoZlCM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052518646380204190",
+        "created_at": "2026-05-07T22:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T23:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052518646380204190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052518646380204190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌影视作品中的死亡\n死亡并非是语言，声音或是图像就能描述的廉价之物\n可以大部分人意识不到..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/不o不割不健全/友跨/妄想成为心理委员/守护他人的决意/查成分互fo/欢迎私信/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2052040284293460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 901,
+          "like_count": 3325,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 861
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

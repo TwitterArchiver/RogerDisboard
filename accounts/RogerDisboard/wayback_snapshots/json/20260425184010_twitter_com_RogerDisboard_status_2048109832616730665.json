@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2048109832616730665",
+    "created_at": "2026-04-25T18:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048109832616730665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1946593949180993536",
+          "start": 9,
+          "username": "RogerDisboard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/shioochicqwq/s…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/shioochicqwq/status/2048107610193510502",
+          "start": 81,
+          "url": "https://t.co/ubnJjtlFfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048109832616730665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048107610193510502",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么你应该关注我@RogerDisboard \n\n1.我不靠推文流量赚钱，因为我没有蓝V\n2.我有很多梗图可以和你分享\n3.我不会随便骚扰你\n4.我是动漫头像 https://t.co/ubnJjtlFfk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2048109832616730665",
+        "created_at": "2026-04-25T18:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048109832616730665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1946593949180993536",
+              "start": 9,
+              "username": "RogerDisboard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/shioochicqwq/s…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/shioochicqwq/status/2048107610193510502",
+              "start": 81,
+              "url": "https://t.co/ubnJjtlFfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048109832616730665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048107610193510502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么你应该关注我@RogerDisboard \n\n1.我不靠推文流量赚钱，因为我没有蓝V\n2.我有很多梗图可以和你分享\n3.我不会随便骚扰你\n4.我是动漫头像 https://t.co/ubnJjtlFfk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2048107610193510502",
+        "created_at": "2026-04-25T18:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048107610193510502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2033160782687731712",
+              "start": 9,
+              "username": "Shioochicqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fly_in_X/statu…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/fly_in_X/status/2048100721724371297",
+              "start": 105,
+              "url": "https://t.co/jaw0Z3Lk6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048107610193510502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048100721724371297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么你应该关注我@Shioochicqwq\n\n1.  我不靠推文流量赚钱，至今没领老马低保\n2. 我是新手蓝V，但我的屎流量尚可\n3. 我会把一堆猎奇的屎搬到你的timeline上给你吃\n4. 我是动漫头像 https://t.co/jaw0Z3Lk6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 590,
+          "like_count": 1092,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 339
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "#蓝v互关｜小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "蓝v互关"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1178,
+          "like_count": 3073,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2051290708338975062",
+    "created_at": "2026-05-04T13:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051290708338975062"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051290708338975062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今晚在朋友家剧烈地o了烧烤花甲和饮料\n以及超级美味的方便面煮饺子\n我说吃饺子一定要蘸方便面汤✋😋🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2051290708338975062",
+        "created_at": "2026-05-04T13:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051290708338975062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051290708338975062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚在朋友家剧烈地o了烧烤花甲和饮料\n以及超级美味的方便面煮饺子\n我说吃饺子一定要蘸方便面汤✋😋🤚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 822,
+          "like_count": 2706,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 735
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

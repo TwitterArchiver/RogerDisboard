@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2046262751627235342",
+    "created_at": "2026-04-20T16:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046262751627235342"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046262751627235342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这里是自介\n我是Roger，称呼请随意（我不介意）\n性别是abnormality\n2008.09.03.\n高二，不回信息是因为在学校（\n不o不割不健全，心理阴暗\n全部立场中立，友跨\n超绝术力口，最爱MARETU\n还在等NGNL第二季...\n只玩月计三部曲及单机游戏\n互fo大欢迎\n有其他问题可以在这里询问（除了不想回答的都会回答～）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2046262751627235342",
+        "created_at": "2026-04-20T16:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046262751627235342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046262751627235342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是自介\n我是Roger，称呼请随意（我不介意）\n性别是abnormality\n2008.09.03.\n高二，不回信息是因为在学校（\n不o不割不健全，心理阴暗\n全部立场中立，友跨\n超绝术力口，最爱MARETU\n还在等NGNL第二季...\n只玩月计三部曲及单机游戏\n互fo大欢迎\n有其他问题可以在这里询问（除了不想回答的都会回答～）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 379,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 180
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

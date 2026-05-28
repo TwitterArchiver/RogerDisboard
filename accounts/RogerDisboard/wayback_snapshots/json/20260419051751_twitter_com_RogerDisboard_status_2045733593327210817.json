@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045733582233337856"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2045733593327210817",
+    "created_at": "2026-04-19T05:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045733593327210817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qyIHocSrRq",
+          "end": 56,
+          "expanded_url": "https://x.com/RogerDisboard/status/2045733593327210817/photo/1",
+          "media_key": "3_2045733582233337856",
+          "start": 33,
+          "url": "https://t.co/qyIHocSrRq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045733593327210817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经过严谨认真的考量我决定写个自介的帖子置顶，有没有人教教我怎么写 https://t.co/qyIHocSrRq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045733593327210817].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045733593327210817",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045733593327210817"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2045733582233337856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPn2rIbAAAbwTT.jpg",
+        "width": 1079
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 338,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 147
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

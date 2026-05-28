@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2050914477030388011",
+    "created_at": "2026-05-03T14:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050946309797130532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013517011729465344",
+          "start": 0,
+          "username": "RfbxaUauj41685"
+        },
+        {
+          "end": 24,
+          "id": "1546104577161760768",
+          "start": 16,
+          "username": "R0y0o0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050946309797130532",
+    "in_reply_to_user_id": "2013517011729465344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050914477030388011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RfbxaUauj41685 @R0y0o0u 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2050914477030388011",
+        "created_at": "2026-05-03T14:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050946309797130532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013517011729465344",
+              "start": 0,
+              "username": "RfbxaUauj41685"
+            },
+            {
+              "end": 24,
+              "id": "1546104577161760768",
+              "start": 16,
+              "username": "R0y0o0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050946309797130532",
+        "in_reply_to_user_id": "2013517011729465344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050914477030388011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RfbxaUauj41685 @R0y0o0u 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013517011729465344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2050914477030388011",
+        "created_at": "2026-05-03T12:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050914477030388011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050914477030388011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 635,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "竟然已经到200fo了，继续开个奖吧\n\n一等奖：普瑞巴林（折现17）\n二等奖：5.2r红包\n\n点赞关注转发即可🐱\n\n5.5号grok开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 806,
+          "like_count": 2402,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 670
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T07:40:54.000Z",
+        "description": "男/mtx 前世：@rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 0,
+                "url": "https://t.co/nif78SR5wo"
+              }
+            ]
+          }
+        },
+        "id": "2013517011729465344",
+        "name": "洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 86,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/nif78SR5wo",
+        "username": "RfbxaUauj41685",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T12:11:13.000Z",
+        "description": "单机｜❤️→@Monika13145201｜裏垢→@moep89677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "Monika13145201"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "moep89677"
+              }
+            ]
+          }
+        },
+        "id": "1546104577161760768",
+        "location": "Suisei",
+        "name": "Ryou",
+        "pinned_tweet_id": "2003518084133585011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003510168538210305/EGadh2x3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 356,
+          "like_count": 6886,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 7993
+        },
+        "username": "R0y0o0u",
+        "verified": false
+      }
+    ]
+  }
+}

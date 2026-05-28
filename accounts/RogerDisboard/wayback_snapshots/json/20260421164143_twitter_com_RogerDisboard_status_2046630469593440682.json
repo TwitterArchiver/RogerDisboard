@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2046630469593440682",
+    "created_at": "2026-04-21T16:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046630469593440682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1959892946926649344",
+          "start": 3,
+          "username": "Kiss_Yu_Forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046630469593440682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046283913149247532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kiss_Yu_Forever: 直接抽了得了95fo四舍五入一下也是100\n钱放钱包里就不得劲 点赞评论转发都🉑\n周四开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2046630469593440682",
+        "created_at": "2026-04-21T16:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046630469593440682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1959892946926649344",
+              "start": 3,
+              "username": "Kiss_Yu_Forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046630469593440682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046283913149247532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kiss_Yu_Forever: 直接抽了得了95fo四舍五入一下也是100\n钱放钱包里就不得劲 点赞评论转发都🉑\n周四开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959892946926649344",
+        "conversation_id": "2046283913149247532",
+        "created_at": "2026-04-20T17:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046283913149247532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiss_yu_foreve…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/kiss_yu_forever/status/2044120480773484948",
+              "start": 46,
+              "url": "https://t.co/AWfC0Vfysy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046283913149247532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2822,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044120480773484948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "直接抽了得了95fo四舍五入一下也是100\n钱放钱包里就不得劲 点赞评论转发都🉑\n周四开奖 https://t.co/AWfC0Vfysy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 441,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 213
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:17:58.000Z",
+        "description": "幸福请降临小妤手心",
+        "id": "1959892946926649344",
+        "location": "我的床",
+        "name": "春刻雨🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025647411516063744/3qa8UBjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 350,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 713
+        },
+        "username": "Kiss_Yu_Forever",
+        "verified": false
+      }
+    ]
+  }
+}

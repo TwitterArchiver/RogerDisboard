@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2053286201961091354",
+    "created_at": "2026-05-10T01:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053287765044076553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042786439738327042",
+          "start": 0,
+          "username": "tiancun520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053287765044076553",
+    "in_reply_to_user_id": "2042786439738327042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053286201961091354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiancun520 抱抱你\n帮助别人要先保证自己的精神状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2053286201961091354",
+        "created_at": "2026-05-10T01:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053287765044076553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042786439738327042",
+              "start": 0,
+              "username": "tiancun520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053287765044076553",
+        "in_reply_to_user_id": "2042786439738327042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053286201961091354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancun520 抱抱你\n帮助别人要先保证自己的精神状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042786439738327042",
+        "conversation_id": "2053286201961091354",
+        "created_at": "2026-05-10T01:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053286201961091354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053286201961091354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记录点1\n在坚持了三天后我发现，，尊重他人命运吧，对于不可能拯救的家伙，我估计我就算给他资助也最多是为了他增添一些od自杀的添头。不过我不会放弃拯救其他任何人的，只是我确实不应该有那么大的情感投入，这一次是我栽在里面了。下次对于无可救药的偏执我一定注意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/守护他人的决意/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 93,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 992,
+          "like_count": 3812,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 950
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T02:07:11.000Z",
+        "description": "",
+        "id": "2042786439738327042",
+        "name": "田村",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042787304880902146/ew9715TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 202,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 169
+        },
+        "username": "tiancun520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045874808462983168"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2045749168992661724",
+    "created_at": "2026-04-19T14:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045874813324173358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DiiCG0Byqg",
+          "end": 38,
+          "expanded_url": "https://x.com/RogerDisboard/status/2045874813324173358/photo/1",
+          "media_key": "3_2045874808462983168",
+          "start": 15,
+          "url": "https://t.co/DiiCG0Byqg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045874813324173358",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045749168992661724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ https://t.co/DiiCG0Byqg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045874813324173358].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045874813324173358",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045874813324173358"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2045874808462983168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRoTH1bQAAt6Jh.jpg",
+        "width": 654
+      },
+      {
+        "height": 1107,
+        "media_key": "3_2045749159068946433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGP2BXXb0AEUejj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045749159068946433"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2045749168992661724",
+        "created_at": "2026-04-19T06:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045749168992661724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyXca1ibxk",
+              "end": 23,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2045749168992661724/photo/1",
+              "media_key": "3_2045749159068946433",
+              "start": 0,
+              "url": "https://t.co/XyXca1ibxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045749168992661724",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8958,
+          "like_count": 176,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XyXca1ibxk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 339,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 156
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 649,
+          "like_count": 6430,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 1779
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2051707259382898908",
+    "created_at": "2026-05-05T17:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051709931255140508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1691382703654883328",
+          "start": 0,
+          "username": "Deadsoul790"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051709931255140508",
+    "in_reply_to_user_id": "1691382703654883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051707259382898908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deadsoul790 澳洲有鸭嘴兽喵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2051707259382898908",
+        "created_at": "2026-05-05T17:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051709931255140508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1691382703654883328",
+              "start": 0,
+              "username": "Deadsoul790"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051709931255140508",
+        "in_reply_to_user_id": "1691382703654883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051707259382898908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deadsoul790 澳洲有鸭嘴兽喵？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691382703654883328",
+        "conversation_id": "2051707259382898908",
+        "created_at": "2026-05-05T16:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051707259382898908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051707259382898908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之后去印尼和澳洲的时候一定要看看有没有鸭嘴兽.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 845,
+          "like_count": 2932,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 794
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:34:12.000Z",
+        "description": "从死去天使的灵魂开始，大家好，我从冥界杀回来了\n死也在所不惜\n与生生不息，小号@livingthing790会发一些我的蛇\n重度爬行动物爱好者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "livingthing790"
+              }
+            ]
+          }
+        },
+        "id": "1691382703654883328",
+        "location": "In your dream",
+        "name": "SouL",
+        "pinned_tweet_id": "2051254814089306545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045101732326436864/AAWpmd-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 407,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 488
+        },
+        "username": "Deadsoul790",
+        "verified": false
+      }
+    ]
+  }
+}

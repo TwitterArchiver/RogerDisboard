@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2050434399284707791",
+    "created_at": "2026-05-02T05:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050440760051245216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        },
+        {
+          "end": 18,
+          "id": "2012423737887379456",
+          "start": 10,
+          "username": "Xzz__64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050440760051245216",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050434399284707791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu @Xzz__64 升天！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2050434399284707791",
+        "created_at": "2026-05-02T05:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050440760051245216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            },
+            {
+              "end": 18,
+              "id": "2012423737887379456",
+              "start": 10,
+              "username": "Xzz__64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050440760051245216",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050434399284707791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu @Xzz__64 升天！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2050434399284707791",
+        "created_at": "2026-05-02T04:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050434399284707791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050434399284707791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有什么办法可以摆脱社交呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 775,
+          "like_count": 1940,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 574
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 540,
+          "like_count": 10176,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 3953
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T07:16:35.000Z",
+        "description": "生在春风中，活在药效里\nMTX🏳️‍⚧️｜无证含糖ing🍥｜HRT2024.1｜💊Oder｜INFP-T🦋｜怕疼不自残｜摆烂高中生🏫｜喜互fo🤗",
+        "id": "2012423737887379456",
+        "location": "幻境里",
+        "name": "序章MuKe__🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047981238959722496/_ZLFlv0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 131,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 153
+        },
+        "username": "Xzz__64",
+        "verified": false
+      }
+    ]
+  }
+}

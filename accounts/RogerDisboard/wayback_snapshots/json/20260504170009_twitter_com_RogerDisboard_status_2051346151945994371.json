@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051346131175747585"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2051346151945994371",
+    "created_at": "2026-05-04T17:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051346151945994371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 38,
+          "id": "1546104577161760768",
+          "start": 30,
+          "username": "R0y0o0u"
+        },
+        {
+          "end": 48,
+          "id": "1842108263950909444",
+          "start": 40,
+          "username": "zeraqwq"
+        },
+        {
+          "end": 59,
+          "id": "1781510736000274432",
+          "start": 50,
+          "username": "huantim1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zaX9RO2qLd",
+          "end": 186,
+          "expanded_url": "https://x.com/RogerDisboard/status/2051346151945994371/photo/1",
+          "media_key": "3_2051346131175747585",
+          "start": 163,
+          "url": "https://t.co/zaX9RO2qLd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051346151945994371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好了因为已经是5月5日所以我要开奖了\n那么恭喜以下中奖者：\n@R0y0o0u \n@zeraqwq \n@huantim1 \n请中奖者看到这条帖子或者我的私信后联系我\n没有中奖也请不要灰心，400fo会进行下一次抽奖的（如果我还有钱的话\n对结果有意见者一律去问罪grok\n最后再度感谢我的所有followers，感谢你们的陪伴！ https://t.co/zaX9RO2qLd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051346151945994371].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051346151945994371",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051346151945994371"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051346131175747585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfYcBQaMAE_il6.jpg",
+        "width": 946
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 822,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 742
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T12:11:13.000Z",
+        "description": "单机｜❤️→@Monika13145201｜裏垢→@moep89677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "Monika13145201"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "moep89677"
+              }
+            ]
+          }
+        },
+        "id": "1546104577161760768",
+        "location": "Suisei",
+        "name": "Ryou",
+        "pinned_tweet_id": "2003518084133585011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003510168538210305/EGadh2x3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 357,
+          "like_count": 6890,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 8010
+        },
+        "username": "R0y0o0u",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T07:43:36.000Z",
+        "description": "铃音的信徒，仅此而已",
+        "id": "1842108263950909444",
+        "location": "挪威",
+        "name": "lain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009952444625858560/7q9VHSbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 144,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 148
+        },
+        "username": "zeraqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n是mtx 无性恋\n成分正常的来互fo喵\n上海某高一牲\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huantim",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huantim",
+                "start": 0,
+                "url": "https://t.co/4Um5sVuC41"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮纱",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 706,
+          "like_count": 51306,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 4581
+        },
+        "url": "https://t.co/4Um5sVuC41",
+        "username": "huantim1",
+        "verified": false
+      }
+    ]
+  }
+}

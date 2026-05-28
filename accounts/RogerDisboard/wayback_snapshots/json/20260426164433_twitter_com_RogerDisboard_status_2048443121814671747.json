@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2048441852685427184",
+    "created_at": "2026-04-26T16:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048443121814671747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974227961273516032",
+          "start": 0,
+          "username": "zomerm40696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048443121814671747",
+    "in_reply_to_user_id": "1974227961273516032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048441852685427184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zomerm40696 这必须支持了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2048441852685427184",
+        "created_at": "2026-04-26T16:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048443121814671747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974227961273516032",
+              "start": 0,
+              "username": "zomerm40696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048443121814671747",
+        "in_reply_to_user_id": "1974227961273516032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048441852685427184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zomerm40696 这必须支持了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974227961273516032",
+        "conversation_id": "2048441852685427184",
+        "created_at": "2026-04-26T16:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048441852685427184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048441852685427184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "支持中层一家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 635,
+          "like_count": 1317,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 384
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T21:40:18.000Z",
+        "description": "不好意思月亮计划把我cp养得很好😘\n20↑ | 🇨🇳 | CN＆EN | \nPM  LCB 🎠🐥（左右无意义） ＆  LC/LOR ❤️💙\n3L🆗 | 群像👍 | 🚫AI | 不擅长外语 将使用机器翻译和手动修改 | 发言夸张 | 随便放一点图和碎碎念^ ^ | 无言关注致歉",
+        "id": "1974227961273516032",
+        "name": "Zomerm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036476285900431362/fbjJzJsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 77,
+          "like_count": 5053,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 2465
+        },
+        "username": "zomerm40696",
+        "verified": false
+      }
+    ]
+  }
+}

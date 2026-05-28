@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052723751649964357",
+    "created_at": "2026-05-08T14:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052763227134812237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2052715157453975552",
+          "start": 0,
+          "username": "MSDARE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052763227134812237",
+    "in_reply_to_user_id": "2052715157453975552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052723751649964357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MSDARE 光之种！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052723751649964357",
+        "created_at": "2026-05-08T14:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052763227134812237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2052715157453975552",
+              "start": 0,
+              "username": "MSDARE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052763227134812237",
+        "in_reply_to_user_id": "2052715157453975552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052723751649964357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MSDARE 光之种！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052715157453975552",
+        "conversation_id": "2052723751649964357",
+        "created_at": "2026-05-08T12:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052723751649964357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052723751649964357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人理我吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/不o不割不健全/友跨/妄想成为心理委员/守护他人的决意/查成分互fo/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2052040284293460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 898,
+          "like_count": 3306,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 860
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T11:44:04.000Z",
+        "description": "某人的小号（",
+        "id": "2052715157453975552",
+        "name": "MS-DARE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052716570418589696/eOMq3A_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 12,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "MSDARE",
+        "verified": false
+      }
+    ]
+  }
+}

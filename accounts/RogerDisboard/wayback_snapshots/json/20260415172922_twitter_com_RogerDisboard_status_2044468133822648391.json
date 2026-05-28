@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2044468133822648391",
+    "created_at": "2026-04-15T17:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T18:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044468133822648391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044468133822648391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044387151404839321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 对潜在的扭转机构受害者的建议\n\n1:以现有反扭转体系最难的不是部署救援而是我们不知道你在哪\n没法部署\n通常这意味着调查你在哪就要花掉一大笔钱与时间\n请至少佩戴一个除手机外的定位设备藏于身上并把权限给予你的朋友们\n如你遭遇不测\n请让他把位…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2044468133822648391",
+        "created_at": "2026-04-15T17:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044468133822648391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044468133822648391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044387151404839321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 对潜在的扭转机构受害者的建议\n\n1:以现有反扭转体系最难的不是部署救援而是我们不知道你在哪\n没法部署\n通常这意味着调查你在哪就要花掉一大笔钱与时间\n请至少佩戴一个除手机外的定位设备藏于身上并把权限给予你的朋友们\n如你遭遇不测\n请让他把位…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2044387151404839321",
+        "created_at": "2026-04-15T12:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044387151404839321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044387151404839321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5487,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "对潜在的扭转机构受害者的建议\n\n1:以现有反扭转体系最难的不是部署救援而是我们不知道你在哪\n没法部署\n通常这意味着调查你在哪就要花掉一大笔钱与时间\n请至少佩戴一个除手机外的定位设备藏于身上并把权限给予你的朋友们\n如你遭遇不测\n请让他把位置给我们\n接下来放轻松\n你的所有问题将会在一周内解决"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "RogerDISBOARD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 249,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 70
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 2565,
+          "like_count": 2623,
+          "listed_count": 16,
+          "media_count": 398,
+          "tweet_count": 2657
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

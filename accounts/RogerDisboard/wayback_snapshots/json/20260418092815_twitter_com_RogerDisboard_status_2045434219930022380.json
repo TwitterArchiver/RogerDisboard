@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2044935622692098158",
+    "created_at": "2026-04-18T09:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045434219930022380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "721380109110743040",
+          "start": 0,
+          "username": "FateBringer7414"
+        },
+        {
+          "end": 24,
+          "id": "1613079089879076864",
+          "start": 17,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045434219930022380",
+    "in_reply_to_user_id": "721380109110743040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045278869620740188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FateBringer7414 @Cldeop 牌佬无处不在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2044935622692098158",
+        "created_at": "2026-04-18T09:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045434219930022380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "721380109110743040",
+              "start": 0,
+              "username": "FateBringer7414"
+            },
+            {
+              "end": 24,
+              "id": "1613079089879076864",
+              "start": 17,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045434219930022380",
+        "in_reply_to_user_id": "721380109110743040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045278869620740188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FateBringer7414 @Cldeop 牌佬无处不在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "721380109110743040",
+        "conversation_id": "2044935622692098158",
+        "created_at": "2026-04-17T23:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045278869620740188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045278869620740188",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044935622692098158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop link怪:繼續說我在聽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "RogerDISBOARD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 299,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 108
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-16T16:49:55.000Z",
+        "description": "",
+        "id": "721380109110743040",
+        "location": "Taiwan",
+        "name": "TypeName",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465141206493822978/jvShPRK3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 425
+        },
+        "username": "FateBringer7414",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2044637893025787952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101143,
+          "following_count": 759,
+          "like_count": 36225,
+          "listed_count": 281,
+          "media_count": 17723,
+          "tweet_count": 25482
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

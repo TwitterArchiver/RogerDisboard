@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2049371169586098471",
+    "created_at": "2026-04-29T09:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049424256560144848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        },
+        {
+          "end": 28,
+          "id": "1691382703654883328",
+          "start": 16,
+          "username": "Deadsoul790"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049424256560144848",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049371169586098471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite @Deadsoul790 恭喜喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2049371169586098471",
+        "created_at": "2026-04-29T09:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049424256560144848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 28,
+              "id": "1691382703654883328",
+              "start": 16,
+              "username": "Deadsoul790"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049424256560144848",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049371169586098471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite @Deadsoul790 恭喜喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2049371169586098471",
+        "created_at": "2026-04-29T06:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049371169586098471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049371169586098471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2061,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 75,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "17的1700fo抽奖来了\n\n这次抽17个人送17r\n\n参与方式:关注+转帖+评论+点赞\n\n开奖时间:5月17日\n到时候我私信+艾特中奖的同学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 678,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 440
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/全部回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2047630049654796665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 1414,
+          "like_count": 3807,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:34:12.000Z",
+        "description": "从死去天使的灵魂开始，大家好，我从冥界杀回来了\n死也在所不惜\n与生生不息，小号@livingthing790会发一些我的蛇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "livingthing790"
+              }
+            ]
+          }
+        },
+        "id": "1691382703654883328",
+        "location": "In your dream",
+        "name": "SouL",
+        "pinned_tweet_id": "2049305793875599747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045101732326436864/AAWpmd-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 403,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 375
+        },
+        "username": "Deadsoul790",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048414251270971392"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2048371127106617508",
+    "created_at": "2026-04-26T14:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048414256052449409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1575476904",
+          "start": 0,
+          "username": "tsukuba_0623"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GMYm88SNs7",
+          "end": 43,
+          "expanded_url": "https://x.com/RogerDisboard/status/2048414256052449409/photo/1",
+          "media_key": "3_2048414251270971392",
+          "start": 20,
+          "url": "https://t.co/GMYm88SNs7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048414256052449409",
+    "in_reply_to_user_id": "1575476904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048371127106617508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsukuba_0623 终末鸟警告 https://t.co/GMYm88SNs7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048414256052449409].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048414256052449409",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048414256052449409"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 326,
+        "media_key": "3_2048414251270971392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1t6JfaoAA2RRn.jpg",
+        "width": 314
+      },
+      {
+        "height": 2150,
+        "media_key": "3_2048371107296944128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1Gq1qboAAEwem.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048371107296944128"
+          ]
+        },
+        "author_id": "1575476904",
+        "conversation_id": "2048371127106617508",
+        "created_at": "2026-04-26T11:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048371127106617508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bI20Nxxu4x",
+              "end": 35,
+              "expanded_url": "https://x.com/tsukuba_0623/status/2048371127106617508/photo/1",
+              "media_key": "3_2048371107296944128",
+              "start": 12,
+              "url": "https://t.co/bI20Nxxu4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048371127106617508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 13210,
+          "like_count": 628,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "最近很流行的那個NTR https://t.co/bI20Nxxu4x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 623,
+          "like_count": 1239,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 364
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-07T16:12:46.000Z",
+        "description": "★ブルアカ★グラブル★プロセ力★アークナイツ* 成人済🔞 【有委託需求可私訊】聯繫方式：電子郵件、推特私訊或DC 翻譯OK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=5796114",
+                "start": 0,
+                "url": "https://t.co/YQ2bve4Qjc"
+              }
+            ]
+          }
+        },
+        "id": "1575476904",
+        "location": "Taiwan",
+        "name": "筑波@小老師的ATM🫐",
+        "pinned_tweet_id": "1671738583491948544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980799296946495488/59zEEGm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18688,
+          "following_count": 1083,
+          "like_count": 24807,
+          "listed_count": 72,
+          "media_count": 7853,
+          "tweet_count": 19768
+        },
+        "url": "https://t.co/YQ2bve4Qjc",
+        "username": "tsukuba_0623",
+        "verified": true
+      }
+    ]
+  }
+}

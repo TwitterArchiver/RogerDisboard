@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051204080408956928"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2051191595316154631",
+    "created_at": "2026-05-04T07:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T08:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051204092169707956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2012423737887379456",
+          "start": 0,
+          "username": "Xzz__64"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7qyuz7Ou2x",
+          "end": 32,
+          "expanded_url": "https://x.com/RogerDisboard/status/2051204092169707956/photo/1",
+          "media_key": "3_2051204080408956928",
+          "start": 9,
+          "url": "https://t.co/7qyuz7Ou2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051204092169707956",
+    "in_reply_to_user_id": "2012423737887379456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051191595316154631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xzz__64 https://t.co/7qyuz7Ou2x"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051204092169707956].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051204092169707956",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051204092169707956"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2051204080408956928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdXPk6bkAASlAS.jpg",
+        "width": 507
+      },
+      {
+        "duration_ms": 10976,
+        "height": 720,
+        "media_key": "13_2051191358623260672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051191358623260672/img/3oSbyUKb58rCdTjl.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051191358623260672/vid/avc1/480x270/nAxa5VL1_iVsGbVo.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051191358623260672/vid/avc1/640x360/7e-o8LzMhpgBsL2X.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051191358623260672/vid/avc1/1280x720/BMC6lkqFN7sxGdVu.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051191358623260672/pl/-A1tAbOMG5nKeBSS.m3u8?tag=27"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2051191358614839296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdLrEiWoAA-0Bh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2051191358627487744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdLrElXoAAH6i8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051191358623260672",
+            "3_2051191358614839296",
+            "3_2051191358627487744"
+          ]
+        },
+        "author_id": "2012423737887379456",
+        "conversation_id": "2051191595316154631",
+        "created_at": "2026-05-04T06:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051191595316154631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnfkIHE7R5",
+              "end": 70,
+              "expanded_url": "https://x.com/Xzz__64/status/2051191595316154631/video/1",
+              "media_key": "13_2051191358623260672",
+              "start": 47,
+              "url": "https://t.co/xnfkIHE7R5"
+            },
+            {
+              "display_url": "pic.x.com/xnfkIHE7R5",
+              "end": 70,
+              "expanded_url": "https://x.com/Xzz__64/status/2051191595316154631/video/1",
+              "media_key": "3_2051191358614839296",
+              "start": 47,
+              "url": "https://t.co/xnfkIHE7R5"
+            },
+            {
+              "display_url": "pic.x.com/xnfkIHE7R5",
+              "end": 70,
+              "expanded_url": "https://x.com/Xzz__64/status/2051191595316154631/video/1",
+              "media_key": "3_2051191358627487744",
+              "start": 47,
+              "url": "https://t.co/xnfkIHE7R5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051191595316154631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "激流勇进好玩呐\n可惜最大水花怎么没拍到\n（水花太大了 蛋蛋都被弄湿了呢呜呜\n(T ^ T)） https://t.co/xnfkIHE7R5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 813,
+          "like_count": 2614,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 709
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T07:16:35.000Z",
+        "description": "生在春风中，活在药效里\nMTX🏳️‍⚧️｜无证含糖ing🍥｜HRT2024.1｜💊Oder｜INFP-T🦋｜怕疼不自残｜摆烂高中生🏫｜喜互fo🤗",
+        "id": "2012423737887379456",
+        "location": "幻境里",
+        "name": "序章MuKe__🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047981238959722496/_ZLFlv0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 188,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 219
+        },
+        "username": "Xzz__64",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045883161947906049"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045783794100396085",
+    "created_at": "2026-04-19T15:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045883166762979379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1236130419734532097",
+          "start": 0,
+          "username": "Inori_404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xWViJJK7sx",
+          "end": 34,
+          "expanded_url": "https://x.com/RogerDisboard/status/2045883166762979379/photo/1",
+          "media_key": "3_2045883161947906049",
+          "start": 11,
+          "url": "https://t.co/xWViJJK7sx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045883166762979379",
+    "in_reply_to_user_id": "1236130419734532097",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045783794100396085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inori_404 https://t.co/xWViJJK7sx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045883166762979379].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045883166762979379",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045883166762979379"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2045883161947906049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRv5W_boAEjdzt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236130419734532097",
+        "conversation_id": "2045783794100396085",
+        "created_at": "2026-04-19T08:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045783794100396085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045783794100396085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3466,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "本人没玩过边狱巴士，对于你们这种痴迷于虚拟角色的行为我很是不理解。我感觉应该分清现实和虚拟，他们好看归好看，但是终究不是真实存在的，我们要活在现实，每天去想一些实际的事，去充实自己的生活，绝对不能被虚拟的事物蒙蔽了双眼。我的生活很充实，下周日是李箱和浮士德的婚礼，我要去捧个场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 342,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 159
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T03:24:02.000Z",
+        "description": "=祈茗/いのり｜20↑｜🪶👻绝对洁癖左右固定｜🔮左｜🔞｜只会中文，但使用翻译器｜头像背景来自我主任@DongMSZA｜无断转载、AI学习禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "DongMSZA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inori404.straw.page",
+                "end": 23,
+                "expanded_url": "http://inori404.straw.page",
+                "start": 0,
+                "url": "https://t.co/iTnGpbLHm8"
+              }
+            ]
+          }
+        },
+        "id": "1236130419734532097",
+        "location": "HEAVEN",
+        "name": "Inori_",
+        "pinned_tweet_id": "2035263945129566416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033601747244257280/GvAs-SKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9201,
+          "following_count": 374,
+          "like_count": 9852,
+          "listed_count": 15,
+          "media_count": 455,
+          "tweet_count": 3896
+        },
+        "url": "https://t.co/iTnGpbLHm8",
+        "username": "Inori_404",
+        "verified": false
+      }
+    ]
+  }
+}

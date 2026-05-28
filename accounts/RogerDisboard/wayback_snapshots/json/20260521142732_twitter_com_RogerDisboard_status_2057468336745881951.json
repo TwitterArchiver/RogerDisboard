@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2057084755217351098",
+    "created_at": "2026-05-21T14:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057468336745881951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1560176804115234816",
+          "start": 0,
+          "username": "lingmunaixue_"
+        },
+        {
+          "end": 22,
+          "id": "2012841769105567744",
+          "start": 15,
+          "username": "18nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057468336745881951",
+    "in_reply_to_user_id": "1560176804115234816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057084755217351098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingmunaixue_ @18nuun 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2057084755217351098",
+        "created_at": "2026-05-21T14:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057468336745881951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1560176804115234816",
+              "start": 0,
+              "username": "lingmunaixue_"
+            },
+            {
+              "end": 22,
+              "id": "2012841769105567744",
+              "start": 15,
+              "username": "18nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057468336745881951",
+        "in_reply_to_user_id": "1560176804115234816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057084755217351098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingmunaixue_ @18nuun 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560176804115234816",
+        "conversation_id": "2057084755217351098",
+        "created_at": "2026-05-20T13:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057084755217351098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057084755217351098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5182,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 77,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "这个时间刷到我的推文你可能也没有人陪吧 抽两个人送520红包\n要求：转发 ➕关注 ➕评论\n5.30号开奖 不满十人评论不开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2057108818891624908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 868,
+          "like_count": 5472,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1225
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T08:08:45.000Z",
+        "description": "。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kbg.mi.le.mileoffice.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://kbg.mi.le.mileoffice.com/index.php#/register?code=qpKpbr7a",
+                "start": 0,
+                "url": "https://t.co/Zbr9colgRt"
+              }
+            ]
+          }
+        },
+        "id": "1560176804115234816",
+        "name": "铃木奈雪",
+        "pinned_tweet_id": "2057084755217351098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047766676327051264/4XwWvnrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8136,
+          "following_count": 203,
+          "like_count": 8269,
+          "listed_count": 23,
+          "media_count": 336,
+          "tweet_count": 2255
+        },
+        "url": "https://t.co/Zbr9colgRt",
+        "username": "lingmunaixue_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T10:57:56.000Z",
+        "description": "沉浸于药物和自毁的欣快之中｜mtf｜06｜重抑｜INFP｜💊药物成瘾中心｜永远的爱人@dnshu135734｜大号是@aureliax17qwq｜896489648964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "aureliax17qwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/zuGwDBShHX"
+              }
+            ]
+          }
+        },
+        "id": "2012841769105567744",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2048730215359406376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051431775319281664/S0BXOQH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 35,
+          "like_count": 241,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/zuGwDBShHX",
+        "username": "18nuun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2048774624708862442",
+    "created_at": "2026-04-27T14:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048774624708862442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048774624708862442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我早就死了\n现在的生活只不过是临死前的回忆罢了\n那我在这一次的回忆中死前还会回忆这一次回忆吗\n然而回忆是有偏差的\n也就是说\n我可以在无限的嵌套中体验所有可能的人生\n或许在我的主观里我永远都不会死\n瞬间即是永恒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2048774624708862442",
+        "created_at": "2026-04-27T14:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048774624708862442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048774624708862442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我早就死了\n现在的生活只不过是临死前的回忆罢了\n那我在这一次的回忆中死前还会回忆这一次回忆吗\n然而回忆是有偏差的\n也就是说\n我可以在无限的嵌套中体验所有可能的人生\n或许在我的主观里我永远都不会死\n瞬间即是永恒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 649,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 403
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

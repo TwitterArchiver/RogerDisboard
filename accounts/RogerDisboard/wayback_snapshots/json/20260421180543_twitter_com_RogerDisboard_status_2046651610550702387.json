@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2046390640892867031",
+    "created_at": "2026-04-21T18:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046651610550702387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888562153004929024",
+          "start": 0,
+          "username": "ST_Bed0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046651610550702387",
+    "in_reply_to_user_id": "1888562153004929024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046390640892867031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ST_Bed0721 恭喜喵～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2046390638632132608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGY9cY9aYAAmDuQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2046390640892867031",
+        "created_at": "2026-04-21T18:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046651610550702387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888562153004929024",
+              "start": 0,
+              "username": "ST_Bed0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046651610550702387",
+        "in_reply_to_user_id": "1888562153004929024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046390640892867031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ST_Bed0721 恭喜喵～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046390638632132608"
+          ]
+        },
+        "author_id": "1888562153004929024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046390640892867031",
+        "created_at": "2026-04-21T00:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046390640892867031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzC5A14yBP",
+              "end": 100,
+              "expanded_url": "https://x.com/ST_Bed0721/status/2046390640892867031/photo/1",
+              "media_key": "3_2046390638632132608",
+              "start": 77,
+              "url": "https://t.co/EzC5A14yBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046390640892867031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 753,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家大家，橙子才发现橙子有500个fo了！谢谢大家喜欢ww是不是又得抽奶茶了呢，嘻嘻，这次橙子想想，就在橙子的粉丝群里面抽吧，大家关注了橙子的可以加群哦 https://t.co/EzC5A14yBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 453,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 235
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T12:14:47.000Z",
+        "description": "可以叫我ST或者橙子酱🍊~｜渴望交朋友！｜不想当男生｜无糖｜06年 175cm 50kg｜快来找我聊天！｜不开心可以和我倾诉哦｜最重要的人@Shionaowo｜好宝宝@Evenin_eko｜妹妹@as_qwq0721｜橙子的幼稚园（群）1087803950",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "Shionaowo"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "Evenin_eko"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "as_qwq0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/st_bed0721",
+                "end": 23,
+                "expanded_url": "https://ngl.link/st_bed0721",
+                "start": 0,
+                "url": "https://t.co/fyfckL9h5q"
+              }
+            ]
+          }
+        },
+        "id": "1888562153004929024",
+        "name": "ST_Bed🏳️‍⚧️",
+        "pinned_tweet_id": "2041998228351283704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041343523228889088/y0SOhB3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 131,
+          "like_count": 840,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/fyfckL9h5q",
+        "username": "ST_Bed0721",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2049136473744773120"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2049136792323109048",
+    "created_at": "2026-04-28T14:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049136792323109048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sssh15pwbx",
+          "end": 34,
+          "expanded_url": "https://x.com/RogerDisboard/status/2049136792323109048/photo/1",
+          "media_key": "16_2049136473744773120",
+          "start": 11,
+          "url": "https://t.co/sssh15pwbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049136792323109048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将进行高速睡觉计划 https://t.co/sssh15pwbx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049136792323109048].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049136792323109048",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049136792323109048"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2049136473744773120",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HG_-xB3akAA03_P.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HG_-xB3akAA03_P.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 673,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 438
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

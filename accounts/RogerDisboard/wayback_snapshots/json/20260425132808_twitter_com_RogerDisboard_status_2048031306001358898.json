@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2048031306001358898",
+    "created_at": "2026-04-25T13:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048031306001358898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974380290031132672",
+          "start": 3,
+          "username": "LiuZe97559"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048031306001358898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047999150348779642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiuZe97559: 推友好\n你可以叫我lzy，我是一名支持同性恋及跨性别社区的学生。\n我在多个社交媒体活动，喜欢分享生活趣事。如果您是与我志同道合的朋友，您可以直接关注我的帐号。\nX：您可点击我的头像以访问我的个人资料，并点击“关注”。\nInstagram和Thre…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2048031306001358898",
+        "created_at": "2026-04-25T13:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048031306001358898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974380290031132672",
+              "start": 3,
+              "username": "LiuZe97559"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048031306001358898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047999150348779642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LiuZe97559: 推友好\n你可以叫我lzy，我是一名支持同性恋及跨性别社区的学生。\n我在多个社交媒体活动，喜欢分享生活趣事。如果您是与我志同道合的朋友，您可以直接关注我的帐号。\nX：您可点击我的头像以访问我的个人资料，并点击“关注”。\nInstagram和Thre…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974380290031132672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2047999150348779642",
+        "created_at": "2026-04-25T11:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047999150348779642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 149,
+              "id": "325221384",
+              "start": 145,
+              "username": "lzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047999150348779642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "推友好\n你可以叫我lzy，我是一名支持同性恋及跨性别社区的学生。\n我在多个社交媒体活动，喜欢分享生活趣事。如果您是与我志同道合的朋友，您可以直接关注我的帐号。\nX：您可点击我的头像以访问我的个人资料，并点击“关注”。\nInstagram和Threads：@juhuhiu2\nYouTube：@lzy-u4q\n更多内容请查看个人简介。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 555,
+          "like_count": 915,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 299
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "前世 @juhuhiulzy448｜八年級初中生｜中度抑鬱症｜活躍度不佳，不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持同性戀及跨性別社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "juhuhiulzy448"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/uMYDt9cawl"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "pepoyoPPY（互fo）",
+        "pinned_tweet_id": "2042464761233723531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042464843803021312/Xrx6Rv7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 262,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/uMYDt9cawl",
+        "username": "LiuZe97559",
+        "verified": false
+      }
+    ]
+  }
+}

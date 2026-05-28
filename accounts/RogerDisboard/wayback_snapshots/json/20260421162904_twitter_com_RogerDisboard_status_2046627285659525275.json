@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046523379663122433"
+      ],
+      "media_source_tweet_id": [
+        "2046524081655468418"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2046627285659525275",
+    "created_at": "2026-04-21T16:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046627285659525275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749085834551402496",
+          "start": 3,
+          "username": "myomyomyo114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YY5T4nM0J2",
+          "end": 64,
+          "expanded_url": "https://x.com/myomyomyo114/status/2046524081655468418/photo/1",
+          "media_key": "3_2046523379663122433",
+          "start": 41,
+          "url": "https://t.co/YY5T4nM0J2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046627285659525275",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 520
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046524081655468418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myomyomyo114: 「チケット」「娘」「娘ちゃん！」「ヨシヒデ」 https://t.co/YY5T4nM0J2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_2046523379663122433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGa2K71aMAEapKl.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046523379663122433"
+          ],
+          "media_source_tweet_id": [
+            "2046524081655468418"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2046627285659525275",
+        "created_at": "2026-04-21T16:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046627285659525275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749085834551402496",
+              "start": 3,
+              "username": "myomyomyo114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YY5T4nM0J2",
+              "end": 64,
+              "expanded_url": "https://x.com/myomyomyo114/status/2046524081655468418/photo/1",
+              "media_key": "3_2046523379663122433",
+              "start": 41,
+              "url": "https://t.co/YY5T4nM0J2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046627285659525275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 520
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046524081655468418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myomyomyo114: 「チケット」「娘」「娘ちゃん！」「ヨシヒデ」 https://t.co/YY5T4nM0J2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046523379663122433"
+          ]
+        },
+        "author_id": "1749085834551402496",
+        "conversation_id": "2046524081655468418",
+        "created_at": "2026-04-21T09:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046524081655468418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YY5T4nM0J2",
+              "end": 46,
+              "expanded_url": "https://x.com/myomyomyo114/status/2046524081655468418/photo/1",
+              "media_key": "3_2046523379663122433",
+              "start": 23,
+              "url": "https://t.co/YY5T4nM0J2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046524081655468418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 517,
+          "impression_count": 55872,
+          "like_count": 5024,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 520
+        },
+        "reply_settings": "everyone",
+        "text": "「チケット」「娘」「娘ちゃん！」「ヨシヒデ」 https://t.co/YY5T4nM0J2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 440,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 211
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T15:05:51.000Z",
+        "description": "日々の供給に感謝。成人済。\n微妙に不健全なアカウント。\n詳しくはこちら→https://t.co/olq7rHnQwP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/gxcYT8shbUSR…",
+                "end": 59,
+                "expanded_url": "https://profcard.info/u/gxcYT8shbUSRSzVUf5GN2y2wa322",
+                "start": 36,
+                "url": "https://t.co/olq7rHnQwP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@myomyomyo114",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@myomyomyo114",
+                "start": 0,
+                "url": "https://t.co/x2DRkUceNk"
+              }
+            ]
+          }
+        },
+        "id": "1749085834551402496",
+        "location": "無断転載❌",
+        "name": "ょ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866748768839929858/v7iLEueb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9682,
+          "following_count": 212,
+          "like_count": 23844,
+          "listed_count": 23,
+          "media_count": 349,
+          "tweet_count": 4495
+        },
+        "url": "https://t.co/x2DRkUceNk",
+        "username": "myomyomyo114",
+        "verified": false
+      }
+    ]
+  }
+}

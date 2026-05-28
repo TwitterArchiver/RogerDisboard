@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2051113079006756864"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2045176323036033493",
+    "created_at": "2026-05-04T01:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T02:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051113124791767549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1534605806041186304",
+          "start": 0,
+          "username": "halationwires"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JVz53DdpmX",
+          "end": 38,
+          "expanded_url": "https://x.com/RogerDisboard/status/2051113124791767549/photo/1",
+          "media_key": "16_2051113079006756864",
+          "start": 15,
+          "url": "https://t.co/JVz53DdpmX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051113124791767549",
+    "in_reply_to_user_id": "1534605806041186304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051109244628263337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@halationwires https://t.co/JVz53DdpmX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051113124791767549].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051113124791767549",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051113124791767549"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2051113079006756864",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHcEemRbAAAgJcc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHcEemRbAAAgJcc.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534605806041186304",
+        "conversation_id": "2045176323036033493",
+        "created_at": "2026-05-04T01:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051109244628263337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051109244628263337",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045176323036033493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 加了哦₍^ₗ    ̫  ₗ^₎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 812,
+          "like_count": 2582,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 700
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T18:38:48.000Z",
+        "description": "白加灰的颜色",
+        "id": "1534605806041186304",
+        "name": "ˈ尸爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048664501776723968/P8-CTqU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 16,
+          "like_count": 9609,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 431
+        },
+        "username": "halationwires",
+        "verified": false
+      }
+    ]
+  }
+}

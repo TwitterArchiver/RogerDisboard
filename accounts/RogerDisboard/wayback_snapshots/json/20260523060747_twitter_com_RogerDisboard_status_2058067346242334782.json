@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2057878098822213792",
+    "created_at": "2026-05-23T06:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058067346242334782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499103632255455233",
+          "start": 0,
+          "username": "AKIYAMAYUGUMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058067346242334782",
+    "in_reply_to_user_id": "1499103632255455233",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058067181536166343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKIYAMAYUGUMO OWO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2057878098822213792",
+        "created_at": "2026-05-23T06:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058067346242334782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499103632255455233",
+              "start": 0,
+              "username": "AKIYAMAYUGUMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058067346242334782",
+        "in_reply_to_user_id": "1499103632255455233",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058067181536166343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKIYAMAYUGUMO OWO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499103632255455233",
+        "conversation_id": "2057878098822213792",
+        "created_at": "2026-05-23T06:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058067181536166343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058067181536166343",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058061735459000618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 好诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2057824559936754116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 890,
+          "like_count": 5759,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1308
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T19:25:41.000Z",
+        "description": "📸 航空・鉄道写真 | 🏙️ 都市交通研究 | ⚓ 海軍史・国際関係 | 🔭 世界を観測し | 🌅 時よ止まれ、お前は美しい | 🎵 勘ぐれい | 🌍 We Are The World | 🚫 ファシズム・反人道思想",
+        "id": "1499103632255455233",
+        "location": "时隙废都",
+        "name": "秋山夕云✂️",
+        "pinned_tweet_id": "2052954738279473462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006631382605520896/kxXzgSYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 777,
+          "like_count": 20154,
+          "listed_count": 3,
+          "media_count": 1300,
+          "tweet_count": 4775
+        },
+        "username": "AKIYAMAYUGUMO",
+        "verified": false
+      }
+    ]
+  }
+}

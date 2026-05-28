@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056771007583760384",
+        "3_2056771007281795072",
+        "3_2056771007277584384",
+        "3_2056771007281836032"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2056545516712824922",
+    "created_at": "2026-05-19T16:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056771033282343293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510195720137023499",
+          "start": 0,
+          "username": "index_ourFusion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/giqzaM9fxL",
+          "end": 40,
+          "expanded_url": "https://x.com/RogerDisboard/status/2056771033282343293/photo/1",
+          "media_key": "3_2056771007583760384",
+          "start": 17,
+          "url": "https://t.co/giqzaM9fxL"
+        },
+        {
+          "display_url": "pic.x.com/giqzaM9fxL",
+          "end": 40,
+          "expanded_url": "https://x.com/RogerDisboard/status/2056771033282343293/photo/1",
+          "media_key": "3_2056771007281795072",
+          "start": 17,
+          "url": "https://t.co/giqzaM9fxL"
+        },
+        {
+          "display_url": "pic.x.com/giqzaM9fxL",
+          "end": 40,
+          "expanded_url": "https://x.com/RogerDisboard/status/2056771033282343293/photo/1",
+          "media_key": "3_2056771007277584384",
+          "start": 17,
+          "url": "https://t.co/giqzaM9fxL"
+        },
+        {
+          "display_url": "pic.x.com/giqzaM9fxL",
+          "end": 40,
+          "expanded_url": "https://x.com/RogerDisboard/status/2056771033282343293/photo/1",
+          "media_key": "3_2056771007281836032",
+          "start": 17,
+          "url": "https://t.co/giqzaM9fxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056771033282343293",
+    "in_reply_to_user_id": "1510195720137023499",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056545516712824922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@index_ourFusion https://t.co/giqzaM9fxL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056771033282343293].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056771033282343293",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056771033282343293"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_2056771007583760384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIseVYtaMAA6YcZ.jpg",
+        "width": 499
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2056771007281795072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIseVXlakAAY-vK.jpg",
+        "width": 951
+      },
+      {
+        "height": 730,
+        "media_key": "3_2056771007277584384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIseVXkaUAADyfh.jpg",
+        "width": 641
+      },
+      {
+        "height": 1441,
+        "media_key": "3_2056771007281836032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIseVXlbMAA5e8f.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510195720137023499",
+        "conversation_id": "2056545516712824922",
+        "created_at": "2026-05-19T01:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056545516712824922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056545516712824922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能在这条推文下面给我发送恶俗图片！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 856,
+          "like_count": 5269,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1193
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T10:01:43.000Z",
+        "description": "シビュラ精霊記爱好者｜リエア・リエル❤️｜中文日本語Eng👌\n曾用名：Limiremelootes、Arethusa\n废文书@OurFusion_index\n匿名提问渠道⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "OurFusion_index"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/T6LPDG",
+                "end": 23,
+                "expanded_url": "https://qntwx.cn/T6LPDG",
+                "start": 0,
+                "url": "https://t.co/xrhZageQqW"
+              }
+            ]
+          }
+        },
+        "id": "1510195720137023499",
+        "location": "地心",
+        "name": "index",
+        "pinned_tweet_id": "2047821016810893729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054924395634704385/CbHN7a7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 748,
+          "like_count": 12865,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/xrhZageQqW",
+        "username": "index_ourFusion",
+        "verified": false
+      }
+    ]
+  }
+}

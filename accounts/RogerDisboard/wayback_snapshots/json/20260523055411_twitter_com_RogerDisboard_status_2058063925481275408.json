@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2058063925481275408",
+    "created_at": "2026-05-23T05:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058063925481275408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/venti718/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/venti718/status/2058029052137714093",
+          "start": 20,
+          "url": "https://t.co/EQWUIw5o4b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058063925481275408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058029052137714093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "车枪球天残党\n究极手残只能玩回合制游戏 https://t.co/EQWUIw5o4b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 611,
+        "media_key": "3_2058029043564560384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-Wgt8aQAAdjFl.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2058063925481275408",
+        "created_at": "2026-05-23T05:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058063925481275408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/venti718/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/venti718/status/2058029052137714093",
+              "start": 20,
+              "url": "https://t.co/EQWUIw5o4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058063925481275408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058029052137714093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "车枪球天残党\n究极手残只能玩回合制游戏 https://t.co/EQWUIw5o4b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058029043564560384"
+          ]
+        },
+        "author_id": "1732724006787420160",
+        "conversation_id": "2058029052137714093",
+        "created_at": "2026-05-23T03:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058029052137714093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQMle7g0iF",
+              "end": 31,
+              "expanded_url": "https://x.com/Venti718/status/2058029052137714093/photo/1",
+              "media_key": "3_2058029043564560384",
+              "start": 8,
+              "url": "https://t.co/sQMle7g0iF"
+            },
+            {
+              "display_url": "x.com/poca2381/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/poca2381/status/2058023823648460820",
+              "start": 32,
+              "url": "https://t.co/gfN1dxsqpV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058029052137714093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058023823648460820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从来不打排位（ https://t.co/sQMle7g0iF https://t.co/gfN1dxsqpV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2057824559936754116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 889,
+          "like_count": 5755,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1307
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "高二牲/友跨/简中/繁中/English/蓝v互fo 看到马上回/Ciallo～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "http://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/iAPAG2H15q"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "location": "Tianjin",
+        "name": "澪老师不是零老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 2357,
+          "like_count": 21065,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 6605
+        },
+        "url": "https://t.co/iAPAG2H15q",
+        "username": "Venti718",
+        "verified": true
+      }
+    ]
+  }
+}

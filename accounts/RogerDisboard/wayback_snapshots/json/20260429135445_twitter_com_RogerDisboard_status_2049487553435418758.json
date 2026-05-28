@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2049487553435418758",
+    "created_at": "2026-04-29T13:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049487553435418758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038878967181017088",
+          "start": 3,
+          "username": "sayori_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049487553435418758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049484873661096046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sayori_awa: 求求大家不要死好吗😭😭想自杀之前可以试着做点喜欢的事消磨一会时间吗，就一会，自杀念头就会减轻很多\n如果愿意的话有什么事都可以和咱倾诉，虽然不擅长安慰人，但是会认真听喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2049487553435418758",
+        "created_at": "2026-04-29T13:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049487553435418758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038878967181017088",
+              "start": 3,
+              "username": "sayori_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049487553435418758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049484873661096046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sayori_awa: 求求大家不要死好吗😭😭想自杀之前可以试着做点喜欢的事消磨一会时间吗，就一会，自杀念头就会减轻很多\n如果愿意的话有什么事都可以和咱倾诉，虽然不擅长安慰人，但是会认真听喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038878967181017088",
+        "conversation_id": "2049484873661096046",
+        "created_at": "2026-04-29T13:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049484873661096046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049484873661096046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求求大家不要死好吗😭😭想自杀之前可以试着做点喜欢的事消磨一会时间吗，就一会，自杀念头就会减轻很多\n如果愿意的话有什么事都可以和咱倾诉，虽然不擅长安慰人，但是会认真听喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 713,
+          "like_count": 1649,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 474
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T07:20:20.000Z",
+        "description": "这里是一只sayori酱 | MtF🏳️‍⚧️ | 互fo大欢迎(•̀ω•́)✧| 09.09.14 | 无证含糖 | INTP | 中文/ENG/日本語初心者 | 精神状态不稳定 | 成分复杂 | i just want to make everyone happy...",
+        "id": "2038878967181017088",
+        "location": "終ノ空",
+        "name": "🍥sayori🍥（缓慢回fo中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039593919089131520/FpMa5rYl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 380,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 210
+        },
+        "username": "sayori_awa",
+        "verified": false
+      }
+    ]
+  }
+}

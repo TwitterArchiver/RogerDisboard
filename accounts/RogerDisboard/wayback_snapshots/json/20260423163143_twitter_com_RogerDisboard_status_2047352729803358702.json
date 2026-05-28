@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2046909371972530370",
+    "created_at": "2026-04-23T16:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047352729803358702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "36659991",
+          "start": 0,
+          "username": "kenw_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047352729803358702",
+    "in_reply_to_user_id": "36659991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046909371972530370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kenw_2 德艺治全面发展"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1379,
+        "media_key": "3_2046909366310178816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgVOUJWkAAIISZ.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2046909371972530370",
+        "created_at": "2026-04-23T16:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047352729803358702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "36659991",
+              "start": 0,
+              "username": "kenw_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047352729803358702",
+        "in_reply_to_user_id": "36659991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046909371972530370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenw_2 德艺治全面发展"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046909366310178816"
+          ]
+        },
+        "author_id": "36659991",
+        "conversation_id": "2046909371972530370",
+        "created_at": "2026-04-22T11:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046909371972530370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdAcE5h9MK",
+              "end": 35,
+              "expanded_url": "https://x.com/kenw_2/status/2046909371972530370/photo/1",
+              "media_key": "3_2046909366310178816",
+              "start": 12,
+              "url": "https://t.co/BdAcE5h9MK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046909371972530370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 135169,
+          "like_count": 1825,
+          "quote_count": 17,
+          "reply_count": 222,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "偏科的孩子可真让人头疼 https://t.co/BdAcE5h9MK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 489,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 250
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-30T13:22:37.000Z",
+        "description": "An old friend, stay curious, stay human.",
+        "id": "36659991",
+        "location": "The Earth",
+        "name": "Ken W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944368718231801856/MThgS-Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170439,
+          "following_count": 466,
+          "like_count": 2631,
+          "listed_count": 569,
+          "media_count": 1957,
+          "tweet_count": 6975
+        },
+        "username": "kenw_2",
+        "verified": true
+      }
+    ]
+  }
+}

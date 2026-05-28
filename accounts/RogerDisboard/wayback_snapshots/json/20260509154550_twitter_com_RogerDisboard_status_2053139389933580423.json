@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2053133006500671950",
+    "created_at": "2026-05-09T15:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053139389933580423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "shungleemain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053139389933580423",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053133006500671950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shungleemain wow还有谭雅战记"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_2053133002960769024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4xlpYbkAAI5Uk.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2053133006500671950",
+        "created_at": "2026-05-09T15:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053139389933580423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "shungleemain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053139389933580423",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053133006500671950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shungleemain wow还有谭雅战记"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053133002960769024"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053133006500671950",
+        "created_at": "2026-05-09T15:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053133006500671950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIDcv4W5Fg",
+              "end": 37,
+              "expanded_url": "https://x.com/shungleemain/status/2053133006500671950/photo/1",
+              "media_key": "3_2053133002960769024",
+              "start": 14,
+              "url": "https://t.co/CIDcv4W5Fg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053133006500671950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "絕不容許共產主義者猖狂跋扈 https://t.co/CIDcv4W5Fg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 967,
+          "like_count": 3668,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 904
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "超級好詭秘 @Akinoyo_desu\n可愛的蜜獾 @kittymi030\n超級好詭秘 @bolckAshley\n可愛的Mercy @Mercyeeua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "kittymi030"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "Mercyeeua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shungleemain",
+                "end": 23,
+                "expanded_url": "https://t.me/shungleemain",
+                "start": 0,
+                "url": "https://t.co/ZWd7sZXvOA"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "來看生力麵的TG→",
+        "name": "聖米格爾生力麵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041138223767003137/717JFCWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 613,
+          "like_count": 2811,
+          "listed_count": 8,
+          "media_count": 586,
+          "tweet_count": 6801
+        },
+        "url": "https://t.co/ZWd7sZXvOA",
+        "username": "shungleemain",
+        "verified": false
+      }
+    ]
+  }
+}

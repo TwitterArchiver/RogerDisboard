@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2046646553901945087",
+    "created_at": "2026-04-21T17:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T18:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046647286693089693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2045025548401823744",
+          "start": 0,
+          "username": "ShiXiaomeiMoYa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046647286693089693",
+    "in_reply_to_user_id": "2045025548401823744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046646553901945087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiXiaomeiMoYa 全家死光光的臭傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2046646553901945087",
+        "created_at": "2026-04-21T17:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046647286693089693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2045025548401823744",
+              "start": 0,
+              "username": "ShiXiaomeiMoYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046647286693089693",
+        "in_reply_to_user_id": "2045025548401823744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046646553901945087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiXiaomeiMoYa 全家死光光的臭傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045025548401823744",
+        "conversation_id": "2046646553901945087",
+        "created_at": "2026-04-21T17:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046646553901945087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomonuya/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xiaomonuya/status/2046645880711979240",
+              "start": 13,
+              "url": "https://t.co/AVOsozyfPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046646553901945087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046645880711979240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依舊是這個光說不做的傻逼 https://t.co/AVOsozyfPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 451,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 234
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:24:35.000Z",
+        "description": "門52，只收wechat",
+        "id": "2045025548401823744",
+        "name": "小魔女（是小魅魔呀）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045030301190230016/iCnq9Erh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 62
+        },
+        "username": "ShiXiaomeiMoYa",
+        "verified": false
+      }
+    ]
+  }
+}

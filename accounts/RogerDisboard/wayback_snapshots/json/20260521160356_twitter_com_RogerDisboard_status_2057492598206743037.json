@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2057401709996159050",
+    "created_at": "2026-05-21T16:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057492598206743037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2034276767331221504",
+          "start": 0,
+          "username": "SAIKAIaly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057492598206743037",
+    "in_reply_to_user_id": "2034276767331221504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057401709996159050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SAIKAIaly 没有四破贵吧w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2057401706963714048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1b86_awAAKPLp.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2057401709996159050",
+        "created_at": "2026-05-21T16:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057492598206743037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2034276767331221504",
+              "start": 0,
+              "username": "SAIKAIaly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057492598206743037",
+        "in_reply_to_user_id": "2034276767331221504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057401709996159050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAIKAIaly 没有四破贵吧w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057401706963714048"
+          ]
+        },
+        "author_id": "2034276767331221504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057401709996159050",
+        "created_at": "2026-05-21T10:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057401709996159050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBUTNS4a96",
+              "end": 32,
+              "expanded_url": "https://x.com/SAIKAIaly/status/2057401709996159050/photo/1",
+              "media_key": "3_2057401706963714048",
+              "start": 9,
+              "url": "https://t.co/uBUTNS4a96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057401709996159050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5破消耗好大。。 https://t.co/uBUTNS4a96"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2057108818891624908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 868,
+          "like_count": 5511,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1231
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T14:32:44.000Z",
+        "description": "大号妈妈:@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/LdLf6HBhDq"
+              }
+            ]
+          }
+        },
+        "id": "2034276767331221504",
+        "name": "夏树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056772799436611596/QiSmMFAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 129,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/LdLf6HBhDq",
+        "username": "SAIKAIaly",
+        "verified": false
+      }
+    ]
+  }
+}

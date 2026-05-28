@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2053005467178430902",
+    "created_at": "2026-05-10T05:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053343815852011879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720425128125947904",
+          "start": 0,
+          "username": "xxz10110116791"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053343815852011879",
+    "in_reply_to_user_id": "1720425128125947904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053005467178430902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxz10110116791 必须收容了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053005446617993216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH29k4-bkAAD75G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2053005467178430902",
+        "created_at": "2026-05-10T05:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053343815852011879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720425128125947904",
+              "start": 0,
+              "username": "xxz10110116791"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053343815852011879",
+        "in_reply_to_user_id": "1720425128125947904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053005467178430902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxz10110116791 必须收容了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053005446617993216"
+          ]
+        },
+        "author_id": "1720425128125947904",
+        "conversation_id": "2053005467178430902",
+        "created_at": "2026-05-09T06:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053005467178430902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I15vuucmBT",
+              "end": 32,
+              "expanded_url": "https://x.com/xxz10110116791/status/2053005467178430902/photo/1",
+              "media_key": "3_2053005446617993216",
+              "start": 9,
+              "url": "https://t.co/I15vuucmBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053005467178430902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0层的电梯... https://t.co/I15vuucmBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1000,
+          "like_count": 3869,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 956
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T12:58:18.000Z",
+        "description": "Mtf🏳️‍⚧️|地球ol注册日2010.7.26| 现读高一 | 不经常建政| 技术宅(?│火车迷│喜欢编程💻,数码,AI,vocaloid | INFP\n│曾经也是信竞生（│经常焦虑│\nOD💊|无证含糖🍥2026.3.27",
+        "id": "1720425128125947904",
+        "location": "卧室-床上",
+        "name": "xnfvotyierslol🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051171309095464960/8znKSJIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 286,
+          "like_count": 6310,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 540
+        },
+        "username": "xxz10110116791",
+        "verified": false
+      }
+    ]
+  }
+}

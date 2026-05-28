@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050943551543119872"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2050943566500028798",
+    "created_at": "2026-05-03T14:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050943566500028798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pNUSOmb9Uw",
+          "end": 107,
+          "expanded_url": "https://x.com/RogerDisboard/status/2050943566500028798/photo/1",
+          "media_key": "3_2050943551543119872",
+          "start": 84,
+          "url": "https://t.co/pNUSOmb9Uw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050943566500028798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "251fo致谢！\n至于为什么是251这个数字...\n“这份思念，这份心，从机器中孕育出来而拥有了生命。这全部，赌在这251秒！”\n“【全典开】对未知用战斗演算启动！” https://t.co/pNUSOmb9Uw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050943566500028798].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050943566500028798",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050943566500028798"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050943551543119872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZqSzQbEAA_q9d.jpg",
+        "width": 946
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 806,
+          "like_count": 2392,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 669
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

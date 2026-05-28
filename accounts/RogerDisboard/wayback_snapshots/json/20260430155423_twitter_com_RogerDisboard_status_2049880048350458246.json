@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2049876273783255534",
+    "created_at": "2026-04-30T15:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049880048350458246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049880048350458246",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049876273783255534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 抱抱～\n不用在意他们的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049876271124164608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKfm53bsAAQs-i.jpg",
+        "width": 807
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2049876273783255534",
+        "created_at": "2026-04-30T15:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049880048350458246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660586167807664129",
+              "start": 0,
+              "username": "ttttk567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049880048350458246",
+        "in_reply_to_user_id": "1660586167807664129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049876273783255534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttk567 抱抱～\n不用在意他们的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049876271124164608"
+          ]
+        },
+        "author_id": "1660586167807664129",
+        "conversation_id": "2049876273783255534",
+        "created_at": "2026-04-30T15:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049876273783255534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiBMotc2GS",
+              "end": 120,
+              "expanded_url": "https://x.com/ttttk567/status/2049876273783255534/photo/1",
+              "media_key": "3_2049876271124164608",
+              "start": 97,
+              "url": "https://t.co/uiBMotc2GS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049876273783255534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发的碎碎念被现实里认识的人看到了\n被骂了...\n以后不敢再发墙内了...\n我真的好想哭，我明明只是随便发泄下情绪，就被断章取义的理解\n或许在对方的视角来说事情就是这样吧\n但我好无助啊\n✟升天✟ https://t.co/uiBMotc2GS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 749,
+          "like_count": 1786,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 516
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / AuDHD ？ 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客https://t.co/e90qOe4ADO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 90,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 67,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "nowhere",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978063307694329856/viV6SIGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 295,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 517
+        },
+        "username": "ttttk567",
+        "verified": false
+      }
+    ]
+  }
+}

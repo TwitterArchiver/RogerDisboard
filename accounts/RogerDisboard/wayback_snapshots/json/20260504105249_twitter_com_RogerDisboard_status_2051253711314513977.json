@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051253702296842240"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2051226447394803807",
+    "created_at": "2026-05-04T10:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051253711314513977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605245047590780928",
+          "start": 0,
+          "username": "djx00919"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3xrimDTLRp",
+          "end": 33,
+          "expanded_url": "https://x.com/RogerDisboard/status/2051253711314513977/photo/1",
+          "media_key": "3_2051253702296842240",
+          "start": 10,
+          "url": "https://t.co/3xrimDTLRp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051253711314513977",
+    "in_reply_to_user_id": "1605245047590780928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051249770438734161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@djx00919 https://t.co/3xrimDTLRp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051253711314513977].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051253711314513977",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051253711314513977"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1071,
+        "media_key": "3_2051253702296842240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeEX82bsAARZnT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605245047590780928",
+        "conversation_id": "2051226447394803807",
+        "created_at": "2026-05-04T10:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051249770438734161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051249770438734161",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051226447394803807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 看看👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 818,
+          "like_count": 2686,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 726
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19男  记性很差很差什么都记不住喵。\n想聊天的话可以私信喵 多和我互fo~\n||||||烟鬼 od 约炮 卖淫 有主的请远离我",
+        "id": "1605245047590780928",
+        "location": "北京",
+        "name": "uosɐɾ",
+        "pinned_tweet_id": "2033533610515644537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027707712088510464/W5dXjr5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 2872,
+          "like_count": 164277,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 11472
+        },
+        "username": "djx00919",
+        "verified": false
+      }
+    ]
+  }
+}

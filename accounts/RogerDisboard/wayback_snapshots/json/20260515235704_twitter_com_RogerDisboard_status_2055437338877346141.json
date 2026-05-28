@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2055437285563445248"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2055293038222774543",
+    "created_at": "2026-05-15T23:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T00:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055437338877346141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911765295452344320",
+          "start": 0,
+          "username": "error332233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BZCaWwIw2p",
+          "end": 40,
+          "expanded_url": "https://x.com/RogerDisboard/status/2055437338877346141/photo/1",
+          "media_key": "16_2055437285563445248",
+          "start": 17,
+          "url": "https://t.co/BZCaWwIw2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055437338877346141",
+    "in_reply_to_user_id": "1911765295452344320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055311702934376934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@error332233 好诶！ https://t.co/BZCaWwIw2p"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055437338877346141].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055437338877346141",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055437338877346141"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2055437285563445248",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HIZhUjAaMAA6gft.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HIZhUjAaMAA6gft.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911765295452344320",
+        "conversation_id": "2055293038222774543",
+        "created_at": "2026-05-15T15:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055311702934376934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055311702934376934",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055293038222774543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard +1？\n哦不对我互了（什么时候？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2055293038222774543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 881,
+          "like_count": 4614,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1078
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T12:55:51.000Z",
+        "description": "不OD/精神状态不稳定（？）/是人类（？）",
+        "id": "1911765295452344320",
+        "location": "到处都是！",
+        "name": "QAQ2333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911765458346205184/vHzUzRmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 95,
+          "like_count": 10222,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1136
+        },
+        "username": "error332233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048085224442208256"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2048083453472878592",
+    "created_at": "2026-04-25T17:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048085232981791028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SugeviNbLP",
+          "end": 40,
+          "expanded_url": "https://x.com/RogerDisboard/status/2048085232981791028/photo/1",
+          "media_key": "3_2048085224442208256",
+          "start": 17,
+          "url": "https://t.co/SugeviNbLP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048085232981791028",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048083453472878592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 https://t.co/SugeviNbLP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048085232981791028].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048085232981791028",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048085232981791028"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2048085224442208256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxCqRCaoAAZwnW.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2048083453472878592",
+        "created_at": "2026-04-25T16:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048083453472878592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/siyu060910/status/2047415193442161080",
+              "start": 51,
+              "url": "https://t.co/Iau9dVqjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048083453472878592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 95,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047415193442161080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😹😹😹😹\n讲个地狱笑话\n我有涉及到他们直接强奸还有性侵小孩的视频证据\n但是因为涉及到儿童色情发不出来 https://t.co/Iau9dVqjkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 575,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 318
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4625,
+          "following_count": 2587,
+          "like_count": 2633,
+          "listed_count": 16,
+          "media_count": 398,
+          "tweet_count": 2661
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2055519943781999071",
+    "created_at": "2026-05-16T07:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055549420104831442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055549420104831442",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055519943781999071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024m 我我我喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2055519943781999071",
+        "created_at": "2026-05-16T07:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055549420104831442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055549420104831442",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055519943781999071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024m 我我我喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "conversation_id": "2055519943781999071",
+        "created_at": "2026-05-16T05:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055519943781999071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055519943781999071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了，还是想生成一个中推大合照的，想玩的直接评论就行，就当是授权我了，然后，就给你们两个小时时间行吧🤔，不够的话，咱们可以再聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2055293038222774543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 886,
+          "like_count": 4676,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1093
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "专注次元联合创始人、FOCUSPACE品牌总经理、中国区市场部总经理｜雨擎项目组公关部总经理、产品高级体验官丨前小米门店运营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/teamrain_2025",
+                "end": 23,
+                "expanded_url": "https://ngl.link/teamrain_2025",
+                "start": 0,
+                "url": "https://t.co/9qpFDKrzW9"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "IP 属地 ：伊朗",
+        "name": "高坂穗嘉图_Kernel",
+        "pinned_tweet_id": "2043020664203022783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053668091486445568/2Q--XKwu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1448,
+          "like_count": 2800,
+          "listed_count": 12,
+          "media_count": 485,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/9qpFDKrzW9",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

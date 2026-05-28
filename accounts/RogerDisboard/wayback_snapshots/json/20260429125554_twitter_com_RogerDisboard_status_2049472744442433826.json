@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2049401774822633889",
+    "created_at": "2026-04-29T12:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049472744442433826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049472744442433826",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049401774822633889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 好帅好可爱～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049401770900963328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDwDWybwAA_ufd.jpg",
+        "width": 1533
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049401771404259328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDwDYqbcAAc85p.jpg",
+        "width": 1533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2049401774822633889",
+        "created_at": "2026-04-29T12:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049472744442433826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049472744442433826",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049401774822633889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 好帅好可爱～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049401770900963328",
+            "3_2049401771404259328"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2049401774822633889",
+        "created_at": "2026-04-29T08:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049401774822633889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNHzmD0xwL",
+              "end": 138,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2049401774822633889/photo/1",
+              "media_key": "3_2049401770900963328",
+              "start": 115,
+              "url": "https://t.co/kNHzmD0xwL"
+            },
+            {
+              "display_url": "pic.x.com/kNHzmD0xwL",
+              "end": 138,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2049401774822633889/photo/1",
+              "media_key": "3_2049401771404259328",
+              "start": 115,
+              "url": "https://t.co/kNHzmD0xwL"
+            },
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2049397000765124739",
+              "start": 139,
+              "url": "https://t.co/NN9xZnDQGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049401774822633889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 841,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049397000765124739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能是狐的脸型很吃头发蓬松度(?)\n蓬松=头包脸\n塌=脸包头\n🤔🤔🤔\n以下为「无科技理论颜值最大值」(最小值过几天发XD)\n(注:狐发照片不会做任何后期处理，而且完全是在素颜瞎J8乱拍，，，所以理论上来说是有参考与判断价值的喵) https://t.co/kNHzmD0xwL https://t.co/NN9xZnDQGS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 708,
+          "like_count": 1622,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 471
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1508,
+          "like_count": 17694,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 5616
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

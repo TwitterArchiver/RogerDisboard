@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2055173247277412724",
+    "created_at": "2026-05-17T14:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056019485589709026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1516455482772258816",
+          "start": 0,
+          "username": "Fly9981"
+        },
+        {
+          "end": 24,
+          "id": "1552587744576057345",
+          "start": 9,
+          "username": "zhinarensb8964"
+        },
+        {
+          "end": 36,
+          "id": "1872908794646421504",
+          "start": 25,
+          "username": "Niki241228"
+        },
+        {
+          "end": 51,
+          "id": "1622066090074607616",
+          "start": 37,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056019485589709026",
+    "in_reply_to_user_id": "1516455482772258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055980919291551826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fly9981 @zhinarensb8964 @Niki241228 @hoshinofujivy 肥猪一样的中年妇女\n还是不要随口喷粪比较好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2055173247277412724",
+        "created_at": "2026-05-17T14:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056019485589709026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1516455482772258816",
+              "start": 0,
+              "username": "Fly9981"
+            },
+            {
+              "end": 24,
+              "id": "1552587744576057345",
+              "start": 9,
+              "username": "zhinarensb8964"
+            },
+            {
+              "end": 36,
+              "id": "1872908794646421504",
+              "start": 25,
+              "username": "Niki241228"
+            },
+            {
+              "end": 51,
+              "id": "1622066090074607616",
+              "start": 37,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056019485589709026",
+        "in_reply_to_user_id": "1516455482772258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055980919291551826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fly9981 @zhinarensb8964 @Niki241228 @hoshinofujivy 肥猪一样的中年妇女\n还是不要随口喷粪比较好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516455482772258816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2055173247277412724",
+        "created_at": "2026-05-17T11:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055980919291551826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552587744576057345",
+              "start": 0,
+              "username": "zhinarensb8964"
+            },
+            {
+              "end": 27,
+              "id": "1872908794646421504",
+              "start": 16,
+              "username": "Niki241228"
+            },
+            {
+              "end": 42,
+              "id": "1622066090074607616",
+              "start": 28,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055980919291551826",
+        "in_reply_to_user_id": "1552587744576057345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055940197360308493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensb8964 @Niki241228 @hoshinofujivy 盗图？你在网上拿张电影图片用的时候，你至少知道是哪家电影公司拍的，一张在网上流转没有任何标识的AI图片就你这种脑残才一天天狂吠“你盗图”\n\n就你那种张嘴就喷粪的素质我也没指望你能说出人话\n\n滚出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2055293038222774543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 848,
+          "like_count": 4989,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1153
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T16:35:45.000Z",
+        "description": "𝘵𝘩𝘦 𝘮𝘰𝘳𝘦 𝘺𝘰𝘶 𝘭𝘰𝘰𝘬, 𝘵𝘩𝘦 𝘭𝘦𝘴𝘴 𝘺𝘰𝘶 𝘴𝘦𝘦.",
+        "id": "1516455482772258816",
+        "name": "𝐶𝑜𝑟𝑟𝑖𝑛𝑒",
+        "pinned_tweet_id": "1523333036565471232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533909468534415360/0ooMC5WJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 140,
+          "like_count": 15255,
+          "listed_count": 10,
+          "media_count": 2413,
+          "tweet_count": 9052
+        },
+        "username": "Fly9981",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T09:32:29.000Z",
+        "description": "大号@zhinarencnm8964\n小号@zhinarensml8964\n此账号作为被制裁后的逃生舱使用，究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1552587744576057345",
+        "location": "支那",
+        "name": "Father you were stronger🌸（内格夫小姐的逃生舱）",
+        "pinned_tweet_id": "2055252906228789565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055580842878271488/mTqAheFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 566,
+          "like_count": 19447,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 1866
+        },
+        "username": "zhinarensb8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T07:34:00.000Z",
+        "description": "",
+        "id": "1872908794646421504",
+        "name": "点点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880631504067608576/MUmEjlnO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 16,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 790
+        },
+        "username": "Niki241228",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10914,
+          "following_count": 4305,
+          "like_count": 46198,
+          "listed_count": 35,
+          "media_count": 2285,
+          "tweet_count": 14003
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

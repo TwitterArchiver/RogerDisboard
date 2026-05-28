@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2056767919183589496",
+    "created_at": "2026-05-19T17:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056785396546359524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021505617094209536",
+          "start": 0,
+          "username": "NiaoYou83766"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056785396546359524",
+    "in_reply_to_user_id": "2021505617094209536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056784818927706536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiaoYou83766 贴贴～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2056767919183589496",
+        "created_at": "2026-05-19T17:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056785396546359524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021505617094209536",
+              "start": 0,
+              "username": "NiaoYou83766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056785396546359524",
+        "in_reply_to_user_id": "2021505617094209536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056784818927706536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiaoYou83766 贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021505617094209536",
+        "conversation_id": "2056767919183589496",
+        "created_at": "2026-05-19T17:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056784818927706536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056784818927706536",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056782180190498856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 貼貼喵 www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 860,
+          "like_count": 5336,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1209
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:51.000Z",
+        "description": "在查看帖子之前 请您知悉:此账号会包含大量负面内容/碎碎念 请您在确保自身情绪稳定后观看(此號只回🏳️‍⚧️)\n大号:@xiaoyi_0324 我的第二人格:@Ruai_0324 謝謝大家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "xiaoyi_0324"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Ruai_0324"
+              }
+            ]
+          }
+        },
+        "id": "2021505617094209536",
+        "location": "某個黑暗的角落",
+        "name": "樱川由奈🏳️‍⚧️💊✝️",
+        "pinned_tweet_id": "2056781811951509927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021505699705151488/0Xvw94ut_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 48,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "NiaoYou83766",
+        "verified": false
+      }
+    ]
+  }
+}

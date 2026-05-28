@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2057743292671144019",
+    "created_at": "2026-05-22T10:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057776149904974298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510195720137023499",
+          "start": 0,
+          "username": "index_ourFusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057776149904974298",
+    "in_reply_to_user_id": "1510195720137023499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057743292671144019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@index_ourFusion 辛克莱哟～（狂笑）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057743279278686208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6SnDBagAAVyXp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2057743292671144019",
+        "created_at": "2026-05-22T10:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057776149904974298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510195720137023499",
+              "start": 0,
+              "username": "index_ourFusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057776149904974298",
+        "in_reply_to_user_id": "1510195720137023499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057743292671144019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@index_ourFusion 辛克莱哟～（狂笑）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057743279278686208"
+          ]
+        },
+        "author_id": "1510195720137023499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057743292671144019",
+        "created_at": "2026-05-22T08:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057743292671144019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEQQclkb0j",
+              "end": 35,
+              "expanded_url": "https://x.com/index_ourFusion/status/2057743292671144019/photo/1",
+              "media_key": "3_2057743279278686208",
+              "start": 12,
+              "url": "https://t.co/FEQQclkb0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057743292671144019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烤冷面太好吃了有人懂吗 https://t.co/FEQQclkb0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2057108818891624908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 871,
+          "like_count": 5586,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1246
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T10:01:43.000Z",
+        "description": "シビュラ精霊記爱好者｜リエア・リエル❤️｜中文日本語Eng👌\n曾用名：Limiremelootes、Arethusa\n废文书@OurFusion_index\n匿名提问渠道⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "OurFusion_index"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/T6LPDG",
+                "end": 23,
+                "expanded_url": "https://qntwx.cn/T6LPDG",
+                "start": 0,
+                "url": "https://t.co/xrhZageQqW"
+              }
+            ]
+          }
+        },
+        "id": "1510195720137023499",
+        "location": "地心",
+        "name": "index",
+        "pinned_tweet_id": "2047821016810893729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057248976378740736/nMAUmMt-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 754,
+          "like_count": 13108,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 1834
+        },
+        "url": "https://t.co/xrhZageQqW",
+        "username": "index_ourFusion",
+        "verified": false
+      }
+    ]
+  }
+}

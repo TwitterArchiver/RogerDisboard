@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052518646380204190",
+    "created_at": "2026-05-08T14:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052761365081927779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043711489517715456",
+          "start": 0,
+          "username": "qiankang080621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052761365081927779",
+    "in_reply_to_user_id": "2043711489517715456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052530469401694259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiankang080621 是的\n我讨厌无意义的死亡\n因为它没有对生命基本的敬意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052518646380204190",
+        "created_at": "2026-05-08T14:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052761365081927779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043711489517715456",
+              "start": 0,
+              "username": "qiankang080621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052761365081927779",
+        "in_reply_to_user_id": "2043711489517715456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052530469401694259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiankang080621 是的\n我讨厌无意义的死亡\n因为它没有对生命基本的敬意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043711489517715456",
+        "conversation_id": "2052518646380204190",
+        "created_at": "2026-05-07T23:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052530469401694259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052530469401694259",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052518646380204190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 康讨厌无意义的死亡，不会对角色成长，事件推动，故事发展，以及原有剧情线有任何的意义，就是单单纯纯的死了，那是令人极度厌恶的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/不o不割不健全/友跨/妄想成为心理委员/守护他人的决意/查成分互fo/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2052040284293460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 896,
+          "like_count": 3297,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 857
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T15:22:56.000Z",
+        "description": "本康♊️男♂️风向🌪人族😎温柔✨贤惠💫多才多艺🎮（划掉）动物爱好者🐭兼睡觉爱好者💤小政府主义者？？？👁‍🗨（无所谓）听摇滚的疯狍子🎧（犬儒牛*）小吃重度依赖🍽宅地生存学家🎓喜欢午夜🌙雨雪天气🌩🌨平等接受包容所有群体‍🩹💌💝任何人都有被爱的权利❤️❤️（贴脸除外👎）",
+        "id": "2043711489517715456",
+        "name": "千千康",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049497982740123648/b6gjq7xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 45,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 471
+        },
+        "username": "qiankang080621",
+        "verified": false
+      }
+    ]
+  }
+}

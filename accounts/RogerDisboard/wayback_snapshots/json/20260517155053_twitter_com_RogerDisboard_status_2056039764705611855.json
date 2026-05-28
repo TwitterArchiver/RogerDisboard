@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056039744203804672"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2056035856587325482",
+    "created_at": "2026-05-17T15:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056039764705611855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026186288194568192",
+          "start": 0,
+          "username": "miku124310"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/azOSCA5hKX",
+          "end": 35,
+          "expanded_url": "https://x.com/RogerDisboard/status/2056039764705611855/photo/1",
+          "media_key": "3_2056039744203804672",
+          "start": 12,
+          "url": "https://t.co/azOSCA5hKX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056039764705611855",
+    "in_reply_to_user_id": "2026186288194568192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056035856587325482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miku124310 https://t.co/azOSCA5hKX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056039764705611855].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056039764705611855",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056039764705611855"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1185,
+        "media_key": "3_2056039744203804672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiFQQVaUAAU1r-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2056035844486770688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiBtQwasAAWueg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056035844486770688"
+          ]
+        },
+        "author_id": "2026186288194568192",
+        "conversation_id": "2056035856587325482",
+        "created_at": "2026-05-17T15:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056035856587325482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oBqa2Cke5",
+              "end": 41,
+              "expanded_url": "https://x.com/miku124310/status/2056035856587325482/photo/1",
+              "media_key": "3_2056035844486770688",
+              "start": 18,
+              "url": "https://t.co/8oBqa2Cke5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056035856587325482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实地考察です，有万达广场附近的吗🤔 https://t.co/8oBqa2Cke5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2055293038222774543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 851,
+          "like_count": 5051,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1168
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T06:44:27.000Z",
+        "description": "知晓命运并坦然面对的人是幸福的。                                                 ——《JOJO的奇妙冒险 石之海》普奇神父",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan520",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan520",
+                "start": 0,
+                "url": "https://t.co/ItS0KvTxtU"
+              }
+            ]
+          }
+        },
+        "id": "2026186288194568192",
+        "name": "防尘迷呀_awa🇰🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054557711472394240/DbSdAkmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 134,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/ItS0KvTxtU",
+        "username": "miku124310",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047699057393676290",
+        "3_2047699063534231552"
+      ],
+      "media_source_tweet_id": [
+        "2047699123193921641",
+        "2047699123193921641"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047920338219184343",
+    "created_at": "2026-04-25T06:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047920338219184343"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 15,
+          "tag": "LimbusCompany"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878349435111165952",
+          "start": 3,
+          "username": "Parsley_Q"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nTmQSVhBOJ",
+          "end": 58,
+          "expanded_url": "https://x.com/Parsley_Q/status/2047699123193921641/photo/1",
+          "media_key": "3_2047699057393676290",
+          "start": 35,
+          "url": "https://t.co/nTmQSVhBOJ"
+        },
+        {
+          "display_url": "pic.x.com/nTmQSVhBOJ",
+          "end": 58,
+          "expanded_url": "https://x.com/Parsley_Q/status/2047699123193921641/photo/1",
+          "media_key": "3_2047699063534231552",
+          "start": 35,
+          "url": "https://t.co/nTmQSVhBOJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047920338219184343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047699123193921641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Parsley_Q: #LimbusCompany\n和服耶！ https://t.co/nTmQSVhBOJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047699057393676290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrjcYraMAIafLd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1682,
+        "media_key": "3_2047699063534231552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrjcvjboAAWJlG.jpg",
+        "width": 1683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047699057393676290",
+            "3_2047699063534231552"
+          ],
+          "media_source_tweet_id": [
+            "2047699123193921641",
+            "2047699123193921641"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047920338219184343",
+        "created_at": "2026-04-25T06:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047920338219184343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 15,
+              "tag": "LimbusCompany"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878349435111165952",
+              "start": 3,
+              "username": "Parsley_Q"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTmQSVhBOJ",
+              "end": 58,
+              "expanded_url": "https://x.com/Parsley_Q/status/2047699123193921641/photo/1",
+              "media_key": "3_2047699057393676290",
+              "start": 35,
+              "url": "https://t.co/nTmQSVhBOJ"
+            },
+            {
+              "display_url": "pic.x.com/nTmQSVhBOJ",
+              "end": 58,
+              "expanded_url": "https://x.com/Parsley_Q/status/2047699123193921641/photo/1",
+              "media_key": "3_2047699063534231552",
+              "start": 35,
+              "url": "https://t.co/nTmQSVhBOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047920338219184343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047699123193921641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Parsley_Q: #LimbusCompany\n和服耶！ https://t.co/nTmQSVhBOJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047699057393676290",
+            "3_2047699063534231552"
+          ]
+        },
+        "author_id": "1878349435111165952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047699123193921641",
+        "created_at": "2026-04-24T15:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047699123193921641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "LimbusCompany"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTmQSVhBOJ",
+              "end": 43,
+              "expanded_url": "https://x.com/Parsley_Q/status/2047699123193921641/photo/1",
+              "media_key": "3_2047699057393676290",
+              "start": 20,
+              "url": "https://t.co/nTmQSVhBOJ"
+            },
+            {
+              "display_url": "pic.x.com/nTmQSVhBOJ",
+              "end": 43,
+              "expanded_url": "https://x.com/Parsley_Q/status/2047699123193921641/photo/1",
+              "media_key": "3_2047699063534231552",
+              "start": 20,
+              "url": "https://t.co/nTmQSVhBOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047699123193921641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 4693,
+          "like_count": 588,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "#LimbusCompany\n和服耶！ https://t.co/nTmQSVhBOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 546,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 285
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T07:53:35.000Z",
+        "description": "平时比较忙周末才有的画…(p_q）\n不要把我的图喂ai，转载写上是我就行了（真有人转吗）",
+        "id": "1878349435111165952",
+        "name": "parsley_Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015296495776317440/sTqUKmgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 90,
+          "like_count": 899,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 51
+        },
+        "username": "Parsley_Q",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043925141646925824"
+      ],
+      "media_source_tweet_id": [
+        "2043925149007917405"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2044450901306593783",
+    "created_at": "2026-04-15T16:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T17:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044450901306593783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1621732945081016320",
+          "start": 3,
+          "username": "wanwan_voice"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zdq3bvPxXp",
+          "end": 70,
+          "expanded_url": "https://x.com/wanwan_voice/status/2043925149007917405/photo/1",
+          "media_key": "3_2043925141646925824",
+          "start": 47,
+          "url": "https://t.co/Zdq3bvPxXp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044450901306593783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 531
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043925149007917405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wanwan_voice: 4/19 23:00 情報解禁。\n我就不信你們看得到臉。 https://t.co/Zdq3bvPxXp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2043925141646925824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF17Fk9a4AAL0MK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043925141646925824"
+          ],
+          "media_source_tweet_id": [
+            "2043925149007917405"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2044450901306593783",
+        "created_at": "2026-04-15T16:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044450901306593783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1621732945081016320",
+              "start": 3,
+              "username": "wanwan_voice"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zdq3bvPxXp",
+              "end": 70,
+              "expanded_url": "https://x.com/wanwan_voice/status/2043925149007917405/photo/1",
+              "media_key": "3_2043925141646925824",
+              "start": 47,
+              "url": "https://t.co/Zdq3bvPxXp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044450901306593783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 531
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043925149007917405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wanwan_voice: 4/19 23:00 情報解禁。\n我就不信你們看得到臉。 https://t.co/Zdq3bvPxXp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043925141646925824"
+          ]
+        },
+        "author_id": "1621732945081016320",
+        "conversation_id": "2043925149007917405",
+        "created_at": "2026-04-14T05:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043925149007917405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zdq3bvPxXp",
+              "end": 52,
+              "expanded_url": "https://x.com/wanwan_voice/status/2043925149007917405/photo/1",
+              "media_key": "3_2043925141646925824",
+              "start": 29,
+              "url": "https://t.co/Zdq3bvPxXp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043925149007917405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 39416,
+          "like_count": 768,
+          "quote_count": 28,
+          "reply_count": 44,
+          "retweet_count": 531
+        },
+        "reply_settings": "everyone",
+        "text": "4/19 23:00 情報解禁。\n我就不信你們看得到臉。 https://t.co/Zdq3bvPxXp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "RogerDISBOARD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 243,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 63
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T04:51:08.000Z",
+        "description": "底邊配音員偶爾錄音聲跟小黃遊賺錢，老婆兼長工 @pal_is_working。 飯友 #晚上吃什麼 二創 #晚縣縣民藝廊 （可能使用）R18 #晚美主義 生活分享 #縣長出巡 連結整理 https://t.co/qsgy6eM56D 委託可私訊 工商合作請洽 limnos.co@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "晚上吃什麼"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "tag": "晚縣縣民藝廊"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "晚美主義"
+              },
+              {
+                "end": 87,
+                "start": 82,
+                "tag": "縣長出巡"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "pal_is_working"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "portaly.cc/wanwanvoice",
+                "end": 116,
+                "expanded_url": "https://portaly.cc/wanwanvoice",
+                "start": 93,
+                "url": "https://t.co/qsgy6eM56D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wanwan_voice",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wanwan_voice",
+                "start": 0,
+                "url": "https://t.co/WM4Fgf4jvf"
+              }
+            ]
+          }
+        },
+        "id": "1621732945081016320",
+        "location": "台北市, 台灣",
+        "name": "晚晚配音中💕聲音導演配音委託歡迎",
+        "pinned_tweet_id": "2043925149007917405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026164953632444416/IQuPvR4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15569,
+          "following_count": 1935,
+          "like_count": 45983,
+          "listed_count": 32,
+          "media_count": 1110,
+          "tweet_count": 13624
+        },
+        "url": "https://t.co/WM4Fgf4jvf",
+        "username": "wanwan_voice",
+        "verified": true
+      }
+    ]
+  }
+}

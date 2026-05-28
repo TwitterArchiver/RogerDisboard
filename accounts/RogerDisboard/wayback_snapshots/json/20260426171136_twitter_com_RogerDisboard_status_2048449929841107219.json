@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2048437988963864668",
+    "created_at": "2026-04-26T17:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048449929841107219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726808702387449856",
+          "start": 0,
+          "username": "Nargiti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048449929841107219",
+    "in_reply_to_user_id": "1726808702387449856",
+    "lang": "hu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048449715453448274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nargiti XDXDXDXD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2048437988963864668",
+        "created_at": "2026-04-26T17:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048449929841107219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726808702387449856",
+              "start": 0,
+              "username": "Nargiti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048449929841107219",
+        "in_reply_to_user_id": "1726808702387449856",
+        "lang": "hu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048449715453448274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nargiti XDXDXDXD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726808702387449856",
+        "conversation_id": "2048437988963864668",
+        "created_at": "2026-04-26T17:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048449715453448274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048449715453448274",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048437988963864668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard TDTDTDTD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 641,
+          "like_count": 1339,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 392
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允",
+        "id": "1726808702387449856",
+        "name": "丌乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043402687564349440/_o9ITcv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 14,
+          "like_count": 4125,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 141
+        },
+        "username": "Nargiti",
+        "verified": false
+      }
+    ]
+  }
+}

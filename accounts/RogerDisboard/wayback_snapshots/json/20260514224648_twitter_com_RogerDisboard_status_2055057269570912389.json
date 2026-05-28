@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2054854229219594292",
+    "created_at": "2026-05-14T22:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T23:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055057269570912389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682395404976156672",
+          "start": 0,
+          "username": "yanghs84"
+        },
+        {
+          "end": 20,
+          "id": "1589235830731997188",
+          "start": 10,
+          "username": "PWaterawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055057269570912389",
+    "in_reply_to_user_id": "1682395404976156672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054854229219594292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanghs84 @PWaterawa 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2054854229219594292",
+        "created_at": "2026-05-14T22:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055057269570912389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682395404976156672",
+              "start": 0,
+              "username": "yanghs84"
+            },
+            {
+              "end": 20,
+              "id": "1589235830731997188",
+              "start": 10,
+              "username": "PWaterawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055057269570912389",
+        "in_reply_to_user_id": "1682395404976156672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054854229219594292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanghs84 @PWaterawa 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682395404976156672",
+        "conversation_id": "2054854229219594292",
+        "created_at": "2026-05-14T09:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054854229219594292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054854229219594292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4174,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖贴（5.20限定版）\n1.本次开奖时间为5月20号下午5点20\n2.本次送出18.8红包5个，52元红包5个，168红包1个，希望有更多人可以参与到\n3.参与方式：点赞、评论、转帖都🉑，168红包只会在转帖的人中选择，请周知\n4.领奖时间为开奖后12小时内，过期不补\n提前祝大家开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 1059,
+          "like_count": 4469,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1064
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T14:21:41.000Z",
+        "description": "普通人，喜欢美女是正常的",
+        "id": "1682395404976156672",
+        "location": "Taiwan",
+        "name": "不吃鱼的猫",
+        "pinned_tweet_id": "2048982114541117755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016011338741628928/D6sBt4Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 14,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 253
+        },
+        "username": "yanghs84",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "为何而可爱?为何而残酷?\n因爱因恶\n爱为何物?恶为何物?\n不知不知\nPS.会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pwaterawa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pwaterawa1",
+                "start": 0,
+                "url": "https://t.co/XINkJVVhgw"
+              }
+            ]
+          }
+        },
+        "id": "1589235830731997188",
+        "location": "可爱的世界~也是残酷的世界…",
+        "name": "汐汐",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1211,
+          "like_count": 2147,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2724
+        },
+        "url": "https://t.co/XINkJVVhgw",
+        "username": "PWaterawa",
+        "verified": false
+      }
+    ]
+  }
+}

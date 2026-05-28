@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045545428415029248"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2045545435180515821",
+    "created_at": "2026-04-18T16:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045545435180515821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RhClaGT44u",
+          "end": 40,
+          "expanded_url": "https://x.com/RogerDisboard/status/2045545435180515821/photo/1",
+          "media_key": "3_2045545428415029248",
+          "start": 17,
+          "url": "https://t.co/RhClaGT44u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045545435180515821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊吾需要快捷高效处死蚊子的方法 https://t.co/RhClaGT44u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045545435180515821].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045545435180515821",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045545435180515821"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2045545428415029248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM8uriaIAA9VUV.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "RogerDISBOARD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 315,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 125
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

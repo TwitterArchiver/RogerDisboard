@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2047901887320527034",
+    "created_at": "2026-04-25T05:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T06:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047915634890285319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974380290031132672",
+          "start": 0,
+          "username": "LiuZe97559"
+        },
+        {
+          "end": 27,
+          "id": "2027854284155666432",
+          "start": 12,
+          "username": "supermenfamily"
+        },
+        {
+          "end": 36,
+          "id": "1239457591417171973",
+          "start": 28,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047915634890285319",
+    "in_reply_to_user_id": "1974380290031132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047901887320527034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuZe97559 @supermenfamily @GFWfrog 感觉是个串子（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2047901887320527034",
+        "created_at": "2026-04-25T05:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047915634890285319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974380290031132672",
+              "start": 0,
+              "username": "LiuZe97559"
+            },
+            {
+              "end": 27,
+              "id": "2027854284155666432",
+              "start": 12,
+              "username": "supermenfamily"
+            },
+            {
+              "end": 36,
+              "id": "1239457591417171973",
+              "start": 28,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047915634890285319",
+        "in_reply_to_user_id": "1974380290031132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047901887320527034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuZe97559 @supermenfamily @GFWfrog 感觉是个串子（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974380290031132672",
+        "conversation_id": "2047901887320527034",
+        "created_at": "2026-04-25T04:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047901887320527034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "2027854284155666432",
+              "start": 19,
+              "username": "supermenfamily"
+            },
+            {
+              "end": 43,
+              "id": "1239457591417171973",
+              "start": 35,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047901887320527034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过来看这个傻逼，小粉红就别在外网叫了\n@supermenfamily\n@GFWfrog蛙哥你说对不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 543,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 278
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "前世 @juhuhiulzy448｜八年級初中生｜中度抑鬱症｜活躍度不佳，不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持同性戀及跨性別社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "juhuhiulzy448"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/uMYDt9cawl"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "pepoyoPPY（互fo）",
+        "pinned_tweet_id": "2042464761233723531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042464843803021312/Xrx6Rv7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 256,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/uMYDt9cawl",
+        "username": "LiuZe97559",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T21:12:05.000Z",
+        "description": "｜堂堂正正中华人民共和国优质纯血汉族人，支持共产党领导中国！支持言论自由！｜\n\n本人走高冷小众路线，不迎合任何群体，特别是二次元。我们是超级男人厉害家族推特分族！｜\n\n只要心中有超级男人，你就是超级男人！加群在b站，炸群踢。｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35467030995955…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3546703099595588/",
+                "start": 0,
+                "url": "https://t.co/hSZl07kYT8"
+              }
+            ]
+          }
+        },
+        "id": "2027854284155666432",
+        "location": "英国（不是中国香港，香港已回归）",
+        "name": "超级男人厉害家族🇨🇳💯（厉害了我的国）",
+        "pinned_tweet_id": "2028370412271177786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027856039048290305/6ywq4cBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/hSZl07kYT8",
+        "username": "supermenfamily",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/aVPvX0T16B 网页在线投稿 150岁爷习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大传单运动 \n邮箱：gfwfrog@gmail.com 🐸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 107,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 125,
+                "start": 119,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 132,
+                "start": 126,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 139,
+                "start": 133,
+                "tag": "大传单运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 33,
+                "expanded_url": "http://gfwbao.com",
+                "start": 10,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 76,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 53,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 105,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 82,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2046589281829835013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262292,
+          "following_count": 2499,
+          "like_count": 126421,
+          "listed_count": 906,
+          "media_count": 7250,
+          "tweet_count": 13790
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

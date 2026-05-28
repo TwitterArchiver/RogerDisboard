@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2046640032052920752",
+    "created_at": "2026-04-21T17:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T18:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046640032052920752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shixiaomeimoya…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/shixiaomeimoya/status/2046632538215686327",
+          "start": 21,
+          "url": "https://t.co/USknn1OMAV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046640032052920752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046632538215686327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "致看到的所有人：\n攻击这个SB，不遗余力 https://t.co/USknn1OMAV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2046640032052920752",
+        "created_at": "2026-04-21T17:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046640032052920752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shixiaomeimoya…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/shixiaomeimoya/status/2046632538215686327",
+              "start": 21,
+              "url": "https://t.co/USknn1OMAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046640032052920752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046632538215686327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "致看到的所有人：\n攻击这个SB，不遗余力 https://t.co/USknn1OMAV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045025548401823744",
+        "conversation_id": "2046277122382279080",
+        "created_at": "2026-04-21T16:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046632538215686327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046632538215686327",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046277122382279080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomonuya 那就去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 448,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 228
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:24:35.000Z",
+        "description": "門52，只收wechat",
+        "id": "2045025548401823744",
+        "name": "小魔女（是小魅魔呀）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045030301190230016/iCnq9Erh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "username": "ShiXiaomeiMoYa",
+        "verified": false
+      }
+    ]
+  }
+}

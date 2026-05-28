@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2058432277294793188",
+    "created_at": "2026-05-24T06:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058432277294793188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chise_wo/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/chise_wo/status/2058409661653766611",
+          "start": 6,
+          "url": "https://t.co/jUit2Yn1iT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058432277294793188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058409661653766611",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特怎么玩 https://t.co/jUit2Yn1iT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2058432277294793188",
+        "created_at": "2026-05-24T06:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058432277294793188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chise_wo/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/chise_wo/status/2058409661653766611",
+              "start": 6,
+              "url": "https://t.co/jUit2Yn1iT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058432277294793188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058409661653766611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特怎么玩 https://t.co/jUit2Yn1iT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "2058409661653766611",
+        "created_at": "2026-05-24T04:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058409661653766611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IctyeP/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/IctyeP/status/2058113988995772651",
+              "start": 6,
+              "url": "https://t.co/drYEic5Msy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058409661653766611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1188,
+          "like_count": 10,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058113988995772651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特怎麼玩 https://t.co/drYEic5Msy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2057824559936754116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 897,
+          "like_count": 5982,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1361
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "成分很复杂的一只可爱小千 | 总之就是音游吃 | Kobaryo真的很好听不是吗 | 啊呜喵~~~❤️ | 想要变可爱 | 欢迎来和我聊天 | 想要QQ可以私信喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/yj1O6fxiqE"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "location": "Address",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050128439362166784/ceUDKMYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 1425,
+          "like_count": 30463,
+          "listed_count": 2,
+          "media_count": 415,
+          "tweet_count": 7480
+        },
+        "url": "https://t.co/yj1O6fxiqE",
+        "username": "Chise_wo",
+        "verified": false
+      }
+    ]
+  }
+}

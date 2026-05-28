@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2050518443750010880"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2050515055012388873",
+    "created_at": "2026-05-02T10:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050518472808178012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952690690892468224",
+          "start": 0,
+          "username": "meowania_Fan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oYDT1CbY0u",
+          "end": 41,
+          "expanded_url": "https://x.com/RogerDisboard/status/2050518472808178012/photo/1",
+          "media_key": "16_2050518443750010880",
+          "start": 18,
+          "url": "https://t.co/oYDT1CbY0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050518472808178012",
+    "in_reply_to_user_id": "1952690690892468224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050515055012388873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meowania_Fan 喵喵喵 https://t.co/oYDT1CbY0u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050518472808178012].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050518472808178012",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050518472808178012"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2050518443750010880",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHTnqRUbMAAE9jI.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHTnqRUbMAAE9jI.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050515042400157696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTkkSTbQAAHwD_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050515042400157696"
+          ]
+        },
+        "author_id": "1952690690892468224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050515055012388873",
+        "created_at": "2026-05-02T09:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050515055012388873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XPFFMWp8U",
+              "end": 32,
+              "expanded_url": "https://x.com/meowania_Fan/status/2050515055012388873/photo/1",
+              "media_key": "3_2050515042400157696",
+              "start": 9,
+              "url": "https://t.co/9XPFFMWp8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050515055012388873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家先吃www🥰 https://t.co/9XPFFMWp8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 778,
+          "like_count": 2020,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 600
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T11:18:44.000Z",
+        "description": "一只09年高一猫｜🏳️‍⚧️｜🍥2026.4.11🍥｜家暴党｜183cm｜74kg｜OIer｜精神状态不明｜喜欢贴贴｜现实超级大社恐｜Minecraft｜欢迎来互fo聊天喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowania_fan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowania_fan",
+                "start": 0,
+                "url": "https://t.co/CO8uHJ0a87"
+              }
+            ]
+          }
+        },
+        "id": "1952690690892468224",
+        "name": "Meowania",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021791717650010112/9BvDRLle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 232,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/CO8uHJ0a87",
+        "username": "meowania_Fan",
+        "verified": false
+      }
+    ]
+  }
+}

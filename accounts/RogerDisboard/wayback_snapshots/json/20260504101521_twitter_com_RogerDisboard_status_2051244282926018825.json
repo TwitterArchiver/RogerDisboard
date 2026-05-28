@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2051243050413011075",
+    "created_at": "2026-05-04T10:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051244282926018825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510195720137023499",
+          "start": 0,
+          "username": "index_ourFusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051244282926018825",
+    "in_reply_to_user_id": "1510195720137023499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051243050413011075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@index_ourFusion 内圈贴贴～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2051243046344568833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHd6rsVbsAE3OND.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2051243050413011075",
+        "created_at": "2026-05-04T10:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051244282926018825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510195720137023499",
+              "start": 0,
+              "username": "index_ourFusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051244282926018825",
+        "in_reply_to_user_id": "1510195720137023499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051243050413011075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@index_ourFusion 内圈贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051243046344568833"
+          ]
+        },
+        "author_id": "1510195720137023499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2051243050413011075",
+        "created_at": "2026-05-04T10:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051243050413011075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2051123147123146752/BlNGzaWd?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051123147123146752/BlNGzaWd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/xLdoN4kE86"
+            },
+            {
+              "display_url": "pic.x.com/3yfff45bP1",
+              "end": 64,
+              "expanded_url": "https://x.com/index_ourFusion/status/2051243050413011075/photo/1",
+              "media_key": "3_2051243046344568833",
+              "start": 41,
+              "url": "https://t.co/3yfff45bP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051243050413011075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/xLdoN4kE86 https://t.co/3yfff45bP1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 818,
+          "like_count": 2679,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 723
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T10:01:43.000Z",
+        "description": "シビュラ精霊記爱好者｜中文日本語Eng👌\n曾用名：Limiremelootes、Arethusa\n废文书@OurFusion_index\n匿名提问渠道⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "OurFusion_index"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/T6LPDG",
+                "end": 23,
+                "expanded_url": "https://qntwx.cn/T6LPDG",
+                "start": 0,
+                "url": "https://t.co/xrhZagfogu"
+              }
+            ]
+          }
+        },
+        "id": "1510195720137023499",
+        "location": "奉天重工",
+        "name": "index",
+        "pinned_tweet_id": "2047821016810893729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049453547188854784/04Hec3yl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 705,
+          "like_count": 11296,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/xrhZagfogu",
+        "username": "index_ourFusion",
+        "verified": false
+      }
+    ]
+  }
+}

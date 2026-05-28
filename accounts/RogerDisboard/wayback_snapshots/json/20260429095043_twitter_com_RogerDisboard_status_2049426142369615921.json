@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2049172279175856543",
+    "created_at": "2026-04-29T09:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049426142369615921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049426142369615921",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049172279175856543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2049171282923823104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAebMKbIAA5cc0.png",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2049172279175856543",
+        "created_at": "2026-04-29T09:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049426142369615921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049426142369615921",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049172279175856543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049171282923823104"
+          ]
+        },
+        "author_id": "1764195010986274816",
+        "conversation_id": "2049172279175856543",
+        "created_at": "2026-04-28T17:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:00:01.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049171789759029288",
+          "2049172100972462514",
+          "2049172279175856543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XkGMj7uHPc",
+              "end": 166,
+              "expanded_url": "https://x.com/CCA8798/status/2049172279175856543/photo/1",
+              "media_key": "3_2049171282923823104",
+              "start": 143,
+              "url": "https://t.co/XkGMj7uHPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049172279175856543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 173,
+                "id": "1764195010986274816",
+                "start": 165,
+                "username": "CCA8798"
+              },
+              {
+                "end": 186,
+                "id": "2048693394226974720",
+                "start": 174,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "text": "捌拐玖捌今天200fo啦！\n超级开心！感谢大家喜欢窝🥰\n既然是开心的事情，那窝们就来抽奖😋\n(还有上次抽奖只有一位宝宝DM窝，所以上次中奖的宝宝要记得及时联系窝🥺)\n以下是琼B捌姐的抽奖项目：\n一奖：17.78r x1\n二奖：《租借女友》吧唧(四女主任选一) x2\n(二奖可折现3r)\n因为买了神秘道具所以三奖发不起😭\n同时关注 @CCA8798及@CCA8798suki\n+点赞评论转帖参与喵😋\n2026/5/1 晚上23:30(UTC+8)开奖\n抽奖的工具我会自己写哒(快夸我😇)\n随机数引擎是Cpp的std::mt19937\n会放在Ubuntu里跑哒，是真随机数！😉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 914,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "捌拐玖捌今天200fo啦！\n超级开心！感谢大家喜欢窝🥰\n既然是开心的事情，那窝们就来抽奖😋\n(还有上次抽奖只有一位宝宝DM窝，所以上次中奖的宝宝要记得及时联系窝🥺)\n以下是琼B捌姐的抽奖项目：\n一奖：17.78r x1\n二奖：《租借女友》吧唧(四女主任选一) x2\n(二奖可折现3r) https://t.co/XkGMj7uHPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 682,
+          "like_count": 1547,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 444
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 年龄党说是 出厂:壹贰.零壹.零叁 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器\n二代目兼发图推：@CCA8798suki\n宝宝：@InnoARoma_Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 130,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "InnoARoma_Rt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(求fo版)🍥",
+        "pinned_tweet_id": "2048796576773226883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043188404326899712/zqXCx5jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 474,
+          "like_count": 9082,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1080
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2049356528239640724",
+    "created_at": "2026-04-29T14:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049490164561723696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910709382603825154",
+          "start": 0,
+          "username": "SHIIII_1201"
+        },
+        {
+          "end": 25,
+          "id": "1500855672480489475",
+          "start": 13,
+          "username": "Science_010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049490164561723696",
+    "in_reply_to_user_id": "1910709382603825154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049356528239640724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHIIII_1201 @Science_010 蹲蹲喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2049356516193660928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDG5L3a8AAQd9d.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2049356528239640724",
+        "created_at": "2026-04-29T14:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049490164561723696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            },
+            {
+              "end": 25,
+              "id": "1500855672480489475",
+              "start": 13,
+              "username": "Science_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049490164561723696",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049356528239640724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 @Science_010 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049356516193660928"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "conversation_id": "2049356528239640724",
+        "created_at": "2026-04-29T05:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049356528239640724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XeCRMdJ3K0",
+              "end": 102,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2049356528239640724/photo/1",
+              "media_key": "3_2049356516193660928",
+              "start": 79,
+              "url": "https://t.co/XeCRMdJ3K0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049356528239640724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1683,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "呐～这么快就到150fo了\n开一个抽奖吧❤️\n转fo评赞参加\n开奖时间5.6日13:00\n一等奖8.8*1\n二等奖5*1\n三等奖2*5\n☺️☺️☺️喜欢你们 https://t.co/XeCRMdJ3K0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 716,
+          "like_count": 1654,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 475
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗 顺女 不键政 上学中 🏳️‍🌈🏳️‍⚧️友好 互fo 发点日常 泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n互fo可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2049356528239640724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 374,
+          "like_count": 3492,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 337
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游\n080519/男/173 65/哦滴/术力口 平泽进/双/自我厌恶/cs2 gal/欢迎聊天/东方/疑似ENFP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XYji"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "2045916676081025099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 848,
+          "like_count": 3643,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2052
+        },
+        "url": "https://t.co/Lu4Wy2XYji",
+        "username": "Science_010",
+        "verified": false
+      }
+    ]
+  }
+}

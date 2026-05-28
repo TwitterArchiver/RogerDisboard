@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2053179784231031009",
+    "created_at": "2026-05-11T14:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053845703202668587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        },
+        {
+          "end": 24,
+          "id": "1944989354239385600",
+          "start": 16,
+          "username": "123mp27"
+        },
+        {
+          "end": 32,
+          "id": "1618314905475743749",
+          "start": 25,
+          "username": "CuOqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053845703202668587",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053819391452889110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan @123mp27 @CuOqwq 希望都寄托在您身上了\n我也会继续努力的\n就算是为了追随17的脚步，像17一样帮助别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2053179784231031009",
+        "created_at": "2026-05-11T14:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053845703202668587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            },
+            {
+              "end": 24,
+              "id": "1944989354239385600",
+              "start": 16,
+              "username": "123mp27"
+            },
+            {
+              "end": 32,
+              "id": "1618314905475743749",
+              "start": 25,
+              "username": "CuOqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053845703202668587",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053819391452889110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan @123mp27 @CuOqwq 希望都寄托在您身上了\n我也会继续努力的\n就算是为了追随17的脚步，像17一样帮助别人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2053179784231031009",
+        "created_at": "2026-05-11T12:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053819391452889110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 23,
+              "id": "1944989354239385600",
+              "start": 15,
+              "username": "123mp27"
+            },
+            {
+              "end": 31,
+              "id": "1618314905475743749",
+              "start": 24,
+              "username": "CuOqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053819391452889110",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053188695143202902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard @123mp27 @CuOqwq 我还好哦 我在多个方向上做努力了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2053507517779763254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1016,
+          "like_count": 3991,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 982
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "你好 我是紫色章鱼（叫我章鱼）\n我会点精神分析 哲学 一点点商业\n我希望@Aureliax17QwQ 活下去 大家帮帮我\n我可以接帮的上忙的自杀干预\n为了水水@dnshu135734\n我要写完《薪废土维修手册》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "dnshu135734"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2052524228092801382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 452,
+          "like_count": 3127,
+          "listed_count": 3,
+          "media_count": 423,
+          "tweet_count": 3246
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-15T05:16:48.000Z",
+        "description": "11年落地组装在河北承德，现居辽宁朝阳(intp)\n/欢迎私信，接受宣泄和游戏，不会泄露\n/实名王艳阳\n/我是低龄大傻逼\n/温和好猫！\n/匿名消息https://t.co/bvZlqGKxZu\n/可爱的人@DIC_EWE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "DIC_EWE"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/123mp27",
+                "end": 96,
+                "expanded_url": "https://ngl.link/123mp27",
+                "start": 73,
+                "url": "https://t.co/bvZlqGKxZu"
+              }
+            ]
+          }
+        },
+        "id": "1944989354239385600",
+        "location": "互fo需要查成分，只要不是傻逼和重度鉴证就可以",
+        "name": "Rana (e…...mmm.....baka!.",
+        "pinned_tweet_id": "2052972523311042954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022327136024252416/SQnOL9qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 425,
+          "like_count": 4572,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2910
+        },
+        "username": "123mp27",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T18:28:45.000Z",
+        "description": "愿每位来访者能够幸福，平安，健康，心想事成\n请记住，You Are Not Alone。",
+        "id": "1618314905475743749",
+        "location": "重庆",
+        "name": "CuO",
+        "pinned_tweet_id": "2053190325477478619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053188110960431104/eVMUJpHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 131,
+          "like_count": 2582,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 520
+        },
+        "username": "CuOqwq",
+        "verified": false
+      }
+    ]
+  }
+}

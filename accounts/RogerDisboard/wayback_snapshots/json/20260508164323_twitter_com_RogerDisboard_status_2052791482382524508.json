@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052791081092435974",
+    "created_at": "2026-05-08T16:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052791482382524508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2034276767331221504",
+          "start": 0,
+          "username": "SAIKAIaly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052791482382524508",
+    "in_reply_to_user_id": "2034276767331221504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052791081092435974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SAIKAIaly 歌品这方面拿出mili就足够了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2052791081092435974].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052791081092435974",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2052791081092435974"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052791081092435974",
+        "created_at": "2026-05-08T16:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052791482382524508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2034276767331221504",
+              "start": 0,
+              "username": "SAIKAIaly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052791482382524508",
+        "in_reply_to_user_id": "2034276767331221504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052791081092435974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAIKAIaly 歌品这方面拿出mili就足够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机产生奇妙思想/查成分互fo喵/欢迎私信喵/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2052040284293460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 925,
+          "like_count": 3390,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 869
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T14:32:44.000Z",
+        "description": "阿赖耶没有在等任何人！                                           \n                      大号:@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "otxiashu"
+              }
+            ]
+          }
+        },
+        "id": "2034276767331221504",
+        "name": "阿赖耶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042839746364452864/21Rtviyi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 26,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 76
+        },
+        "username": "SAIKAIaly",
+        "verified": false
+      }
+    ]
+  }
+}

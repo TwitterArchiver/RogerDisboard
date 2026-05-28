@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2052771238658088960"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052770030878884316",
+    "created_at": "2026-05-08T15:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052771260464291962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xujWIMFxO8",
+          "end": 33,
+          "expanded_url": "https://x.com/RogerDisboard/status/2052771260464291962/photo/1",
+          "media_key": "16_2052771238658088960",
+          "start": 10,
+          "url": "https://t.co/xujWIMFxO8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052771260464291962",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052770030878884316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 https://t.co/xujWIMFxO8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052771260464291962].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052771260464291962",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052771260464291962"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2052771238658088960",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHzokMVaoAAB4Ci.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHzokMVaoAAB4Ci.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052770027557011457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzndsoawAE3v9Q.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052770027557011457"
+          ]
+        },
+        "author_id": "1660586167807664129",
+        "conversation_id": "2052770030878884316",
+        "created_at": "2026-05-08T15:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052770030878884316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFjut5ucb6",
+              "end": 47,
+              "expanded_url": "https://x.com/ttttk567/status/2052770030878884316/photo/1",
+              "media_key": "3_2052770027557011457",
+              "start": 24,
+              "url": "https://t.co/PFjut5ucb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052770030878884316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天小月去住40元的青旅，也是有自己的小窝了🥺 https://t.co/PFjut5ucb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/不o不割不健全/友跨/妄想成为心理委员/守护他人的决意/查成分互fo/欢迎私信/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2052040284293460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 902,
+          "like_count": 3331,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 863
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / AuDHD ？ 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客https://t.co/e90qOe4ADO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 90,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 67,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "nowhere",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978063307694329856/viV6SIGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 327,
+          "like_count": 1624,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 566
+        },
+        "username": "ttttk567",
+        "verified": false
+      }
+    ]
+  }
+}

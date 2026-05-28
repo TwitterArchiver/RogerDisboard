@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2047921245686243571",
+    "created_at": "2026-04-25T06:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047921245686243571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoyobewild/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yoyobewild/status/2047884886724481248",
+          "start": 9,
+          "url": "https://t.co/oLQrlRSBt0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047921245686243571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047884886724481248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当代中国条子现状 https://t.co/oLQrlRSBt0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047884875710287872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuMcb2bUAAwhP6.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2047921245686243571",
+        "created_at": "2026-04-25T06:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047921245686243571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoyobewild/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yoyobewild/status/2047884886724481248",
+              "start": 9,
+              "url": "https://t.co/oLQrlRSBt0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047921245686243571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047884886724481248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当代中国条子现状 https://t.co/oLQrlRSBt0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047884875710287872"
+          ]
+        },
+        "author_id": "1581478431274983424",
+        "conversation_id": "2047884886724481248",
+        "created_at": "2026-04-25T03:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047884886724481248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oi7otbH7gd",
+              "end": 38,
+              "expanded_url": "https://x.com/yoyobewild/status/2047884886724481248/photo/1",
+              "media_key": "3_2047884875710287872",
+              "start": 15,
+              "url": "https://t.co/oi7otbH7gd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047884886724481248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5758,
+          "like_count": 245,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "深圳警察衙门式的“配合调查” https://t.co/oi7otbH7gd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 546,
+          "like_count": 868,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 287
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4759,
+          "following_count": 191,
+          "like_count": 37268,
+          "listed_count": 18,
+          "media_count": 384,
+          "tweet_count": 8060
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2049428201303363775",
+    "created_at": "2026-04-29T10:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049430711367573528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1691382703654883328",
+          "start": 0,
+          "username": "Deadsoul790"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049430711367573528",
+    "in_reply_to_user_id": "1691382703654883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049428201303363775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deadsoul790 你不许死..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2049428201303363775",
+        "created_at": "2026-04-29T10:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049430711367573528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1691382703654883328",
+              "start": 0,
+              "username": "Deadsoul790"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049430711367573528",
+        "in_reply_to_user_id": "1691382703654883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049428201303363775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deadsoul790 你不许死..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691382703654883328",
+        "conversation_id": "2049428201303363775",
+        "created_at": "2026-04-29T09:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049428201303363775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049428201303363775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 690,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 448
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:34:12.000Z",
+        "description": "从死去天使的灵魂开始，大家好，我从冥界杀回来了\n死也在所不惜\n与生生不息，小号@livingthing790会发一些我的蛇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "livingthing790"
+              }
+            ]
+          }
+        },
+        "id": "1691382703654883328",
+        "location": "In your dream",
+        "name": "SouL",
+        "pinned_tweet_id": "2049305793875599747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045101732326436864/AAWpmd-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 403,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 378
+        },
+        "username": "Deadsoul790",
+        "verified": false
+      }
+    ]
+  }
+}

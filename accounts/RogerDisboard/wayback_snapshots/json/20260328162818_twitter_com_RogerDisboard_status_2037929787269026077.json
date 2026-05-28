@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2037892961724436598",
+    "created_at": "2026-03-28T16:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T17:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037929787269026077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599987342630002694",
+          "start": 0,
+          "username": "lny27974684"
+        },
+        {
+          "end": 25,
+          "id": "1928504693585842176",
+          "start": 13,
+          "username": "siangel0911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037929787269026077",
+    "in_reply_to_user_id": "1599987342630002694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037892961724436598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lny27974684 @siangel0911 抽我抽我抽我喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2037892961724436598",
+        "created_at": "2026-03-28T16:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037929787269026077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599987342630002694",
+              "start": 0,
+              "username": "lny27974684"
+            },
+            {
+              "end": 25,
+              "id": "1928504693585842176",
+              "start": 13,
+              "username": "siangel0911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037929787269026077",
+        "in_reply_to_user_id": "1599987342630002694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037892961724436598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lny27974684 @siangel0911 抽我抽我抽我喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599987342630002694",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2037892961724436598",
+        "created_at": "2026-03-28T14:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037892961724436598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037892961724436598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "祝大家身体健康\n粉丝抽奖此评论+转发+关注参与\n一等奖 普瑞巴林14板（2人）\n二等奖 愈美片两盒（1人）\n三等奖 巴氯芬一盒（1人）\n满十人或者3月30日12点开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "No Game No Life",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "RogerDISBOARD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 117,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T04:41:49.000Z",
+        "description": "06/友跨/计算机大二/找我聊天/无政治立场/互fo(^▽^)o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wansui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wansui",
+                "start": 0,
+                "url": "https://t.co/jnMVzihyBo"
+              }
+            ]
+          }
+        },
+        "id": "1599987342630002694",
+        "name": "万穗",
+        "pinned_tweet_id": "2037892961724436598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016575350965510144/2XNPGmpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 149,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/jnMVzihyBo",
+        "username": "lny27974684",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-30T17:34:05.000Z",
+        "description": "mtf或mtx或xyn小药娘，furry福瑞控，odzczsxd...摊上各种精神或心理问题...20070911，160cm，92斤左右，常居四川，可爱黑猫猫，喜欢各种可爱的东西和黄黄的东西，精神状态不稳定极其负能◉‿◉，网络要饭+结交好友ing",
+        "id": "1928504693585842176",
+        "location": "中国大陆 四川",
+        "name": "希安angel🍥🌈🏳️‍⚧️🐱🐾",
+        "pinned_tweet_id": "2033212585395585029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024395512003350528/gu0m-ICg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 696,
+          "like_count": 2462,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1873
+        },
+        "username": "siangel0911",
+        "verified": false
+      }
+    ]
+  }
+}

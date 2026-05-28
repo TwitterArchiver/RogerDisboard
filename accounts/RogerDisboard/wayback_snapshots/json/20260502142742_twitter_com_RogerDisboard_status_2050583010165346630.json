@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050582962845212672"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2050581376588742947",
+    "created_at": "2026-05-02T14:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050583010165346630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819276723290095616",
+          "start": 0,
+          "username": "Natsuki_803nz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1RlrqkvoK",
+          "end": 38,
+          "expanded_url": "https://x.com/RogerDisboard/status/2050583010165346630/photo/1",
+          "media_key": "3_2050582962845212672",
+          "start": 15,
+          "url": "https://t.co/T1RlrqkvoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050583010165346630",
+    "in_reply_to_user_id": "1819276723290095616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050581376588742947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_803nz https://t.co/T1RlrqkvoK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050583010165346630].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050583010165346630",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050583010165346630"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2050582962845212672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUiVxrbYAASDuU.jpg",
+        "width": 507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819276723290095616",
+        "conversation_id": "2050581376588742947",
+        "created_at": "2026-05-02T14:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050581376588742947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050581376588742947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真炸柜了\n没骗你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 790,
+          "like_count": 2101,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 624
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高一🍥｜周六晚上复活，消息回复可能不及时｜177cm/58kg｜百合、4i好｜交通迷、喜欢出去走…｜临沂前十街121号｜无聊｜意外和意外哪个先来…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/natsuk…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/natsuki803.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Wqo3MVVi1w"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "location": "Internet",
+        "name": "夏希🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040744519550001153/-nZHCknj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 137,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/Wqo3MVVi1w",
+        "username": "Natsuki_803nz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043738596222631936"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2043701194917626328",
+    "created_at": "2026-04-13T17:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043738601801035998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4139043194",
+          "start": 0,
+          "username": "MegufanYEEEEEET"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aHeIawEuJN",
+          "end": 40,
+          "expanded_url": "https://x.com/RogerDisboard/status/2043738601801035998/photo/1",
+          "media_key": "3_2043738596222631936",
+          "start": 17,
+          "url": "https://t.co/aHeIawEuJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043738601801035998",
+    "in_reply_to_user_id": "4139043194",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043701194917626328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MegufanYEEEEEET https://t.co/aHeIawEuJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2043738596222631936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzRbNGbAAAg-IE.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2043701152811024384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyvXthbgAA7mJn.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043738596222631936"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2043701194917626328",
+        "created_at": "2026-04-13T17:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043738601801035998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4139043194",
+              "start": 0,
+              "username": "MegufanYEEEEEET"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHeIawEuJN",
+              "end": 40,
+              "expanded_url": "https://x.com/RogerDisboard/status/2043738601801035998/photo/1",
+              "media_key": "3_2043738596222631936",
+              "start": 17,
+              "url": "https://t.co/aHeIawEuJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043738601801035998",
+        "in_reply_to_user_id": "4139043194",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043701194917626328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MegufanYEEEEEET https://t.co/aHeIawEuJN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043701152811024384"
+          ]
+        },
+        "author_id": "4139043194",
+        "conversation_id": "2043701194917626328",
+        "created_at": "2026-04-13T14:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043701194917626328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KIECPmLCss",
+              "end": 83,
+              "expanded_url": "https://x.com/MegufanYEEEEEET/status/2043701194917626328/photo/1",
+              "media_key": "3_2043701152811024384",
+              "start": 60,
+              "url": "https://t.co/KIECPmLCss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043701194917626328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 682,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "地球online:★★★★★\n和姐姐招募新玩家被兩個老玩家發現了\n但老玩家們沒罵我們還加入了進來\n這個遊戲玩家都好熱情 https://t.co/KIECPmLCss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "RogerDISBOARD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 228,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-05T21:25:31.000Z",
+        "description": "影像創作、塗鴉、還有發廢文。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MegufanYEEEEE…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@MegufanYEEEEEET",
+                "start": 0,
+                "url": "https://t.co/6JGYd8inpw"
+              }
+            ]
+          }
+        },
+        "id": "4139043194",
+        "location": "Taiwan",
+        "name": "甲Yeet",
+        "pinned_tweet_id": "2017166470594343275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706260932102635520/GSVtmK-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3903,
+          "following_count": 416,
+          "like_count": 5928,
+          "listed_count": 2,
+          "media_count": 601,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/6JGYd8inpw",
+        "username": "MegufanYEEEEEET",
+        "verified": false
+      }
+    ]
+  }
+}

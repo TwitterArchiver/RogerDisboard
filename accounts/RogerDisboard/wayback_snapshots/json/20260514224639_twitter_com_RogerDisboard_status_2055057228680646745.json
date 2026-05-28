@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2055057228680646745",
+    "created_at": "2026-05-14T22:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T23:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055057228680646745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682395404976156672",
+          "start": 3,
+          "username": "yanghs84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055057228680646745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054854229219594292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanghs84: 抽奖贴（5.20限定版）\n1.本次开奖时间为5月20号下午5点20\n2.本次送出18.8红包5个，52元红包5个，168红包1个，希望有更多人可以参与到\n3.参与方式：点赞、评论、转帖都🉑，168红包只会在转帖的人中选择，请周知\n4.领奖时间为开奖后…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2055057228680646745",
+        "created_at": "2026-05-14T22:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055057228680646745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682395404976156672",
+              "start": 3,
+              "username": "yanghs84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055057228680646745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054854229219594292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanghs84: 抽奖贴（5.20限定版）\n1.本次开奖时间为5月20号下午5点20\n2.本次送出18.8红包5个，52元红包5个，168红包1个，希望有更多人可以参与到\n3.参与方式：点赞、评论、转帖都🉑，168红包只会在转帖的人中选择，请周知\n4.领奖时间为开奖后…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682395404976156672",
+        "conversation_id": "2054854229219594292",
+        "created_at": "2026-05-14T09:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054854229219594292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054854229219594292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4174,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 71,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖贴（5.20限定版）\n1.本次开奖时间为5月20号下午5点20\n2.本次送出18.8红包5个，52元红包5个，168红包1个，希望有更多人可以参与到\n3.参与方式：点赞、评论、转帖都🉑，168红包只会在转帖的人中选择，请周知\n4.领奖时间为开奖后12小时内，过期不补\n提前祝大家开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 1059,
+          "like_count": 4468,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1063
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T14:21:41.000Z",
+        "description": "普通人，喜欢美女是正常的",
+        "id": "1682395404976156672",
+        "location": "Taiwan",
+        "name": "不吃鱼的猫",
+        "pinned_tweet_id": "2048982114541117755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016011338741628928/D6sBt4Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 14,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 253
+        },
+        "username": "yanghs84",
+        "verified": false
+      }
+    ]
+  }
+}

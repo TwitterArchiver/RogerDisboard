@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2053089362926358566",
+    "created_at": "2026-05-09T12:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053089362926358566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aacfun/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/aacfun/status/2052950545678377464",
+          "start": 12,
+          "url": "https://t.co/tlgdjpo6uZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053089362926358566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052950545678377464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么你们涨fo这么快 https://t.co/tlgdjpo6uZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2053089362926358566",
+        "created_at": "2026-05-09T12:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053089362926358566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aacfun/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/aacfun/status/2052950545678377464",
+              "start": 12,
+              "url": "https://t.co/tlgdjpo6uZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053089362926358566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052950545678377464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么你们涨fo这么快 https://t.co/tlgdjpo6uZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030455725374550016",
+        "conversation_id": "2052950545678377464",
+        "created_at": "2026-05-09T03:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052950545678377464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/huihui_mikumi/status/2052629766067614123",
+              "start": 12,
+              "url": "https://t.co/z6v6Va132m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052950545678377464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 856,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052629766067614123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么你们涨fo这么快 https://t.co/z6v6Va132m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机产生奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 940,
+          "like_count": 3497,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 880
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "超级社恐、胆小 | 不建政 不聊H |\n精神状态不稳定 | 没情商（回复不好请原谅...） |\n回fo私信我喵...",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "AAcfun🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052950670878404608/-ahKaRcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 142,
+          "like_count": 7728,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1442
+        },
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045426098360721409",
+        "3_2045426098356543489",
+        "3_2045426098364985344",
+        "3_2045426098335608832"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045422238565028178",
+    "created_at": "2026-04-18T08:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045426106866803132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q7dioimBAt",
+          "end": 43,
+          "expanded_url": "https://x.com/RogerDisboard/status/2045426106866803132/photo/1",
+          "media_key": "3_2045426098360721409",
+          "start": 20,
+          "url": "https://t.co/Q7dioimBAt"
+        },
+        {
+          "display_url": "pic.x.com/Q7dioimBAt",
+          "end": 43,
+          "expanded_url": "https://x.com/RogerDisboard/status/2045426106866803132/photo/1",
+          "media_key": "3_2045426098356543489",
+          "start": 20,
+          "url": "https://t.co/Q7dioimBAt"
+        },
+        {
+          "display_url": "pic.x.com/Q7dioimBAt",
+          "end": 43,
+          "expanded_url": "https://x.com/RogerDisboard/status/2045426106866803132/photo/1",
+          "media_key": "3_2045426098364985344",
+          "start": 20,
+          "url": "https://t.co/Q7dioimBAt"
+        },
+        {
+          "display_url": "pic.x.com/Q7dioimBAt",
+          "end": 43,
+          "expanded_url": "https://x.com/RogerDisboard/status/2045426106866803132/photo/1",
+          "media_key": "3_2045426098335608832",
+          "start": 20,
+          "url": "https://t.co/Q7dioimBAt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045426106866803132",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045422238565028178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu 我的天哪机宝大人！ https://t.co/Q7dioimBAt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045426106866803132].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045426106866803132",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045426106866803132"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2045426098360721409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLQMwcaoAEYX41.jpg",
+        "width": 1080
+      },
+      {
+        "height": 608,
+        "media_key": "3_2045426098356543489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLQMwba4AE8h0b.jpg",
+        "width": 1080
+      },
+      {
+        "height": 128,
+        "media_key": "3_2045426098364985344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLQMwdbsAAe2_D.jpg",
+        "width": 128
+      },
+      {
+        "height": 608,
+        "media_key": "3_2045426098335608832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLQMwWbcAAvenA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2045422235511586816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLMr6NagAALfcN.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045422235511586816"
+          ]
+        },
+        "author_id": "2013321876224057344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045422238565028178",
+        "created_at": "2026-04-18T08:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045422238565028178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pn3IXcB2FO",
+              "end": 42,
+              "expanded_url": "https://x.com/OTxiashu/status/2045422238565028178/photo/1",
+              "media_key": "3_2045422235511586816",
+              "start": 19,
+              "url": "https://t.co/pn3IXcB2FO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045422238565028178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是新时代环指！！👩🏻‍🎨👩🏻‍🎨 https://t.co/pn3IXcB2FO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "RogerDISBOARD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 298,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 104
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "傻逼od蛆 24小时网上冲浪 私信我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "谢谢你我充满感激之情",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2044808041242194366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 395,
+          "like_count": 6914,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 2865
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

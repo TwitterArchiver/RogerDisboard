@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047679437542682624"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2047679444341641231",
+    "created_at": "2026-04-24T14:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047679444341641231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BjXsrr5LiL",
+          "end": 102,
+          "expanded_url": "https://x.com/RogerDisboard/status/2047679444341641231/photo/1",
+          "media_key": "3_2047679437542682624",
+          "start": 79,
+          "url": "https://t.co/BjXsrr5LiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047679444341641231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天隔壁班有人烤棉花糖把木炭直接扔垃圾桶里结果把垃圾桶点燃了\n还好是中午没人在班\n下午来一股烧塑料的味道\n结果学校现在监视我们更频繁了...\n环景监狱... https://t.co/BjXsrr5LiL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047679444341641231].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047679444341641231",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047679444341641231"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2047679437542682624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrRmXCacAA7G8G.jpg",
+        "width": 452
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 501,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 255
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

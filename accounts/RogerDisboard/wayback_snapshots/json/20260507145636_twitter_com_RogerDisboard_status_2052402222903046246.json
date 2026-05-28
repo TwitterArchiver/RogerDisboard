@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052301188058566910",
+    "created_at": "2026-05-07T14:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052402222903046246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        },
+        {
+          "end": 26,
+          "id": "1468883359090630657",
+          "start": 15,
+          "username": "ansiyao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052402222903046246",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052301188058566910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ @ansiyao520 抱抱你..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052301188058566910",
+        "created_at": "2026-05-07T14:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052402222903046246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            },
+            {
+              "end": 26,
+              "id": "1468883359090630657",
+              "start": 15,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052402222903046246",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052301188058566910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ @ansiyao520 抱抱你..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2052301188058566910",
+        "created_at": "2026-05-07T08:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052301188058566910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052301188058566910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1652,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我还想拥抱你，水水，我记得抱住你的感觉。\n\n你还没有来得及看见我长发及腰，我变得更pass呢\n\n我还想做变性手术干什么？已经没有意义了。做了手术还能拿来干嘛？\n\n为什么你的碎碎念里都是我，却忍心抛弃我呢？\n\n水水，你的爱人在悲伤，在哭\n\n你竟然舍得？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/友跨/妄想拥有守护他人的决意/查成分互fo/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2052040284293460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 884,
+          "like_count": 3166,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 840
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2052021726804906174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 675,
+          "like_count": 6597,
+          "listed_count": 5,
+          "media_count": 327,
+          "tweet_count": 2036
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 1359,
+          "like_count": 15943,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 777
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

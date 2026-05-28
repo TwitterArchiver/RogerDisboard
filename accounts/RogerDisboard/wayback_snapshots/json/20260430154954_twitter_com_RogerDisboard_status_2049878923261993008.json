@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2049878809730568192"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2049809499977101595",
+    "created_at": "2026-04-30T15:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049878923261993008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1691382703654883328",
+          "start": 0,
+          "username": "Deadsoul790"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6wiMpl29tv",
+          "end": 36,
+          "expanded_url": "https://x.com/RogerDisboard/status/2049878923261993008/photo/1",
+          "media_key": "16_2049878809730568192",
+          "start": 13,
+          "url": "https://t.co/6wiMpl29tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049878923261993008",
+    "in_reply_to_user_id": "1691382703654883328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049874980306108543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deadsoul790 https://t.co/6wiMpl29tv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049878923261993008].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049878923261993008",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049878923261993008"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2049878809730568192",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHKh6q6XUAA-mYu.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHKh6q6XUAA-mYu.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691382703654883328",
+        "conversation_id": "2049809499977101595",
+        "created_at": "2026-04-30T15:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049874980306108543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049874980306108543",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049809499977101595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 来了来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2046262751627235342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 749,
+          "like_count": 1785,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 515
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:34:12.000Z",
+        "description": "从死去天使的灵魂开始，大家好，我从冥界杀回来了\n死也在所不惜\n与生生不息，小号@livingthing790会发一些我的蛇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "livingthing790"
+              }
+            ]
+          }
+        },
+        "id": "1691382703654883328",
+        "location": "In your dream",
+        "name": "SouL",
+        "pinned_tweet_id": "2049305793875599747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045101732326436864/AAWpmd-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 405,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 399
+        },
+        "username": "Deadsoul790",
+        "verified": false
+      }
+    ]
+  }
+}

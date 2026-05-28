@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2057869048034251039",
+    "created_at": "2026-05-22T17:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057870049508241916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1604404804440141824",
+          "start": 0,
+          "username": "SakuraizumiSayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057870049508241916",
+    "in_reply_to_user_id": "1604404804440141824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057869048034251039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraizumiSayo 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2057869048034251039",
+        "created_at": "2026-05-22T17:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057870049508241916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1604404804440141824",
+              "start": 0,
+              "username": "SakuraizumiSayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057870049508241916",
+        "in_reply_to_user_id": "1604404804440141824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057869048034251039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraizumiSayo 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604404804440141824",
+        "conversation_id": "2057869048034251039",
+        "created_at": "2026-05-22T16:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057869048034251039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057869048034251039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情很差......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2057824559936754116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 878,
+          "like_count": 5665,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1277
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T09:15:15.000Z",
+        "description": "She/Her👗 · like manga,anime and games - connect with others...and dresses！🎉 🌏:English/中文/日本語を勉強中 計算機和攝影愛好者/喜歡旅遊、動漫畫和遊戲/變成換裝人偶了！（不是x）（HRT 2025/11/11）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/122780618",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/122780618",
+                "start": 0,
+                "url": "https://t.co/yRn0ZOFPzi"
+              }
+            ]
+          }
+        },
+        "id": "1604404804440141824",
+        "location": "目前正在加急創作中/敬請期待後續更新！",
+        "name": "桜井 紗世🍥🏳️‍⚧️#Chaos;Girls",
+        "pinned_tweet_id": "2047519792673050940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047844792227491840/lhp_E9g7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 701,
+          "like_count": 13399,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/yRn0ZOFPzi",
+        "username": "SakuraizumiSayo",
+        "verified": false
+      }
+    ]
+  }
+}

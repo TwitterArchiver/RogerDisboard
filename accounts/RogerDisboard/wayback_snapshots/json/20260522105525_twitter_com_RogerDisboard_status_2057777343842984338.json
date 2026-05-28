@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2057668877602169170",
+    "created_at": "2026-05-22T10:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057777343842984338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1729436345913995265",
+          "start": 0,
+          "username": "p1NRed1_A"
+        },
+        {
+          "end": 19,
+          "id": "1764195010986274816",
+          "start": 11,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057777343842984338",
+    "in_reply_to_user_id": "1729436345913995265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057668877602169170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p1NRed1_A @CCA8798 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2057668877602169170",
+        "created_at": "2026-05-22T10:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057777343842984338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            },
+            {
+              "end": 19,
+              "id": "1764195010986274816",
+              "start": 11,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057777343842984338",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057668877602169170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A @CCA8798 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2057668877602169170",
+        "created_at": "2026-05-22T03:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057668877602169170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057668877602169170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1155,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "【600fo抽奖】 🎉\n成为咕咚厨吧！！\n奖品：\n•  一等奖（1名）：正比半身\n•  二等奖（2名）：QQ头\n参与方式： 关注 + 转发 + 评论\n开奖： 600粉达成后24小时内\n中奖后3天内私信人设图\n感谢大家，祝好运！❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/NGNL/术力口/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2057108818891624908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 871,
+          "like_count": 5592,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1248
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 569,
+          "like_count": 1660,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 6314
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党(家长党！) 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 | 玻璃心 心境障碍 ED GD (OD🧐)双相中焦 | 交通 科学 医学 杂圈迷 | 战争雷霆 | Cpp Coder\n可寄拍/扩列\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(疲乏版)🍥",
+        "pinned_tweet_id": "2052265032193581443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 1259,
+          "like_count": 16417,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 2334
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

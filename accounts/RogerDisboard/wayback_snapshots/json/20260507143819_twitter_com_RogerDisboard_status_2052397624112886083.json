@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2052391438504308954",
+    "created_at": "2026-05-07T14:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052397624112886083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052397624112886083",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052391438504308954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 好猫！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2052391427901181952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuPITAbUAA6mQn.jpg",
+        "width": 1616
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2052391427280408576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuPIQsbEAAvOMx.jpg",
+        "width": 1616
+      },
+      {
+        "height": 1616,
+        "media_key": "3_2052391427389456384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuPIRGbAAAvJt2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2052391427259416576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuPIQnawAANrYz.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2052391438504308954",
+        "created_at": "2026-05-07T14:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052397624112886083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660586167807664129",
+              "start": 0,
+              "username": "ttttk567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052397624112886083",
+        "in_reply_to_user_id": "1660586167807664129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052391438504308954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttk567 好猫！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052391427901181952",
+            "3_2052391427280408576",
+            "3_2052391427389456384",
+            "3_2052391427259416576"
+          ]
+        },
+        "author_id": "1660586167807664129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052391438504308954",
+        "created_at": "2026-05-07T14:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052391438504308954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvxknTeT5q",
+              "end": 25,
+              "expanded_url": "https://x.com/ttttk567/status/2052391438504308954/photo/1",
+              "media_key": "3_2052391427901181952",
+              "start": 2,
+              "url": "https://t.co/uvxknTeT5q"
+            },
+            {
+              "display_url": "pic.x.com/uvxknTeT5q",
+              "end": 25,
+              "expanded_url": "https://x.com/ttttk567/status/2052391438504308954/photo/1",
+              "media_key": "3_2052391427280408576",
+              "start": 2,
+              "url": "https://t.co/uvxknTeT5q"
+            },
+            {
+              "display_url": "pic.x.com/uvxknTeT5q",
+              "end": 25,
+              "expanded_url": "https://x.com/ttttk567/status/2052391438504308954/photo/1",
+              "media_key": "3_2052391427389456384",
+              "start": 2,
+              "url": "https://t.co/uvxknTeT5q"
+            },
+            {
+              "display_url": "pic.x.com/uvxknTeT5q",
+              "end": 25,
+              "expanded_url": "https://x.com/ttttk567/status/2052391438504308954/photo/1",
+              "media_key": "3_2052391427259416576",
+              "start": 2,
+              "url": "https://t.co/uvxknTeT5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052391438504308954",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "📷 https://t.co/uvxknTeT5q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008.09.03.出厂/友跨/妄想拥有守护他人的决意/查成分互fo/和@mengdong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "mengdong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2052040284293460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 882,
+          "like_count": 3139,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 833
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / AuDHD ？ 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客https://t.co/e90qOe4ADO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 90,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 67,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "nowhere",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978063307694329856/viV6SIGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 326,
+          "like_count": 1611,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 562
+        },
+        "username": "ttttk567",
+        "verified": false
+      }
+    ]
+  }
+}
