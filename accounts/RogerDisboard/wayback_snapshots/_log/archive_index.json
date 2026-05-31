@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-31T06:18:28",
+  "last_updated": "2026-05-31T06:26:10",
   "html": {
     "https://web.archive.org/web/20260307180139if_/https://twitter.com/RogerDisboard/status/2030343131942842592": {
       "status": "done",
@@ -11716,47 +11716,47 @@
       "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HGW1cFWasAAKJ6E.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260420145435_twitter_com_RogerDisboard_status_2046241123518251235.json"
       ],
-      "last_updated": "2026-05-28T06:27:55",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420145435/https://video.twimg.com/tweet_video/HGW1cFWasAAKJ6E.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee14c80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HGW5_gfbIAAQPcF.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260420151430_twitter_com_RogerDisboard_status_2046246132934992015.json"
       ],
-      "last_updated": "2026-05-28T06:28:07",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420151430/https://video.twimg.com/tweet_video/HGW5_gfbIAAQPcF.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee15fd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HGW7-WnacAA58ii.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260420152308_twitter_com_RogerDisboard_status_2046248305487982969.json"
       ],
-      "last_updated": "2026-05-28T06:28:19",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420152308/https://video.twimg.com/tweet_video/HGW7-WnacAA58ii.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee17620>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HGXckY5aoAA6SKM.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260420174532_twitter_com_RogerDisboard_status_2046284141726175370.json"
       ],
-      "last_updated": "2026-05-28T06:28:31",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420174532/https://video.twimg.com/tweet_video/HGXckY5aoAA6SKM.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee15130>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HGb5L2kbsAAqp61.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260421142904_twitter_com_RogerDisboard_status_2046597089338237279.json"
       ],
-      "last_updated": "2026-05-28T06:28:44",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421142904/https://video.twimg.com/tweet_video/HGb5L2kbsAAqp61.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8c620>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -11770,20 +11770,20 @@
       "miss_count": 6
     },
     "https://video.twimg.com/tweet_video/HGb6UtsbMAAaqDi.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260421143408_twitter_com_RogerDisboard_status_2046598364230529294.json"
       ],
-      "last_updated": "2026-05-28T06:28:56",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421143408/https://video.twimg.com/tweet_video/HGb6UtsbMAAaqDi.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee14a40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HGcL2YlawAAYaFU.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260421155035_twitter_com_RogerDisboard_status_2046617601888145677.json"
       ],
-      "last_updated": "2026-05-28T06:29:08",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421155035/https://video.twimg.com/tweet_video/HGcL2YlawAAYaFU.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8c3b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -11824,29 +11824,29 @@
       "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HGvmDTIaUAAXtKT.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260425101801_twitter_com_RogerDisboard_status_2047983459541664179.json"
       ],
-      "last_updated": "2026-05-28T06:29:20",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425101801/https://video.twimg.com/tweet_video/HGvmDTIaUAAXtKT.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee166c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HGwS-MMbUAAsnjH.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260425133531_twitter_com_RogerDisboard_status_2048033163767935329.json"
       ],
-      "last_updated": "2026-05-28T06:29:32",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425133531/https://video.twimg.com/tweet_video/HGwS-MMbUAAsnjH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee14b00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HGxSKBWbkAAs6eu.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260425181015_twitter_com_RogerDisboard_status_2048102301878104116.json"
       ],
-      "last_updated": "2026-05-28T06:29:44",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425181015/https://video.twimg.com/tweet_video/HGxSKBWbkAAs6eu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8daf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -11867,56 +11867,56 @@
       "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HGzVfpVaAAAWt9Y.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260426034400_twitter_com_RogerDisboard_status_2048246693385449960.json"
       ],
-      "last_updated": "2026-05-28T06:29:50",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426034400/https://video.twimg.com/tweet_video/HGzVfpVaAAAWt9Y.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee15730>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HGzYQeKbYAAtvfH.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260426035606_twitter_com_RogerDisboard_status_2048249734675243506.json"
       ],
-      "last_updated": "2026-05-28T06:30:02",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426035606/https://video.twimg.com/tweet_video/HGzYQeKbYAAtvfH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee147a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HG2GJgFa8AA6ba_.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260426163547_twitter_com_RogerDisboard_status_2048440916650963225.json"
       ],
-      "last_updated": "2026-05-28T06:30:14",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426163547/https://video.twimg.com/tweet_video/HG2GJgFa8AA6ba_.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee14770>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HG2NOKSbwAAQNMi.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260426170642_twitter_com_RogerDisboard_status_2048448698171224161.json"
       ],
-      "last_updated": "2026-05-28T06:30:26",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426170642/https://video.twimg.com/tweet_video/HG2NOKSbwAAQNMi.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee15d30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HG63PNQa8AERPp4.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260427144845_twitter_com_RogerDisboard_status_2048776368184516993.json"
       ],
-      "last_updated": "2026-05-28T06:30:38",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427144845/https://video.twimg.com/tweet_video/HG63PNQa8AERPp4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8fe00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HG6-s69bQAA1hb4.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260427152133_twitter_com_RogerDisboard_status_2048784622230835669.json"
       ],
-      "last_updated": "2026-05-28T06:30:51",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427152133/https://video.twimg.com/tweet_video/HG6-s69bQAA1hb4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee16e70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -11994,11 +11994,11 @@
       "miss_count": 5
     },
     "https://video.twimg.com/tweet_video/HHEpdHRawAA0Z1r.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260429122453_twitter_com_RogerDisboard_status_2049464940029948303.json"
       ],
-      "last_updated": "2026-05-28T06:31:03",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429122453/https://video.twimg.com/tweet_video/HHEpdHRawAA0Z1r.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8e960>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12012,11 +12012,11 @@
       "miss_count": 5
     },
     "https://video.twimg.com/tweet_video/HHJz4g9XYAAtrvf.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260430122839_twitter_com_RogerDisboard_status_2049828277359960301.json"
       ],
-      "last_updated": "2026-05-28T06:31:15",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260430122839/https://video.twimg.com/tweet_video/HHJz4g9XYAAtrvf.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee14f20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12039,11 +12039,11 @@
       "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HHKh6q6XUAA-mYu.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260430154954_twitter_com_RogerDisboard_status_2049878923261993008.json"
       ],
-      "last_updated": "2026-05-28T06:31:27",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260430154954/https://video.twimg.com/tweet_video/HHKh6q6XUAA-mYu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee17800>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12057,20 +12057,20 @@
       "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HHOJzZdbQAE-Xaq.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260501084250_twitter_com_RogerDisboard_status_2050133833027379630.json"
       ],
-      "last_updated": "2026-05-28T06:31:40",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501084250/https://video.twimg.com/tweet_video/HHOJzZdbQAE-Xaq.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8fe00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/ext_tw_video/2050135017049985024/pu/vid/avc1/720x1280/aCfRgT750wxeIC6T.mp4?tag=12": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260501085925_twitter_com_RogerDisboard_status_2050138007018332251.json"
       ],
-      "last_updated": "2026-05-28T06:31:52",
+      "last_updated": "2026-05-31T06:26:09",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501085925/https://video.twimg.com/ext_tw_video/2050135017049985024/pu/vid/avc1/720x1280/aCfRgT750wxeIC6T.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee16c00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12079,16 +12079,16 @@
       "referenced_by": [
         "20260501085925_twitter_com_RogerDisboard_status_2050138007018332251.json"
       ],
-      "last_updated": "2026-05-28T06:27:26",
+      "last_updated": "2026-05-31T06:26:10",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501085925/https://video.twimg.com/ext_tw_video/2050136809967878144/pu/vid/avc1/720x1280/UAoCJemKNr8hkjWI.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f848238bfb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 5
     },
     "https://video.twimg.com/tweet_video/HHOWOVRa4AAOiMQ.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260501093708_twitter_com_RogerDisboard_status_2050147497922986351.json"
       ],
-      "last_updated": "2026-05-28T06:32:01",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501093708/https://video.twimg.com/tweet_video/HHOWOVRa4AAOiMQ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8dc10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12102,20 +12102,20 @@
       "miss_count": 7
     },
     "https://video.twimg.com/tweet_video/HHSJLrtaIAA2JoY.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260502031849_twitter_com_RogerDisboard_status_2050414681530212824.json"
       ],
-      "last_updated": "2026-05-28T06:32:19",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502031849/https://video.twimg.com/tweet_video/HHSJLrtaIAA2JoY.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeac560>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHS2r3paQAATB0C.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260502063719_twitter_com_RogerDisboard_status_2050464635191738398.json"
       ],
-      "last_updated": "2026-05-28T06:32:25",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502063719/https://video.twimg.com/tweet_video/HHS2r3paQAATB0C.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59effcfd70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12138,74 +12138,74 @@
       "miss_count": 7
     },
     "https://video.twimg.com/tweet_video/HHThmUCawAAfvtY.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260502094445_twitter_com_RogerDisboard_status_2050511805366378662.json"
       ],
-      "last_updated": "2026-05-28T06:32:44",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502094445/https://video.twimg.com/tweet_video/HHThmUCawAAfvtY.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee17500>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHTnqRUbMAAE9jI.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260502101115_twitter_com_RogerDisboard_status_2050518472808178012.json"
       ],
-      "last_updated": "2026-05-28T06:32:57",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502101115/https://video.twimg.com/tweet_video/HHTnqRUbMAAE9jI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeead550>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHT8RU9bEAE5znn.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260502114120_twitter_com_RogerDisboard_status_2050541143730081977.json"
       ],
-      "last_updated": "2026-05-28T06:33:09",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502114120/https://video.twimg.com/tweet_video/HHT8RU9bEAE5znn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee17920>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHT8qchaIAA9I_I.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260502114303_twitter_com_RogerDisboard_status_2050541576703951145.json"
       ],
-      "last_updated": "2026-05-28T06:33:21",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502114303/https://video.twimg.com/tweet_video/HHT8qchaIAA9I_I.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8f230>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHUKR-saQAATVWn.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260502124232_twitter_com_RogerDisboard_status_2050556546426507652.json"
       ],
-      "last_updated": "2026-05-28T06:33:33",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502124232/https://video.twimg.com/tweet_video/HHUKR-saQAATVWn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8d940>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHU_yChbUAA9rVP.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260502163628_twitter_com_RogerDisboard_status_2050615416888955319.json"
       ],
-      "last_updated": "2026-05-28T06:33:45",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502163628/https://video.twimg.com/tweet_video/HHU_yChbUAA9rVP.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee16d50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHXuGluakAAhHu8.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260503051754_twitter_com_RogerDisboard_status_2050807038650024426.json"
       ],
-      "last_updated": "2026-05-28T06:33:57",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503051754/https://video.twimg.com/tweet_video/HHXuGluakAAhHu8.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeead520>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHYDW-gbkAATWFD.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260503065051_twitter_com_RogerDisboard_status_2050830427766861902.json"
       ],
-      "last_updated": "2026-05-28T06:34:10",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503065051/https://video.twimg.com/tweet_video/HHYDW-gbkAATWFD.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee16750>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12228,11 +12228,11 @@
       "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2051106057590841344/vid/avc1/480x546/HlLMZFzOqTzsbP-i.mp4?tag=27": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260504011118_twitter_com_RogerDisboard_status_2051107366758953421.json"
       ],
-      "last_updated": "2026-05-28T06:34:22",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504011118/https://video.twimg.com/amplify_video/2051106057590841344/vid/avc1/480x546/HlLMZFzOqTzsbP-i.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeae600>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12255,47 +12255,47 @@
       "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HHdp97ob0AAXx7t.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260504085801_twitter_com_RogerDisboard_status_2051224817488322596.json"
       ],
-      "last_updated": "2026-05-28T06:34:45",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504085801/https://video.twimg.com/tweet_video/HHdp97ob0AAXx7t.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8dfa0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHkHrpoakAAvAED.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260505150521_twitter_com_RogerDisboard_status_2051679648887804404.json"
       ],
-      "last_updated": "2026-05-28T06:34:50",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505150521/https://video.twimg.com/tweet_video/HHkHrpoakAAvAED.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeaf9b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHkIPIjaEAAeBxj.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260505150737_twitter_com_RogerDisboard_status_2051680221833965660.json"
       ],
-      "last_updated": "2026-05-28T06:35:03",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505150737/https://video.twimg.com/tweet_video/HHkIPIjaEAAeBxj.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeafbc0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHklvB-bMAA-Z1E.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260505171631_twitter_com_RogerDisboard_status_2051712657703731457.json"
       ],
-      "last_updated": "2026-05-28T06:35:15",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505171631/https://video.twimg.com/tweet_video/HHklvB-bMAA-Z1E.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee15d90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HHklhq7bwAAXETF.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260505171631_twitter_com_RogerDisboard_status_2051712657703731457.json"
       ],
-      "last_updated": "2026-05-28T06:35:27",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505171631/https://video.twimg.com/tweet_video/HHklhq7bwAAXETF.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59f1ac37d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12309,11 +12309,11 @@
       "miss_count": 5
     },
     "https://video.twimg.com/tweet_video/HHuhW47akAE7tdF.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260507153715_twitter_com_RogerDisboard_status_2052412453762539582.json"
       ],
-      "last_updated": "2026-05-28T06:35:39",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507153715/https://video.twimg.com/tweet_video/HHuhW47akAE7tdF.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeafa10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12327,29 +12327,29 @@
       "miss_count": 5
     },
     "https://video.twimg.com/tweet_video/HH327afbQAEBV_z.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260509110431_twitter_com_RogerDisboard_status_2053068594792243463.json"
       ],
-      "last_updated": "2026-05-28T06:35:51",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509110431/https://video.twimg.com/tweet_video/HH327afbQAEBV_z.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeae270>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HH4EZDLbMAA8g_4.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260509120507_twitter_com_RogerDisboard_status_2053083843305873878.json"
       ],
-      "last_updated": "2026-05-28T06:36:04",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509120507/https://video.twimg.com/tweet_video/HH4EZDLbMAA8g_4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeae0f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/ext_tw_video/2053083911497105409/pu/vid/avc1/1280x720/Ru0gOluAbzz2HX7Z.mp4?tag=12": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260509125253_twitter_com_RogerDisboard_status_2053095865892696342.json"
       ],
-      "last_updated": "2026-05-28T06:36:16",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509125253/https://video.twimg.com/ext_tw_video/2053083911497105409/pu/vid/avc1/1280x720/Ru0gOluAbzz2HX7Z.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeafd40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12363,38 +12363,38 @@
       "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HH4kkIPaYAALWm4.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260509142347_twitter_com_RogerDisboard_status_2053118739382714601.json"
       ],
-      "last_updated": "2026-05-28T06:36:28",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509142347/https://video.twimg.com/tweet_video/HH4kkIPaYAALWm4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeacaa0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HH4lIE9aAAASCRJ.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260509142613_twitter_com_RogerDisboard_status_2053119352485064893.json"
       ],
-      "last_updated": "2026-05-28T06:36:40",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509142613/https://video.twimg.com/tweet_video/HH4lIE9aAAASCRJ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeac650>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HH6tdqvaMAAt_lS.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260510002153_twitter_com_RogerDisboard_status_2053269257136611816.json"
       ],
-      "last_updated": "2026-05-28T06:36:49",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510002153/https://video.twimg.com/tweet_video/HH6tdqvaMAAt_lS.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee16c90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HIC0kpZbYAAhaQ9.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260511180904_twitter_com_RogerDisboard_status_2053900212553547779.json"
       ],
-      "last_updated": "2026-05-28T06:37:01",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511180904/https://video.twimg.com/tweet_video/HIC0kpZbYAAhaQ9.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeaf1d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12408,20 +12408,20 @@
       "miss_count": 7
     },
     "https://video.twimg.com/tweet_video/HIIesSCaAAAiBp1.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260513143331_twitter_com_RogerDisboard_status_2054570743489585497.json"
       ],
-      "last_updated": "2026-05-28T06:37:22",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513143331/https://video.twimg.com/tweet_video/HIIesSCaAAAiBp1.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee15610>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HE95bnRaMAAPWkg.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260513143747_twitter_com_RogerDisboard_status_2054571817013321956.json"
       ],
-      "last_updated": "2026-05-28T06:37:36",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=12)",
       "miss_count": 8
     },
@@ -12430,26 +12430,26 @@
       "referenced_by": [
         "20260514223413_twitter_com_RogerDisboard_status_2055054103307485384.json"
       ],
-      "last_updated": "2026-05-28T06:27:28",
+      "last_updated": "2026-05-31T06:26:07",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260514223413/https://video.twimg.com/tweet_video/HIUEzhvaEAAKsvu.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8478f63800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 5
     },
     "https://video.twimg.com/tweet_video/HIXTIYYaEAAqWk4.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260515133551_twitter_com_RogerDisboard_status_2055281006773686475.json",
         "20260515133700_twitter_com_RogerDisboard_status_2055281292456120630.json"
       ],
-      "last_updated": "2026-05-28T06:37:48",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515133551/https://video.twimg.com/tweet_video/HIXTIYYaEAAqWk4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeadeb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 12
     },
     "https://video.twimg.com/tweet_video/HIZhUjAaMAA6gft.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260515235704_twitter_com_RogerDisboard_status_2055437338877346141.json"
       ],
-      "last_updated": "2026-05-28T06:37:57",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515235704/https://video.twimg.com/tweet_video/HIZhUjAaMAA6gft.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeac1a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12467,44 +12467,44 @@
       "referenced_by": [
         "20260516105351_twitter_com_RogerDisboard_status_2055602622711906663.json"
       ],
-      "last_updated": "2026-05-28T06:27:28",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516105351/https://video.twimg.com/tweet_video/HIb1kmYbIAA7byk.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe9f0c2aff0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2056389122961592320/vid/avc1/1280x720/Kp8fqk9IsRhtIenl.mp4?tag=14": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260518151321_twitter_com_RogerDisboard_status_2056392703433416909.json",
         "20260518151354_twitter_com_RogerDisboard_status_2056392844521447769.json"
       ],
-      "last_updated": "2026-05-28T06:38:09",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518151321/https://video.twimg.com/amplify_video/2056389122961592320/vid/avc1/1280x720/Kp8fqk9IsRhtIenl.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee16060>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 12
     },
     "https://video.twimg.com/amplify_video/2057474516885127169/vid/avc1/1280x720/Bw3f-fEfg9lnADrQ.mp4?tag=14": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260522111602_twitter_com_RogerDisboard_status_2057782532889039006.json"
       ],
-      "last_updated": "2026-05-28T06:38:21",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522111602/https://video.twimg.com/amplify_video/2057474516885127169/vid/avc1/1280x720/Bw3f-fEfg9lnADrQ.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee17770>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/ext_tw_video/2058127215284645888/pu/vid/avc1/720x1280/6wYkylkMnQuMjWBe.mp4?tag=12": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260523101246_twitter_com_RogerDisboard_status_2058128998455218276.json"
       ],
-      "last_updated": "2026-05-28T06:38:33",
+      "last_updated": "2026-05-31T06:26:09",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260523101246/https://video.twimg.com/ext_tw_video/2058127215284645888/pu/vid/avc1/720x1280/6wYkylkMnQuMjWBe.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeead400>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HJAXTaJa0AA3ZxP.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260523125829_twitter_com_RogerDisboard_status_2058170705838215427.json"
       ],
-      "last_updated": "2026-05-28T06:38:45",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260523125829/https://video.twimg.com/tweet_video/HJAXTaJa0AA3ZxP.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee8eff0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
@@ -12518,34 +12518,36 @@
       "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HJGEaYDacAAUrgh.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260524164930_twitter_com_RogerDisboard_status_2058591228082745490.json"
       ],
-      "last_updated": "2026-05-28T06:38:58",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524164930/https://video.twimg.com/tweet_video/HJGEaYDacAAUrgh.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eeeafcb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/amplify_video/2058183479721115648/vid/avc1/360x640/phNvOiM1gBrUyyQ_.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260524174132_twitter_com_RogerDisboard_status_2058604322079093179.json"
       ],
-      "last_updated": "2026-05-28T06:39:10",
+      "last_updated": "2026-05-31T06:26:08",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524174132/https://video.twimg.com/amplify_video/2058183479721115648/vid/avc1/360x640/phNvOiM1gBrUyyQ_.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59eee15940>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/HJfCYJxboAAdYtn.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260529115616_twitter_com_RogerDisboard_status_2060329374365397356.json"
-      ]
+      ],
+      "last_updated": "2026-05-31T06:26:08"
     },
     "https://video.twimg.com/tweet_video/HJff5rgaYAANHmn.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260529143243_twitter_com_RogerDisboard_status_2060368746548752419.json"
-      ]
+      ],
+      "last_updated": "2026-05-31T06:26:08"
     }
   },
   "avatars": {
@@ -19587,8 +19589,8 @@
           "https://pbs.twimg.com/profile_images/1963253983721705472/kUV-l-io_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260410181147_twitter_com_RogerDisboard_status_2042666871233876394.json": {
       "status": "done",
@@ -19691,8 +19693,8 @@
           "https://pbs.twimg.com/profile_images/2042972730803523593/1ojSP8EY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260411184121_twitter_com_RogerDisboard_status_2043036699077546458.json": {
       "status": "failed",
@@ -19704,8 +19706,8 @@
           "https://pbs.twimg.com/profile_images/2038976322236755968/ntvGPdG0_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260412040801_twitter_com_RogerDisboard_status_2043179307170988540.json": {
       "status": "done",
@@ -19927,8 +19929,8 @@
           "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260415164828_twitter_com_RogerDisboard_status_2044457841701097846.json": {
       "status": "failed",
@@ -19943,8 +19945,8 @@
           "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260415165632_twitter_com_RogerDisboard_status_2044459870750187829.json": {
       "status": "failed",
@@ -19958,8 +19960,8 @@
           "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260415171944_twitter_com_RogerDisboard_status_2044465712039891354.json": {
       "status": "done",
@@ -20068,8 +20070,8 @@
           "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260416143904_twitter_com_RogerDisboard_status_2044787664310923705.json": {
       "status": "failed",
@@ -20086,8 +20088,8 @@
           "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260416144101_twitter_com_RogerDisboard_status_2044788155493314999.json": {
       "status": "done",
@@ -20484,8 +20486,8 @@
           "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:10",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260418085600_twitter_com_RogerDisboard_status_2045426106866803132.json": {
       "status": "done",
@@ -20520,8 +20522,8 @@
           "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260418085916_twitter_com_RogerDisboard_status_2045426930082779548.json": {
       "status": "done",
@@ -20803,8 +20805,8 @@
           "https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260418171628_twitter_com_RogerDisboard_status_2045552053184032893.json": {
       "status": "done",
@@ -21117,8 +21119,8 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260419142853_twitter_com_RogerDisboard_status_2045872266895098325.json": {
       "status": "done",
@@ -21284,8 +21286,8 @@
           "https://pbs.twimg.com/profile_images/2038614458411454464/f5UxqtBH_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260419155638_twitter_com_RogerDisboard_status_2045894349205254384.json": {
       "status": "done",
@@ -21465,7 +21467,7 @@
       "miss_count": 2
     },
     "20260420145435_twitter_com_RogerDisboard_status_2046241123518251235.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -21476,7 +21478,7 @@
           "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260420145801_twitter_com_RogerDisboard_status_2046241985451954295.json": {
@@ -21508,7 +21510,7 @@
       "miss_count": 2
     },
     "20260420151430_twitter_com_RogerDisboard_status_2046246132934992015.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -21520,11 +21522,11 @@
           "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260420152308_twitter_com_RogerDisboard_status_2046248305487982969.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -21535,7 +21537,7 @@
           "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260420153128_twitter_com_RogerDisboard_status_2046250404095357223.json": {
@@ -21642,7 +21644,7 @@
       "last_updated": "2026-05-28T00:22:18"
     },
     "20260420174532_twitter_com_RogerDisboard_status_2046284141726175370.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -21653,7 +21655,7 @@
           "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260421142243_twitter_com_RogerDisboard_status_2046595492361142764.json": {
@@ -21727,7 +21729,7 @@
       "miss_count": 2
     },
     "20260421142904_twitter_com_RogerDisboard_status_2046597089338237279.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -21738,7 +21740,7 @@
           "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260421143037_twitter_com_RogerDisboard_status_2046597478330535958.json": {
@@ -21796,7 +21798,7 @@
       "miss_count": 2
     },
     "20260421143408_twitter_com_RogerDisboard_status_2046598364230529294.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -21807,7 +21809,7 @@
           "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260421143934_twitter_com_RogerDisboard_status_2046599731347108263.json": {
@@ -21891,7 +21893,7 @@
       "miss_count": 2
     },
     "20260421155035_twitter_com_RogerDisboard_status_2046617601888145677.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HGcLXsAasAAbcr2.jpg"
@@ -21904,7 +21906,7 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260421155416_twitter_com_RogerDisboard_status_2046618529496273158.json": {
@@ -22063,8 +22065,8 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421165625_twitter_com_RogerDisboard_status_2046634170617917544.json": {
       "status": "failed",
@@ -22077,8 +22079,8 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421165805_twitter_com_RogerDisboard_status_2046634588022423738.json": {
       "status": "failed",
@@ -22091,8 +22093,8 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421165843_twitter_com_RogerDisboard_status_2046634748471300212.json": {
       "status": "failed",
@@ -22105,8 +22107,8 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421165911_twitter_com_RogerDisboard_status_2046634866390052914.json": {
       "status": "failed",
@@ -22119,8 +22121,8 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421170055_twitter_com_RogerDisboard_status_2046635302551462113.json": {
       "status": "done",
@@ -22146,8 +22148,8 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421170414_twitter_com_RogerDisboard_status_2046636138182635994.json": {
       "status": "done",
@@ -22172,8 +22174,8 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421170917_twitter_com_RogerDisboard_status_2046637409614655959.json": {
       "status": "done",
@@ -22198,8 +22200,8 @@
           "https://pbs.twimg.com/profile_images/2045030301190230016/iCnq9Erh_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421173129_twitter_com_RogerDisboard_status_2046642995802579007.json": {
       "status": "done",
@@ -22241,8 +22243,8 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421174701_twitter_com_RogerDisboard_status_2046646905065861603.json": {
       "status": "failed",
@@ -22256,8 +22258,8 @@
           "https://pbs.twimg.com/profile_images/2045030301190230016/iCnq9Erh_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421174832_twitter_com_RogerDisboard_status_2046647286693089693.json": {
       "status": "failed",
@@ -22269,8 +22271,8 @@
           "https://pbs.twimg.com/profile_images/2045030301190230016/iCnq9Erh_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260421180543_twitter_com_RogerDisboard_status_2046651610550702387.json": {
       "status": "done",
@@ -22458,8 +22460,8 @@
           "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260423162721_twitter_com_RogerDisboard_status_2047351630589526033.json": {
       "status": "done",
@@ -22597,8 +22599,8 @@
           "https://pbs.twimg.com/profile_images/2047604629802995712/zLAGZYl2_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260424150405_twitter_com_RogerDisboard_status_2047693064836358282.json": {
       "status": "done",
@@ -22694,8 +22696,8 @@
           "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260424164056_twitter_com_RogerDisboard_status_2047717439241375801.json": {
       "status": "done",
@@ -22732,8 +22734,8 @@
           "https://pbs.twimg.com/profile_images/2046512778790510592/HXLV5oxs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260425015229_twitter_com_RogerDisboard_status_2047856241595330944.json": {
       "status": "failed",
@@ -22747,8 +22749,8 @@
           "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:02",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260425015301_twitter_com_RogerDisboard_status_2047856373699064055.json": {
       "status": "done",
@@ -22874,8 +22876,8 @@
           "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260425055525_twitter_com_RogerDisboard_status_2047917374117228576.json": {
       "status": "done",
@@ -22940,8 +22942,8 @@
           "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260425060457_twitter_com_RogerDisboard_status_2047919775503000029.json": {
       "status": "failed",
@@ -22955,8 +22957,8 @@
           "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260425060711_twitter_com_RogerDisboard_status_2047920338219184343.json": {
       "status": "done",
@@ -23013,8 +23015,8 @@
           "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260425062026_twitter_com_RogerDisboard_status_2047923670455345564.json": {
       "status": "done",
@@ -23057,8 +23059,8 @@
           "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:09",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260425090501_twitter_com_RogerDisboard_status_2047965091266441339.json": {
       "status": "done",
@@ -23083,11 +23085,11 @@
           "https://pbs.twimg.com/profile_images/1596431924389875712/90v9ufWG_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260425101801_twitter_com_RogerDisboard_status_2047983459541664179.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HGvjycPaYAAkGy0.jpg"
@@ -23100,7 +23102,7 @@
           "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260425102016_twitter_com_RogerDisboard_status_2047984027555225642.json": {
@@ -23170,8 +23172,8 @@
           "https://pbs.twimg.com/profile_images/2042464843803021312/Xrx6Rv7f_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260425132854_twitter_com_RogerDisboard_status_2048031497194549683.json": {
       "status": "done",
@@ -23231,7 +23233,7 @@
       "miss_count": 2
     },
     "20260425133531_twitter_com_RogerDisboard_status_2048033163767935329.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -23242,7 +23244,7 @@
           "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260425134623_twitter_com_RogerDisboard_status_2048035896789008469.json": {
@@ -23647,7 +23649,7 @@
       "miss_count": 2
     },
     "20260425181015_twitter_com_RogerDisboard_status_2048102301878104116.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -23658,7 +23660,7 @@
           "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260425182058_twitter_com_RogerDisboard_status_2048105000283590903.json": {
@@ -23877,7 +23879,7 @@
       "last_updated": "2026-05-28T00:22:23"
     },
     "20260426034400_twitter_com_RogerDisboard_status_2048246693385449960.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -23888,7 +23890,7 @@
           "https://pbs.twimg.com/profile_images/2046335464270159872/79yWTm25_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260426035001_twitter_com_RogerDisboard_status_2048248206073700741.json": {
@@ -23904,7 +23906,7 @@
       "last_updated": "2026-05-28T00:22:22"
     },
     "20260426035606_twitter_com_RogerDisboard_status_2048249734675243506.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -23915,7 +23917,7 @@
           "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260426042423_twitter_com_RogerDisboard_status_2048256854493626386.json": {
@@ -24061,8 +24063,8 @@
           "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260426144950_twitter_com_RogerDisboard_status_2048414256052449409.json": {
       "status": "done",
@@ -24273,7 +24275,7 @@
       "last_updated": "2026-05-28T00:22:13"
     },
     "20260426163547_twitter_com_RogerDisboard_status_2048440916650963225.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -24284,7 +24286,7 @@
           "https://pbs.twimg.com/profile_images/2023436484406337536/Jw3l8ikX_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260426163720_twitter_com_RogerDisboard_status_2048441307643986032.json": {
@@ -24311,8 +24313,8 @@
           "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260426163952_twitter_com_RogerDisboard_status_2048441945903792207.json": {
       "status": "done",
@@ -24408,7 +24410,7 @@
       "last_updated": "2026-05-28T00:22:19"
     },
     "20260426170642_twitter_com_RogerDisboard_status_2048448698171224161.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -24419,7 +24421,7 @@
           "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260426170936_twitter_com_RogerDisboard_status_2048449425836777883.json": {
@@ -24587,7 +24589,7 @@
       "last_updated": "2026-05-28T00:22:13"
     },
     "20260427144845_twitter_com_RogerDisboard_status_2048776368184516993.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HG57e2_a8AALCxt.jpg",
@@ -24601,7 +24603,7 @@
           "https://pbs.twimg.com/profile_images/2031592264678649856/zRvlBMu1_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260427150756_twitter_com_RogerDisboard_status_2048781196600189278.json": {
@@ -24628,8 +24630,8 @@
           "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:02",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260427151111_twitter_com_RogerDisboard_status_2048782016150405503.json": {
       "status": "done",
@@ -24658,7 +24660,7 @@
       "last_updated": "2026-05-28T00:22:13"
     },
     "20260427152133_twitter_com_RogerDisboard_status_2048784622230835669.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -24669,7 +24671,7 @@
           "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260427152444_twitter_com_RogerDisboard_status_2048785426383847670.json": {
@@ -24771,8 +24773,8 @@
           "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260427160051_twitter_com_RogerDisboard_status_2048794513775436124.json": {
       "status": "done",
@@ -24923,8 +24925,8 @@
           "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260428132812_twitter_com_RogerDisboard_status_2049118485997883625.json": {
       "status": "done",
@@ -25136,8 +25138,8 @@
           "https://pbs.twimg.com/profile_images/2043188404326899712/zqXCx5jU_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:02",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260429095857_twitter_com_RogerDisboard_status_2049428212405457120.json": {
       "status": "done",
@@ -25335,8 +25337,8 @@
           "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260429114251_twitter_com_RogerDisboard_status_2049454360577687842.json": {
       "status": "done",
@@ -25389,8 +25391,8 @@
           "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260429115841_twitter_com_RogerDisboard_status_2049458345627848708.json": {
       "status": "done",
@@ -25418,7 +25420,7 @@
       "last_updated": "2026-05-28T00:22:24"
     },
     "20260429122453_twitter_com_RogerDisboard_status_2049464940029948303.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -25429,7 +25431,7 @@
           "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260429123050_twitter_com_RogerDisboard_status_2049466435416854686.json": {
@@ -25444,8 +25446,8 @@
           "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260429124903_twitter_com_RogerDisboard_status_2049471020973613137.json": {
       "status": "done",
@@ -25726,8 +25728,8 @@
           "https://pbs.twimg.com/profile_images/2039375165696724993/WC3mjiJX_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260430093732_twitter_com_RogerDisboard_status_2049785213916414015.json": {
       "status": "done",
@@ -25845,7 +25847,7 @@
       "miss_count": 4
     },
     "20260430122839_twitter_com_RogerDisboard_status_2049828277359960301.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -25856,7 +25858,7 @@
           "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260430123644_twitter_com_RogerDisboard_status_2049830308971700408.json": {
@@ -26055,7 +26057,7 @@
       "last_updated": "2026-05-28T00:22:26"
     },
     "20260430154954_twitter_com_RogerDisboard_status_2049878923261993008.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -26066,7 +26068,7 @@
           "https://pbs.twimg.com/profile_images/2045101732326436864/AAWpmd-v_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260430155423_twitter_com_RogerDisboard_status_2049880048350458246.json": {
@@ -26184,8 +26186,8 @@
           "https://pbs.twimg.com/profile_images/2039327175099445248/TbK-YNoz_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260501001931_twitter_com_RogerDisboard_status_2050007170260009185.json": {
       "status": "done",
@@ -26386,8 +26388,8 @@
           "https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260501080414_twitter_com_RogerDisboard_status_2050124121019953570.json": {
       "status": "done",
@@ -26443,7 +26445,7 @@
       "last_updated": "2026-05-28T00:22:13"
     },
     "20260501084250_twitter_com_RogerDisboard_status_2050133833027379630.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -26454,7 +26456,7 @@
           "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260501084947_twitter_com_RogerDisboard_status_2050135584103072051.json": {
@@ -26494,7 +26496,7 @@
       "last_updated": "2026-05-28T00:22:26"
     },
     "20260501085925_twitter_com_RogerDisboard_status_2050138007018332251.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -26506,11 +26508,11 @@
           "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:56",
+      "last_updated": "2026-05-31T06:26:10",
       "miss_count": 7
     },
     "20260501093708_twitter_com_RogerDisboard_status_2050147497922986351.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHOTxAHaIAA0Mbz.jpg"
@@ -26523,7 +26525,7 @@
           "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260501094942_twitter_com_RogerDisboard_status_2050150660549804463.json": {
@@ -26649,8 +26651,8 @@
           "https://pbs.twimg.com/profile_images/2044867199542886400/5KCU5S6y_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260501151106_twitter_com_RogerDisboard_status_2050231546594902299.json": {
       "status": "done",
@@ -26715,8 +26717,8 @@
           "https://pbs.twimg.com/profile_images/2049882763290152960/2IkW544o_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:10",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260502024629_twitter_com_RogerDisboard_status_2050406543028580721.json": {
       "status": "done",
@@ -26784,7 +26786,7 @@
       "miss_count": 2
     },
     "20260502031849_twitter_com_RogerDisboard_status_2050414681530212824.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -26795,7 +26797,7 @@
           "https://pbs.twimg.com/profile_images/1800613243465129984/VbuWFPnK_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260502032221_twitter_com_RogerDisboard_status_2050415571955798139.json": {
@@ -26810,8 +26812,8 @@
           "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260502032418_twitter_com_RogerDisboard_status_2050416063083594223.json": {
       "status": "done",
@@ -26932,8 +26934,8 @@
           "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260502062957_twitter_com_RogerDisboard_status_2050462781225459905.json": {
       "status": "done",
@@ -26961,8 +26963,8 @@
           "https://pbs.twimg.com/profile_images/2042464843803021312/Xrx6Rv7f_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260502063510_twitter_com_RogerDisboard_status_2050464093321179633.json": {
       "status": "done",
@@ -26977,7 +26979,7 @@
       "last_updated": "2026-05-28T00:22:24"
     },
     "20260502063719_twitter_com_RogerDisboard_status_2050464635191738398.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHQe2FKacAAXjYW.jpg"
@@ -26990,7 +26992,7 @@
           "https://pbs.twimg.com/profile_images/1907123804914233344/0vuKRxIC_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260502064045_twitter_com_RogerDisboard_status_2050465497708425373.json": {
@@ -27189,8 +27191,8 @@
           "https://pbs.twimg.com/profile_images/2049574375658246144/l6hkDnAA_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:06",
+      "miss_count": 8
     },
     "20260502092106_twitter_com_RogerDisboard_status_2050505854001315897.json": {
       "status": "done",
@@ -27207,7 +27209,7 @@
       "last_updated": "2026-05-28T00:22:26"
     },
     "20260502094445_twitter_com_RogerDisboard_status_2050511805366378662.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -27218,11 +27220,11 @@
           "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260502101115_twitter_com_RogerDisboard_status_2050518472808178012.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHTkkSTbQAAHwD_.jpg"
@@ -27235,7 +27237,7 @@
           "https://pbs.twimg.com/profile_images/2021791717650010112/9BvDRLle_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260502103415_twitter_com_RogerDisboard_status_2050524262767980564.json": {
@@ -27250,7 +27252,7 @@
       "last_updated": "2026-05-28T00:22:13"
     },
     "20260502114120_twitter_com_RogerDisboard_status_2050541143730081977.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHT6V63aEAA1CvO.jpg"
@@ -27263,7 +27265,7 @@
           "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260502114215_twitter_com_RogerDisboard_status_2050541375004021239.json": {
@@ -27281,7 +27283,7 @@
       "last_updated": "2026-05-28T00:22:32"
     },
     "20260502114303_twitter_com_RogerDisboard_status_2050541576703951145.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHT07xeaYAEXnpa.jpg"
@@ -27294,11 +27296,11 @@
           "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260502124232_twitter_com_RogerDisboard_status_2050556546426507652.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHUAPyBbkAALdMo.jpg",
@@ -27312,7 +27314,7 @@
           "https://pbs.twimg.com/profile_images/1978063307694329856/viV6SIGI_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260502130841_twitter_com_RogerDisboard_status_2050563123946631335.json": {
@@ -27442,8 +27444,8 @@
           "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260502134917_twitter_com_RogerDisboard_status_2050573341690560760.json": {
       "status": "done",
@@ -27670,7 +27672,7 @@
       "last_updated": "2026-05-28T00:22:33"
     },
     "20260502163628_twitter_com_RogerDisboard_status_2050615416888955319.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHU-lwdaEAAxwgi.jpg"
@@ -27684,7 +27686,7 @@
           "https://pbs.twimg.com/profile_images/2006613894328885248/-OwVPnjx_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260502170519_twitter_com_RogerDisboard_status_2050622675626897660.json": {
@@ -27867,7 +27869,7 @@
       "last_updated": "2026-05-28T00:22:34"
     },
     "20260503051754_twitter_com_RogerDisboard_status_2050807038650024426.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHXrc84a8AApaDE.jpg"
@@ -27880,7 +27882,7 @@
           "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260503051839_twitter_com_RogerDisboard_status_2050807224965255245.json": {
@@ -27951,11 +27953,11 @@
           "https://pbs.twimg.com/profile_images/2050525725183385600/yfU8DEJR_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260503065051_twitter_com_RogerDisboard_status_2050830427766861902.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHX4Zr8bsAAwmvw.jpg"
@@ -27968,7 +27970,7 @@
           "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260503082232_twitter_com_RogerDisboard_status_2050853502495432709.json": {
@@ -28099,8 +28101,8 @@
           "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260503104924_twitter_com_RogerDisboard_status_2050890463968981112.json": {
       "status": "done",
@@ -28184,8 +28186,8 @@
           "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260503115042_twitter_com_RogerDisboard_status_2050905889675366749.json": {
       "status": "done",
@@ -28235,8 +28237,8 @@
           "https://pbs.twimg.com/profile_images/2003510168538210305/EGadh2x3_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260503145015_twitter_com_RogerDisboard_status_2050951072009855349.json": {
       "status": "done",
@@ -28616,8 +28618,8 @@
           "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:08",
+      "miss_count": 8
     },
     "20260504013411_twitter_com_RogerDisboard_status_2051113124791767549.json": {
       "status": "done",
@@ -28787,8 +28789,8 @@
           "https://pbs.twimg.com/profile_images/2049695578402304000/1dyUSXys_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260504074423_twitter_com_RogerDisboard_status_2051206289641070708.json": {
       "status": "done",
@@ -28874,7 +28876,7 @@
       "last_updated": "2026-05-28T00:22:15"
     },
     "20260504085801_twitter_com_RogerDisboard_status_2051224817488322596.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHdf9mxbcAA1QD7.jpg",
@@ -28888,7 +28890,7 @@
           "https://pbs.twimg.com/profile_images/2007548065105035264/ZGnC70Co_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260504090429_twitter_com_RogerDisboard_status_2051226447394803807.json": {
@@ -28983,8 +28985,8 @@
           "https://pbs.twimg.com/profile_images/2041491910490304512/juOj7D4Q_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260504105249_twitter_com_RogerDisboard_status_2051253711314513977.json": {
       "status": "done",
@@ -29211,8 +29213,8 @@
           "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260504170538_twitter_com_RogerDisboard_status_2051347533495247313.json": {
       "status": "failed",
@@ -29224,8 +29226,8 @@
           "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260504171422_twitter_com_RogerDisboard_status_2051349731801288960.json": {
       "status": "failed",
@@ -29237,8 +29239,8 @@
           "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:57",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260504171609_twitter_com_RogerDisboard_status_2051350178578542909.json": {
       "status": "done",
@@ -29265,8 +29267,8 @@
           "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260504172127_twitter_com_RogerDisboard_status_2051351513482830179.json": {
       "status": "failed",
@@ -29280,8 +29282,8 @@
           "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260504172658_twitter_com_RogerDisboard_status_2051352901931651580.json": {
       "status": "done",
@@ -29463,8 +29465,8 @@
           "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260505021639_twitter_com_RogerDisboard_status_2051486200410865881.json": {
       "status": "done",
@@ -29490,8 +29492,8 @@
           "https://pbs.twimg.com/profile_images/2048752986562891776/s8CpG48C_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260505050902_twitter_com_RogerDisboard_status_2051529583489626122.json": {
       "status": "done",
@@ -29692,11 +29694,11 @@
           "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260505150521_twitter_com_RogerDisboard_status_2051679648887804404.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHkF1HYawAAiaJF.jpg",
@@ -29712,11 +29714,11 @@
           "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260505150737_twitter_com_RogerDisboard_status_2051680221833965660.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -29727,7 +29729,7 @@
           "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260505150929_twitter_com_RogerDisboard_status_2051680689255600414.json": {
@@ -29959,8 +29961,8 @@
           "https://pbs.twimg.com/profile_images/2042508240743993345/w3kiI0UN_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:08",
+      "miss_count": 8
     },
     "20260505171817_twitter_com_RogerDisboard_status_2051713101654012301.json": {
       "status": "failed",
@@ -29972,8 +29974,8 @@
           "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260505174114_twitter_com_RogerDisboard_status_2051718878640869501.json": {
       "status": "done",
@@ -30501,8 +30503,8 @@
           "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260507145452_twitter_com_RogerDisboard_status_2052401786355687467.json": {
       "status": "done",
@@ -30578,7 +30580,7 @@
       "last_updated": "2026-05-28T00:22:13"
     },
     "20260507153715_twitter_com_RogerDisboard_status_2052412453762539582.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -30589,7 +30591,7 @@
           "https://pbs.twimg.com/profile_images/2046944955005108224/i59Np-bh_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260507154754_twitter_com_RogerDisboard_status_2052415132995825815.json": {
@@ -30681,8 +30683,8 @@
           "https://pbs.twimg.com/profile_images/2003510168538210305/EGadh2x3_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260508143018_twitter_com_RogerDisboard_status_2052757991188009043.json": {
       "status": "done",
@@ -30726,8 +30728,8 @@
           "https://pbs.twimg.com/profile_images/2003510168538210305/EGadh2x3_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260508143328_twitter_com_RogerDisboard_status_2052758787782811789.json": {
       "status": "done",
@@ -30988,7 +30990,7 @@
       "last_updated": "2026-05-28T00:22:38"
     },
     "20260509110431_twitter_com_RogerDisboard_status_2053068594792243463.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HH31VYeacAAQwR-.jpg"
@@ -31001,7 +31003,7 @@
           "https://pbs.twimg.com/profile_images/2049404907246215168/Lvqp6HFm_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260509111509_twitter_com_RogerDisboard_status_2053071269189558314.json": {
@@ -31031,7 +31033,7 @@
       "last_updated": "2026-05-28T00:22:25"
     },
     "20260509120507_twitter_com_RogerDisboard_status_2053083843305873878.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -31042,7 +31044,7 @@
           "https://pbs.twimg.com/profile_images/2051531594314522624/LCpcBuMM_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260509122703_twitter_com_RogerDisboard_status_2053089362926358566.json": {
@@ -31058,7 +31060,7 @@
       "last_updated": "2026-05-28T00:22:43"
     },
     "20260509125253_twitter_com_RogerDisboard_status_2053095865892696342.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -31069,7 +31071,7 @@
           "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260509130304_twitter_com_RogerDisboard_status_2053098428645970304.json": {
@@ -31178,7 +31180,7 @@
       "last_updated": "2026-05-28T00:22:43"
     },
     "20260509142347_twitter_com_RogerDisboard_status_2053118739382714601.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -31189,7 +31191,7 @@
           "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260509142449_twitter_com_RogerDisboard_status_2053119001249911073.json": {
@@ -31206,7 +31208,7 @@
       "last_updated": "2026-05-28T00:22:43"
     },
     "20260509142613_twitter_com_RogerDisboard_status_2053119352485064893.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -31217,7 +31219,7 @@
           "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260509142635_twitter_com_RogerDisboard_status_2053119443312738373.json": {
@@ -31334,8 +31336,8 @@
           "https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260509151127_twitter_com_RogerDisboard_status_2053130736262332713.json": {
       "status": "failed",
@@ -31347,8 +31349,8 @@
           "https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260509153931_twitter_com_RogerDisboard_status_2053137799650668974.json": {
       "status": "done",
@@ -31873,7 +31875,7 @@
       "last_updated": "2026-05-28T00:22:19"
     },
     "20260510002153_twitter_com_RogerDisboard_status_2053269257136611816.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HH6rMy4a8AEXgfD.png"
@@ -31890,7 +31892,7 @@
           "https://pbs.twimg.com/profile_images/1808898389834412033/g1Oq_kWo_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260510002403_twitter_com_RogerDisboard_status_2053269801725034894.json": {
@@ -32369,8 +32371,8 @@
           "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:05",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260511142906_twitter_com_RogerDisboard_status_2053844852732002770.json": {
       "status": "done",
@@ -32420,8 +32422,8 @@
           "https://pbs.twimg.com/profile_images/2053400102610595840/MxufF7uu_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260511150154_twitter_com_RogerDisboard_status_2053853109173240269.json": {
       "status": "done",
@@ -32657,7 +32659,7 @@
       "last_updated": "2026-05-28T00:22:45"
     },
     "20260511180904_twitter_com_RogerDisboard_status_2053900212553547779.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -32668,7 +32670,7 @@
           "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260511181245_twitter_com_RogerDisboard_status_2053901138353893835.json": {
@@ -33029,7 +33031,7 @@
       "last_updated": "2026-05-28T00:22:33"
     },
     "20260513143331_twitter_com_RogerDisboard_status_2054570743489585497.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HINNL4VacAAhR0d.jpg"
@@ -33042,7 +33044,7 @@
           "https://pbs.twimg.com/profile_images/2053748064381435904/U1--t_W1_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260513143419_twitter_com_RogerDisboard_status_2054570942744125655.json": {
@@ -33070,7 +33072,7 @@
       "last_updated": "2026-05-28T00:22:24"
     },
     "20260513143747_twitter_com_RogerDisboard_status_2054571817013321956.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -33081,7 +33083,7 @@
           "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260513144138_twitter_com_RogerDisboard_status_2054572782143582401.json": {
@@ -33201,8 +33203,8 @@
           "https://pbs.twimg.com/profile_images/2029794137164369924/mmgEnuwY_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260513152859_twitter_com_RogerDisboard_status_2054584699218251996.json": {
       "status": "done",
@@ -33277,8 +33279,8 @@
           "https://pbs.twimg.com/profile_images/2043382351338627072/dvyKaqRZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260514142835_twitter_com_RogerDisboard_status_2054931886280261724.json": {
       "status": "done",
@@ -33382,8 +33384,8 @@
           "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:58",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260514153818_twitter_com_RogerDisboard_status_2054949433553588442.json": {
       "status": "done",
@@ -33423,8 +33425,8 @@
           "https://pbs.twimg.com/profile_images/2042508240743993345/w3kiI0UN_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260514224019_twitter_com_RogerDisboard_status_2055055634916315609.json": {
       "status": "done",
@@ -33502,7 +33504,7 @@
       "last_updated": "2026-05-28T00:22:32"
     },
     "20260515133551_twitter_com_RogerDisboard_status_2055281006773686475.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -33513,11 +33515,11 @@
           "https://pbs.twimg.com/profile_images/2050128439362166784/ceUDKMYx_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
+      "last_updated": "2026-05-31T06:26:07",
       "miss_count": 7
     },
     "20260515133700_twitter_com_RogerDisboard_status_2055281292456120630.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -33528,7 +33530,7 @@
           "https://pbs.twimg.com/profile_images/2050128439362166784/ceUDKMYx_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260515133828_twitter_com_RogerDisboard_status_2055281662528000428.json": {
@@ -33544,8 +33546,8 @@
           "https://pbs.twimg.com/profile_images/2054809917853466624/fkXS2D8U_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:10",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260515134620_twitter_com_RogerDisboard_status_2055283641497043408.json": {
       "status": "done",
@@ -33624,8 +33626,8 @@
           "https://pbs.twimg.com/profile_images/2053766202841792512/8MCmbHyh_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:23",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260515235438_twitter_com_RogerDisboard_status_2055436726521548981.json": {
       "status": "done",
@@ -33640,7 +33642,7 @@
       "last_updated": "2026-05-28T00:22:38"
     },
     "20260515235704_twitter_com_RogerDisboard_status_2055437338877346141.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -33651,7 +33653,7 @@
           "https://pbs.twimg.com/profile_images/1911765458346205184/vHzUzRmN_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260516001907_twitter_com_RogerDisboard_status_2055442886213419494.json": {
@@ -33716,8 +33718,8 @@
           "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260516011710_twitter_com_RogerDisboard_status_2055457495901196384.json": {
       "status": "done",
@@ -33779,8 +33781,8 @@
           "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260516044353_twitter_com_RogerDisboard_status_2055509516897386907.json": {
       "status": "done",
@@ -33902,8 +33904,8 @@
           "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260516085318_twitter_com_RogerDisboard_status_2055572288096129250.json": {
       "status": "done",
@@ -33976,8 +33978,8 @@
           "https://pbs.twimg.com/profile_images/2042508240743993345/w3kiI0UN_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:08",
+      "miss_count": 8
     },
     "20260516105414_twitter_com_RogerDisboard_status_2055602720212766981.json": {
       "status": "done",
@@ -34046,8 +34048,8 @@
           "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260516143918_twitter_com_RogerDisboard_status_2055659361473843493.json": {
       "status": "done",
@@ -34281,8 +34283,8 @@
           "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:09",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260516163736_twitter_com_RogerDisboard_status_2055689131179814999.json": {
       "status": "done",
@@ -34608,8 +34610,8 @@
           "https://pbs.twimg.com/profile_images/1533909468534415360/0ooMC5WJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260517042056_twitter_com_RogerDisboard_status_2055866130439495961.json": {
       "status": "done",
@@ -34688,8 +34690,8 @@
           "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
-      "miss_count": 7
+      "last_updated": "2026-05-31T06:26:07",
+      "miss_count": 8
     },
     "20260517143117_twitter_com_RogerDisboard_status_2056019731833073758.json": {
       "status": "done",
@@ -34934,7 +34936,7 @@
       "last_updated": "2026-05-28T00:22:27"
     },
     "20260518151321_twitter_com_RogerDisboard_status_2056392703433416909.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -34946,11 +34948,11 @@
           "https://pbs.twimg.com/profile_images/2052105041511899136/EX4lLxDV_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260518151354_twitter_com_RogerDisboard_status_2056392844521447769.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -34961,7 +34963,7 @@
           "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:14:59",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260518153119_twitter_com_RogerDisboard_status_2056397228668039338.json": {
@@ -35952,7 +35954,7 @@
       "last_updated": "2026-05-28T00:22:19"
     },
     "20260522111602_twitter_com_RogerDisboard_status_2057782532889039006.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -35963,7 +35965,7 @@
           "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:00",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260522112302_twitter_com_RogerDisboard_status_2057784295608193154.json": {
@@ -36756,7 +36758,7 @@
       "last_updated": "2026-05-28T00:22:43"
     },
     "20260523101246_twitter_com_RogerDisboard_status_2058128998455218276.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -36767,7 +36769,7 @@
           "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:00",
+      "last_updated": "2026-05-31T06:26:09",
       "miss_count": 7
     },
     "20260523102830_twitter_com_RogerDisboard_status_2058132958872310091.json": {
@@ -36820,7 +36822,7 @@
       "last_updated": "2026-05-28T00:22:52"
     },
     "20260523125829_twitter_com_RogerDisboard_status_2058170705838215427.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJAT0YlbgAARaKY.jpg"
@@ -36833,7 +36835,7 @@
           "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:00",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260523125842_twitter_com_RogerDisboard_status_2058170758652952700.json": {
@@ -37743,7 +37745,7 @@
       "last_updated": "2026-05-28T00:22:53"
     },
     "20260524164930_twitter_com_RogerDisboard_status_2058591228082745490.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -37754,7 +37756,7 @@
           "https://pbs.twimg.com/profile_images/2049428712932913152/44JwCgoy_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:00",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260524165157_twitter_com_RogerDisboard_status_2058591847925400028.json": {
@@ -37891,7 +37893,7 @@
       "last_updated": "2026-05-28T00:22:52"
     },
     "20260524174132_twitter_com_RogerDisboard_status_2058604322079093179.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -37902,7 +37904,7 @@
           "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:00",
+      "last_updated": "2026-05-31T06:26:08",
       "miss_count": 7
     },
     "20260524174230_twitter_com_RogerDisboard_status_2058604567441576279.json": {
@@ -38746,7 +38748,7 @@
           "https://pbs.twimg.com/profile_images/2058956542129717248/LVvamQKs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:00"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527142621_twitter_com_RogerDisboard_status_2059642366731186266.json": {
       "status": "done",
@@ -38782,7 +38784,7 @@
           "https://pbs.twimg.com/profile_images/2048648306482696192/-EYKrYk__normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:00"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527150823_twitter_com_RogerDisboard_status_2059652946254778576.json": {
       "status": "done",
@@ -38916,7 +38918,7 @@
           "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:02"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527154514_twitter_com_RogerDisboard_status_2059662220947255565.json": {
       "status": "done",
@@ -38954,7 +38956,7 @@
           "https://pbs.twimg.com/profile_images/2051158429058863104/6-7Jw_zW_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:02"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527155015_twitter_com_RogerDisboard_status_2059663481755123803.json": {
       "status": "unknown",
@@ -38966,7 +38968,7 @@
           "https://pbs.twimg.com/profile_images/2051158429058863104/6-7Jw_zW_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:02"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527160144_twitter_com_RogerDisboard_status_2059666373933224333.json": {
       "status": "done",
@@ -39057,7 +39059,7 @@
           "https://pbs.twimg.com/profile_images/1979309306349604864/FDPCsZN9_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527162011_twitter_com_RogerDisboard_status_2059671017136758994.json": {
       "status": "done",
@@ -39106,7 +39108,7 @@
           "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527163029_twitter_com_RogerDisboard_status_2059673606884626473.json": {
       "status": "unknown",
@@ -39120,7 +39122,7 @@
           "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527163404_twitter_com_RogerDisboard_status_2059674507481387371.json": {
       "status": "unknown",
@@ -39135,7 +39137,7 @@
           "https://pbs.twimg.com/profile_images/2040429349288148992/lArIhLA5_normal.png"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527164010_twitter_com_RogerDisboard_status_2059676044286955667.json": {
       "status": "done",
@@ -39161,7 +39163,7 @@
           "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527165253_twitter_com_RogerDisboard_status_2059679242666086544.json": {
       "status": "done",
@@ -39185,7 +39187,7 @@
           "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260527170040_twitter_com_RogerDisboard_status_2059681203868082662.json": {
       "status": "done",
@@ -39246,7 +39248,7 @@
           "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528142123_twitter_com_RogerDisboard_status_2060003507315581321.json": {
       "status": "done",
@@ -39282,7 +39284,7 @@
           "https://pbs.twimg.com/profile_images/2056789508591611904/jAX9WWuH_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528142348_twitter_com_RogerDisboard_status_2060004114927673756.json": {
       "status": "unknown",
@@ -39294,7 +39296,7 @@
           "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528145158_twitter_com_RogerDisboard_status_2060011204278727158.json": {
       "status": "unknown",
@@ -39306,7 +39308,7 @@
           "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528145858_twitter_com_RogerDisboard_status_2060012964661649469.json": {
       "status": "done",
@@ -39341,7 +39343,7 @@
           "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528153508_twitter_com_RogerDisboard_status_2060022064690683919.json": {
       "status": "done",
@@ -39412,7 +39414,7 @@
           "https://pbs.twimg.com/profile_images/2059999535716544513/0EsfSBv5_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528161742_twitter_com_RogerDisboard_status_2060032778750886090.json": {
       "status": "unknown",
@@ -39424,7 +39426,7 @@
           "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528161816_twitter_com_RogerDisboard_status_2060032922317635987.json": {
       "status": "done",
@@ -39451,7 +39453,7 @@
           "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528162113_twitter_com_RogerDisboard_status_2060033662109077658.json": {
       "status": "unknown",
@@ -39463,7 +39465,7 @@
           "https://pbs.twimg.com/profile_images/2059281095439548416/CVtnaz6l_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528162404_twitter_com_RogerDisboard_status_2060034379259474102.json": {
       "status": "done",
@@ -39488,7 +39490,7 @@
           "https://pbs.twimg.com/profile_images/2059999535716544513/0EsfSBv5_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528163054_twitter_com_RogerDisboard_status_2060036098152382475.json": {
       "status": "unknown",
@@ -39502,7 +39504,7 @@
           "https://pbs.twimg.com/profile_images/1993739960495878145/jrGB8W1__normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528163228_twitter_com_RogerDisboard_status_2060036494484750530.json": {
       "status": "unknown",
@@ -39518,7 +39520,7 @@
           "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528163948_twitter_com_RogerDisboard_status_2060038341287149709.json": {
       "status": "done",
@@ -39546,7 +39548,7 @@
           "https://pbs.twimg.com/profile_images/2058568327480672256/oOQPQadD_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528164940_twitter_com_RogerDisboard_status_2060040821014245603.json": {
       "status": "unknown",
@@ -39558,7 +39560,7 @@
           "https://pbs.twimg.com/profile_images/2059281095439548416/CVtnaz6l_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528165313_twitter_com_RogerDisboard_status_2060041714673627503.json": {
       "status": "done",
@@ -39596,7 +39598,7 @@
           "https://pbs.twimg.com/profile_images/2058956542129717248/LVvamQKs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528170458_twitter_com_RogerDisboard_status_2060044673041973595.json": {
       "status": "unknown",
@@ -39608,7 +39610,7 @@
           "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528170542_twitter_com_RogerDisboard_status_2060044859634073697.json": {
       "status": "unknown",
@@ -39620,7 +39622,7 @@
           "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260528170830_twitter_com_RogerDisboard_status_2060045563715047572.json": {
       "status": "done",
@@ -39734,7 +39736,7 @@
           "https://pbs.twimg.com/profile_images/2058956542129717248/LVvamQKs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529105904_twitter_com_RogerDisboard_status_2060314979145007436.json": {
       "status": "done",
@@ -39782,7 +39784,7 @@
           "https://pbs.twimg.com/profile_images/2004859859259568128/sGFfmyVw_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529110051_twitter_com_RogerDisboard_status_2060315426505314699.json": {
       "status": "done",
@@ -39824,7 +39826,7 @@
           "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529110408_twitter_com_RogerDisboard_status_2060316253932359815.json": {
       "status": "done",
@@ -39862,7 +39864,7 @@
           "https://pbs.twimg.com/profile_images/2056663074044829696/wzJ7ID0J_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529111136_twitter_com_RogerDisboard_status_2060318131583963517.json": {
       "status": "unknown",
@@ -39874,7 +39876,7 @@
           "https://pbs.twimg.com/profile_images/2056010892282851328/okw5X9dJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529111338_twitter_com_RogerDisboard_status_2060318643020542300.json": {
       "status": "unknown",
@@ -39886,7 +39888,7 @@
           "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529111458_twitter_com_RogerDisboard_status_2060318980599169074.json": {
       "status": "unknown",
@@ -39898,7 +39900,7 @@
           "https://pbs.twimg.com/profile_images/2052001172828094464/KXljE6W4_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529111812_twitter_com_RogerDisboard_status_2060319794566697415.json": {
       "status": "unknown",
@@ -39913,7 +39915,7 @@
           "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529112140_twitter_com_RogerDisboard_status_2060320668101828890.json": {
       "status": "unknown",
@@ -39925,7 +39927,7 @@
           "https://pbs.twimg.com/profile_images/2060067917350273024/E125I94c_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529112717_twitter_com_RogerDisboard_status_2060322078621094079.json": {
       "status": "unknown",
@@ -39937,7 +39939,7 @@
           "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529112748_twitter_com_RogerDisboard_status_2060322210628440338.json": {
       "status": "done",
@@ -39963,7 +39965,7 @@
           "https://pbs.twimg.com/profile_images/2057940556907503616/Ys4RCpmj_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529113725_twitter_com_RogerDisboard_status_2060324631446511619.json": {
       "status": "unknown",
@@ -39977,7 +39979,7 @@
           "https://pbs.twimg.com/profile_images/2057940556907503616/Ys4RCpmj_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529113945_twitter_com_RogerDisboard_status_2060325216526782783.json": {
       "status": "done",
@@ -40015,7 +40017,7 @@
           "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529114834_twitter_com_RogerDisboard_status_2060327438178255264.json": {
       "status": "done",
@@ -40041,7 +40043,7 @@
           "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:09"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529114934_twitter_com_RogerDisboard_status_2060327689127665929.json": {
       "status": "unknown",
@@ -40055,7 +40057,7 @@
           "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:09"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529115121_twitter_com_RogerDisboard_status_2060328134856360005.json": {
       "status": "unknown",
@@ -40069,7 +40071,7 @@
           "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529115219_twitter_com_RogerDisboard_status_2060328381892477329.json": {
       "status": "done",
@@ -40096,7 +40098,7 @@
       "last_updated": "2026-05-31T06:15:03"
     },
     "20260529115616_twitter_com_RogerDisboard_status_2060329374365397356.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJfAfPObIAAnGU3.jpg"
@@ -40109,7 +40111,7 @@
           "https://pbs.twimg.com/profile_images/2053748064381435904/U1--t_W1_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:08"
     },
     "20260529115621_twitter_com_RogerDisboard_status_2060329395508978055.json": {
       "status": "done",
@@ -40147,7 +40149,7 @@
           "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529123705_twitter_com_RogerDisboard_status_2060339644416594221.json": {
       "status": "done",
@@ -40189,7 +40191,7 @@
           "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529143243_twitter_com_RogerDisboard_status_2060368746548752419.json": {
       "status": "unknown",
@@ -40203,7 +40205,7 @@
           "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:03"
+      "last_updated": "2026-05-31T06:26:08"
     },
     "20260529143932_twitter_com_RogerDisboard_status_2060370459661885515.json": {
       "status": "done",
@@ -40406,7 +40408,7 @@
           "https://pbs.twimg.com/profile_images/2057940556907503616/Ys4RCpmj_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529164659_twitter_com_RogerDisboard_status_2060402537388528003.json": {
       "status": "done",
@@ -40430,7 +40432,7 @@
           "https://pbs.twimg.com/profile_images/2027384805680349184/1WhP74e0_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529165846_twitter_com_RogerDisboard_status_2060405498638422208.json": {
       "status": "unknown",
@@ -40444,7 +40446,7 @@
           "https://pbs.twimg.com/profile_images/2055385614082797569/AilgBjUp_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529165930_twitter_com_RogerDisboard_status_2060405684622225653.json": {
       "status": "unknown",
@@ -40456,7 +40458,7 @@
           "https://pbs.twimg.com/profile_images/2058956542129717248/LVvamQKs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529165945_twitter_com_RogerDisboard_status_2060405746643382395.json": {
       "status": "unknown",
@@ -40468,7 +40470,7 @@
           "https://pbs.twimg.com/profile_images/2055385614082797569/AilgBjUp_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529170025_twitter_com_RogerDisboard_status_2060405915363524708.json": {
       "status": "unknown",
@@ -40480,7 +40482,7 @@
           "https://pbs.twimg.com/profile_images/2054276238651666432/lR_qW52y_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529170453_twitter_com_RogerDisboard_status_2060407040091275555.json": {
       "status": "done",
@@ -40504,7 +40506,7 @@
           "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529170843_twitter_com_RogerDisboard_status_2060408006614155387.json": {
       "status": "unknown",
@@ -40516,7 +40518,7 @@
           "https://pbs.twimg.com/profile_images/2058437773376331777/n2In0ooh_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260529171044_twitter_com_RogerDisboard_status_2060408513130885359.json": {
       "status": "done",
@@ -40653,7 +40655,7 @@
           "https://pbs.twimg.com/profile_images/2056010892282851328/okw5X9dJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260530024201_twitter_com_RogerDisboard_status_2060552279846248720.json": {
       "status": "done",
@@ -40737,7 +40739,7 @@
           "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260530040534_twitter_com_RogerDisboard_status_2060573305464365344.json": {
       "status": "unknown",
@@ -40749,7 +40751,7 @@
           "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260530040742_twitter_com_RogerDisboard_status_2060573845006975242.json": {
       "status": "unknown",
@@ -40761,7 +40763,7 @@
           "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260530040904_twitter_com_RogerDisboard_status_2060574186876395881.json": {
       "status": "done",
@@ -40785,7 +40787,7 @@
           "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260530042641_twitter_com_RogerDisboard_status_2060578622063378789.json": {
       "status": "unknown",
@@ -40797,7 +40799,7 @@
           "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     },
     "20260530042825_twitter_com_RogerDisboard_status_2060579056220074291.json": {
       "status": "unknown",
@@ -40809,7 +40811,7 @@
           "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:15:04"
+      "last_updated": "2026-05-31T06:26:07"
     }
   }
 }
