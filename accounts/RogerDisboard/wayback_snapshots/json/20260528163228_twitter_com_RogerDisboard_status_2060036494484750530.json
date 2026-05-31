@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060035524426121417",
+    "created_at": "2026-05-28T16:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060036494484750530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 30,
+          "id": "1622066090074607616",
+          "start": 16,
+          "username": "hoshinofujivy"
+        },
+        {
+          "end": 46,
+          "id": "1635476041438461952",
+          "start": 31,
+          "username": "JiaweiShen2568"
+        },
+        {
+          "end": 54,
+          "id": "1613079089879076864",
+          "start": 47,
+          "username": "YunJiu"
+        },
+        {
+          "end": 63,
+          "id": "1433678976564662273",
+          "start": 55,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060036494484750530",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060035524426121417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @hoshinofujivy @JiaweiShen2568 @YunJiu @hsn8086 xm qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060035524426121417",
+        "created_at": "2026-05-28T16:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060036494484750530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 30,
+              "id": "1622066090074607616",
+              "start": 16,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 46,
+              "id": "1635476041438461952",
+              "start": 31,
+              "username": "JiaweiShen2568"
+            },
+            {
+              "end": 54,
+              "id": "1613079089879076864",
+              "start": 47,
+              "username": "YunJiu"
+            },
+            {
+              "end": 63,
+              "id": "1433678976564662273",
+              "start": 55,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060036494484750530",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060035524426121417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @hoshinofujivy @JiaweiShen2568 @YunJiu @hsn8086 xm qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060035524426121417",
+        "created_at": "2026-05-28T16:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060035524426121417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1622066090074607616",
+              "start": 4,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 34,
+              "id": "1635476041438461952",
+              "start": 19,
+              "username": "JiaweiShen2568"
+            },
+            {
+              "end": 42,
+              "id": "1613079089879076864",
+              "start": 35,
+              "username": "YunJiu"
+            },
+            {
+              "end": 51,
+              "id": "1433678976564662273",
+              "start": 43,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rogerdisboard/…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/rogerdisboard/status/2060034379259474102",
+              "start": 73,
+              "url": "https://t.co/d0SfFFPYpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060035524426121417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060034379259474102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好羡慕 @hoshinofujivy @JiaweiShen2568 @YunJiu @hsn8086 \n如果環状線也能有这么高的浏览量就好了。 https://t.co/d0SfFFPYpw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 937,
+          "like_count": 6644,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1532
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4292,
+          "following_count": 863,
+          "like_count": 22881,
+          "listed_count": 11,
+          "media_count": 1217,
+          "tweet_count": 6820
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11517,
+          "following_count": 4315,
+          "like_count": 46884,
+          "listed_count": 39,
+          "media_count": 2459,
+          "tweet_count": 14753
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-14T03:01:07.000Z",
+        "description": "最近听到字节跳槽出来的管理带来一些新的词汇，以前腾讯是拉通，字节喜欢说对齐。\n我不懂啥是对齐。有人说就是对齐思路，比如你在网上和人对线，那就是对齐。我说抱歉，真对齐不了一点儿。",
+        "id": "1635476041438461952",
+        "location": "广州，深圳",
+        "name": "渡边君",
+        "pinned_tweet_id": "1949724676168786000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698170245012410368/-hDgjw5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30963,
+          "following_count": 2158,
+          "like_count": 60245,
+          "listed_count": 112,
+          "media_count": 5655,
+          "tweet_count": 42872
+        },
+        "username": "JiaweiShen2568",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105119,
+          "following_count": 797,
+          "like_count": 37035,
+          "listed_count": 295,
+          "media_count": 18944,
+          "tweet_count": 27172
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120698,
+          "following_count": 1120,
+          "like_count": 52343,
+          "listed_count": 293,
+          "media_count": 21780,
+          "tweet_count": 32255
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060318643020542300",
+    "created_at": "2026-05-29T11:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060318643020542300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060050991370891265",
+          "start": 3,
+          "username": "XYNshioochi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060318643020542300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060223149778817434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XYNshioochi: 互fo寻回！（求转帖喵🥺）\n大号的换绑有48小时的冷却。现在事情还在风头上，先躲躲\n以后只发屎和日常和碎碎念。这个号就懒得搬屎了，所以不会因为fo了就tl有屎哦🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060318643020542300",
+        "created_at": "2026-05-29T11:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060318643020542300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060050991370891265",
+              "start": 3,
+              "username": "XYNshioochi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060318643020542300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060223149778817434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XYNshioochi: 互fo寻回！（求转帖喵🥺）\n大号的换绑有48小时的冷却。现在事情还在风头上，先躲躲\n以后只发屎和日常和碎碎念。这个号就懒得搬屎了，所以不会因为fo了就tl有屎哦🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060050991370891265",
+        "conversation_id": "2060223149778817434",
+        "created_at": "2026-05-29T04:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060223149778817434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060223149778817434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1642,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "互fo寻回！（求转帖喵🥺）\n大号的换绑有48小时的冷却。现在事情还在风头上，先躲躲\n以后只发屎和日常和碎碎念。这个号就懒得搬屎了，所以不会因为fo了就tl有屎哦🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 947,
+          "like_count": 6739,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1561
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜你们觉得我这次能活吗",
+        "id": "2060050991370891265",
+        "name": "汐落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 116,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 68
+        },
+        "username": "XYNshioochi",
+        "verified": false
+      }
+    ]
+  }
+}

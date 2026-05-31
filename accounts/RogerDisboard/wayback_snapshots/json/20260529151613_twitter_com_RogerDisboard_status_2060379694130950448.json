@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060379676120670208"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060379694130950448",
+    "created_at": "2026-05-29T15:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060379694130950448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IXbW74k7UK",
+          "end": 32,
+          "expanded_url": "https://x.com/RogerDisboard/status/2060379694130950448/photo/1",
+          "media_key": "3_2060379676120670208",
+          "start": 9,
+          "url": "https://t.co/IXbW74k7UK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060379694130950448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我！也！要！玩！ https://t.co/IXbW74k7UK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2060379676120670208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfwZimbYAAQ0-e.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060379676120670208"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060379694130950448",
+        "created_at": "2026-05-29T15:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060379694130950448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXbW74k7UK",
+              "end": 32,
+              "expanded_url": "https://x.com/RogerDisboard/status/2060379694130950448/photo/1",
+              "media_key": "3_2060379676120670208",
+              "start": 9,
+              "url": "https://t.co/IXbW74k7UK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060379694130950448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我！也！要！玩！ https://t.co/IXbW74k7UK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 950,
+          "like_count": 6899,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1594
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

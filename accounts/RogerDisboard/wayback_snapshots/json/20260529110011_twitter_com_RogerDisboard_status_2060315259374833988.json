@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060049518553608653",
+    "created_at": "2026-05-29T11:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060315259374833988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1634598602126540800",
+          "start": 0,
+          "username": "234qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060315259374833988",
+    "in_reply_to_user_id": "1634598602126540800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060080083931697413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@234qaq 安安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060049518553608653",
+        "created_at": "2026-05-29T11:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060315259374833988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1634598602126540800",
+              "start": 0,
+              "username": "234qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060315259374833988",
+        "in_reply_to_user_id": "1634598602126540800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060080083931697413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@234qaq 安安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634598602126540800",
+        "conversation_id": "2060049518553608653",
+        "created_at": "2026-05-28T19:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060080083931697413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060080083931697413",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060049518553608653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 晚安💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 945,
+          "like_count": 6709,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1553
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T16:54:16.000Z",
+        "description": "喜欢小猫 🚪0/9999/99999/   匿名问我问题吧https://t.co/Xs4wUELEBh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/23465562",
+                "end": 52,
+                "expanded_url": "https://ngl.link/23465562",
+                "start": 29,
+                "url": "https://t.co/Xs4wUELEBh"
+              }
+            ]
+          }
+        },
+        "id": "1634598602126540800",
+        "name": "3222号工具人",
+        "pinned_tweet_id": "2043922979449634834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004859859259568128/sGFfmyVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 212,
+          "like_count": 15450,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 2709
+        },
+        "username": "234qaq",
+        "verified": false
+      }
+    ]
+  }
+}

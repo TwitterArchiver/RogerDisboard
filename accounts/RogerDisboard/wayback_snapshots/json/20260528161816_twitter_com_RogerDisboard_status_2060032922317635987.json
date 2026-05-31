@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060032453453217860",
+    "created_at": "2026-05-28T16:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060032922317635987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726808702387449856",
+          "start": 0,
+          "username": "Nargiti"
+        },
+        {
+          "end": 20,
+          "id": "1858393719080366080",
+          "start": 9,
+          "username": "xiaomonuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060032922317635987",
+    "in_reply_to_user_id": "1726808702387449856",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060032453453217860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nargiti @xiaomonuya xm qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 331,
+        "media_key": "3_2060032264537554945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJa0bhmawAEjFbv.png",
+        "width": 395
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060032453453217860",
+        "created_at": "2026-05-28T16:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060032922317635987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726808702387449856",
+              "start": 0,
+              "username": "Nargiti"
+            },
+            {
+              "end": 20,
+              "id": "1858393719080366080",
+              "start": 9,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060032922317635987",
+        "in_reply_to_user_id": "1726808702387449856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060032453453217860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nargiti @xiaomonuya xm qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060032264537554945"
+          ]
+        },
+        "author_id": "1726808702387449856",
+        "conversation_id": "2060032453453217860",
+        "created_at": "2026-05-28T16:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060032453453217860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1858393719080366080",
+              "start": 28,
+              "username": "xiaomonuya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QdLcOOgqyz",
+              "end": 63,
+              "expanded_url": "https://x.com/Nargiti/status/2060032453453217860/photo/1",
+              "media_key": "3_2060032264537554945",
+              "start": 40,
+              "url": "https://t.co/QdLcOOgqyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060032453453217860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某流落半生\n未逢明主\n公若不弃\n某愿拜为义母\n谢谢TT\n@xiaomonuya https://t.co/QdLcOOgqyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 937,
+          "like_count": 6625,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1526
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允，人随身死，精神永存\n\n全名：神之authority东风61珠峰使者\nQPR/友跨/无明显政治倾向\n随便发点段子或杂谈\n不主动回fo，需要互fo私我喵，互fo默认交朋友喵\n🚪塔克夫白边账号＋PVE/蓝边/战雷豹2A6\n听说加了门会有更多人来玩所以试试\n纯绿。（其实大概率不用门，欢迎大家来找我玩）",
+        "id": "1726808702387449856",
+        "location": "都看到这了，点个follow呗(●'◡'●)",
+        "name": "丌乐",
+        "pinned_tweet_id": "2056706169184641104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058239181382664192/7xUoIQT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 19,
+          "like_count": 9602,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 402
+        },
+        "username": "Nargiti",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n🚪52喵//\nles\n//29元包年千G流量VPN👉🏻https://t.co/zQZ5MJmWPl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 135,
+                "expanded_url": "https://www.tz86.vip/#/register?code=uaDa8hjx",
+                "start": 112,
+                "url": "https://t.co/zQZ5MJmWPl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=uaDa8hjx",
+                "start": 0,
+                "url": "https://t.co/zQZ5MJmWPl"
+              }
+            ]
+          }
+        },
+        "id": "1858393719080366080",
+        "location": "29元包年千G流量VPN👉🏻",
+        "name": "Camellia",
+        "pinned_tweet_id": "2058912575262478530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055570607966982144/w2BlKkDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 229,
+          "like_count": 5631,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 6091
+        },
+        "url": "https://t.co/zQZ5MJmWPl",
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

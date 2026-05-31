@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060324619496955904"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060087214529237105",
+    "created_at": "2026-05-29T11:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060324631446511619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431614107585859588",
+          "start": 0,
+          "username": "L1ttl3Sh_ttyBun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TO6LBSqy05",
+          "end": 40,
+          "expanded_url": "https://x.com/RogerDisboard/status/2060324631446511619/photo/1",
+          "media_key": "3_2060324619496955904",
+          "start": 17,
+          "url": "https://t.co/TO6LBSqy05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060324631446511619",
+    "in_reply_to_user_id": "1431614107585859588",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060324025230844187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L1ttl3Sh_ttyBun https://t.co/TO6LBSqy05"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 228,
+        "media_key": "3_2060324619496955904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe-U0sboAAm2hw.jpg",
+        "width": 180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060324619496955904"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060087214529237105",
+        "created_at": "2026-05-29T11:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060324631446511619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431614107585859588",
+              "start": 0,
+              "username": "L1ttl3Sh_ttyBun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TO6LBSqy05",
+              "end": 40,
+              "expanded_url": "https://x.com/RogerDisboard/status/2060324631446511619/photo/1",
+              "media_key": "3_2060324619496955904",
+              "start": 17,
+              "url": "https://t.co/TO6LBSqy05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060324631446511619",
+        "in_reply_to_user_id": "1431614107585859588",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060324025230844187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L1ttl3Sh_ttyBun https://t.co/TO6LBSqy05"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431614107585859588",
+        "conversation_id": "2060087214529237105",
+        "created_at": "2026-05-29T11:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060324025230844187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060324025230844187",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060323681851830574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard Hola!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 950,
+          "like_count": 6769,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1568
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T13:46:26.000Z",
+        "description": "Nombre fome pq si  fan d reddit y twitter| #Shtwt  #subtwt #obstwt #suicidetwt\n#AntiPedoBear.\nDNI ( ´ ▽ ` )ﾉﾞᵗᵗʸˡ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "Shtwt"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "subtwt"
+              },
+              {
+                "end": 66,
+                "start": 59,
+                "tag": "obstwt"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "tag": "AntiPedoBear"
+              }
+            ]
+          }
+        },
+        "id": "1431614107585859588",
+        "name": "Suic1d3-Chan ໒꒰ྀི๑ᵔ ᵕ ᵔ๑꒱ྀིა",
+        "pinned_tweet_id": "2060115141555798371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057940556907503616/Ys4RCpmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 29,
+          "like_count": 1713,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 701
+        },
+        "username": "L1ttl3Sh_ttyBun",
+        "verified": false
+      }
+    ]
+  }
+}

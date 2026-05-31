@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060047511868563456"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060046094076424684",
+    "created_at": "2026-05-28T17:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060047523595907258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837114188046684161",
+          "start": 0,
+          "username": "winterfruit_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pg5GFN17cm",
+          "end": 38,
+          "expanded_url": "https://x.com/RogerDisboard/status/2060047523595907258/photo/1",
+          "media_key": "3_2060047511868563456",
+          "start": 15,
+          "url": "https://t.co/Pg5GFN17cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060047523595907258",
+    "in_reply_to_user_id": "1837114188046684161",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060046094076424684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winterfruit_1 https://t.co/Pg5GFN17cm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_2060047511868563456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbCTCVaYAAHHJZ.jpg",
+        "width": 713
+      },
+      {
+        "height": 431,
+        "media_key": "3_2060046082575564800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbA_1zaAAAEays.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060047511868563456"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060046094076424684",
+        "created_at": "2026-05-28T17:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060047523595907258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pg5GFN17cm",
+              "end": 38,
+              "expanded_url": "https://x.com/RogerDisboard/status/2060047523595907258/photo/1",
+              "media_key": "3_2060047511868563456",
+              "start": 15,
+              "url": "https://t.co/Pg5GFN17cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060047523595907258",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060046094076424684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 https://t.co/Pg5GFN17cm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060046082575564800"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2060046094076424684",
+        "created_at": "2026-05-28T17:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060046094076424684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxEnwrKYzI",
+              "end": 30,
+              "expanded_url": "https://x.com/winterfruit_1/status/2060046094076424684/photo/1",
+              "media_key": "3_2060046082575564800",
+              "start": 7,
+              "url": "https://t.co/bxEnwrKYzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060046094076424684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豌豆射手色图 https://t.co/bxEnwrKYzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 941,
+          "like_count": 6699,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1546
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 1473,
+          "like_count": 42152,
+          "listed_count": 6,
+          "media_count": 1834,
+          "tweet_count": 12509
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

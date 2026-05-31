@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2059578733338779737",
+    "created_at": "2026-05-27T14:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059644268256583922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048646811439738880",
+          "start": 0,
+          "username": "maomaojianga_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059644268256583922",
+    "in_reply_to_user_id": "2048646811439738880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059578733338779737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaojianga_ 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2059578733338779737",
+        "created_at": "2026-05-27T14:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059644268256583922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048646811439738880",
+              "start": 0,
+              "username": "maomaojianga_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059644268256583922",
+        "in_reply_to_user_id": "2048646811439738880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059578733338779737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaojianga_ 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048646811439738880",
+        "conversation_id": "2059578733338779737",
+        "created_at": "2026-05-27T10:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059578733338779737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059578733338779737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2457,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已经被救过来了😭ICU太难熬了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2058990850269737133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 931,
+          "like_count": 6421,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1472
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T06:19:52.000Z",
+        "description": "想交朋友，有没有药圈的可以和我交朋友，xyn，xnn之类的我都想交，多来点人和我交朋友，越多越好",
+        "id": "2048646811439738880",
+        "name": "猫猫",
+        "pinned_tweet_id": "2057532274502152563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048648306482696192/-EYKrYk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 73,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "username": "maomaojianga_",
+        "verified": false
+      }
+    ]
+  }
+}
