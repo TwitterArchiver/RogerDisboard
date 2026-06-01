@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060568217475793385",
+    "created_at": "2026-05-30T05:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060597978977755160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        },
+        {
+          "end": 15,
+          "id": "1532663208393117696",
+          "start": 7,
+          "username": "Ziverk2"
+        },
+        {
+          "end": 27,
+          "id": "1838866598427549696",
+          "start": 16,
+          "username": "Yunmengyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060597978977755160",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060597240469835790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq @Ziverk2 @Yunmengyue ？\n你不要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060568217475793385",
+        "created_at": "2026-05-30T05:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060597978977755160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            },
+            {
+              "end": 15,
+              "id": "1532663208393117696",
+              "start": 7,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 27,
+              "id": "1838866598427549696",
+              "start": 16,
+              "username": "Yunmengyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060597978977755160",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060597240469835790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq @Ziverk2 @Yunmengyue ？\n你不要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2060568217475793385",
+        "created_at": "2026-05-30T05:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060597240469835790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 23,
+              "id": "1532663208393117696",
+              "start": 15,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 35,
+              "id": "1838866598427549696",
+              "start": 24,
+              "username": "Yunmengyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060597240469835790",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060596854942007485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard @Ziverk2 @Yunmengyue 想自殺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 967,
+          "like_count": 7174,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1668
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "ここがいいちゃんだよ\n私は🍥MTF🏳️‍⚧️ですね（7日間食べたことがあるにゃん）\nたくさんいいちゃんのこと、よろしくね～\n公式：@mapo_q\n電子製品の修理⌚️🖥️⌨️📱📲💻🛠️\nプロの楽奏者🎹🎷🥁🎸🪉🎺\n音楽作曲🎛️🎚️\n大好きな彼氏@TouhouSeigen_、@Dong42620",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "mapo_q"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "TouhouSeigen_"
+              },
+              {
+                "end": 145,
+                "start": 135,
+                "username": "Dong42620"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "name": "いいちゃん/貓貓🍥🏳️‍⚧️（皆さん重度依賴）",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 680,
+          "like_count": 2658,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 2635
+        },
+        "username": "4rulq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "喵喵喵喵喵🐱\n|2008-即将（？）\n|MTF(X)🍥 🏳️‍⚧️ SINCE 2024.11\n|原创音乐人\n|负面碎碎念☹️\n|小群 1020709329 只过熟人喵\n|烤批\n|内有涩涩内容🫣😈\n|负面逃生仓⚠血图 @TakeNitrite 😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "TakeNitrite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eina-2nd.github.io",
+                "end": 23,
+                "expanded_url": "https://eina-2nd.github.io/",
+                "start": 0,
+                "url": "https://t.co/CY9WeMigBd"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2050222327573717186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 5845,
+          "like_count": 182577,
+          "listed_count": 13,
+          "media_count": 310,
+          "tweet_count": 16525
+        },
+        "url": "https://t.co/CY9WeMigBd",
+        "username": "Ziverk2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "2026.5开启hrt/持证含糖MtF/持续羡慕年轻小药娘/因为我是老登😞",
+        "id": "1838866598427549696",
+        "name": "云梦玥🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 109,
+          "like_count": 177,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "username": "Yunmengyue",
+        "verified": false
+      }
+    ]
+  }
+}

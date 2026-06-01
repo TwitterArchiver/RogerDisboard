@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2060597873147035648"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060597434179551324",
+    "created_at": "2026-05-30T05:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060597956110418324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A6h5YSb5Hn",
+          "end": 43,
+          "expanded_url": "https://x.com/RogerDisboard/status/2060597956110418324/photo/1",
+          "media_key": "16_2060597873147035648",
+          "start": 20,
+          "url": "https://t.co/A6h5YSb5Hn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060597956110418324",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060597434179551324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 吾将暴食 https://t.co/A6h5YSb5Hn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2060597873147035648",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJi22R3awAAAuIX.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJi22R3awAAAuIX.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2060597384737071104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi2Z2ZaIAAgWAI.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2060597873147035648"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060597434179551324",
+        "created_at": "2026-05-30T05:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060597956110418324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6h5YSb5Hn",
+              "end": 43,
+              "expanded_url": "https://x.com/RogerDisboard/status/2060597956110418324/photo/1",
+              "media_key": "16_2060597873147035648",
+              "start": 20,
+              "url": "https://t.co/A6h5YSb5Hn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060597956110418324",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060597434179551324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 吾将暴食 https://t.co/A6h5YSb5Hn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060597384737071104"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060597434179551324",
+        "created_at": "2026-05-30T05:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060597434179551324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6oa5jb1v4",
+              "end": 29,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2060597434179551324/photo/1",
+              "media_key": "3_2060597384737071104",
+              "start": 6,
+              "url": "https://t.co/z6oa5jb1v4"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2060596395321766354",
+              "start": 30,
+              "url": "https://t.co/SbP1cmSWLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060597434179551324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060596395321766354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一起麦当劳 https://t.co/z6oa5jb1v4 https://t.co/SbP1cmSWLd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 967,
+          "like_count": 7174,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1667
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11564,
+          "following_count": 4324,
+          "like_count": 47106,
+          "listed_count": 39,
+          "media_count": 2485,
+          "tweet_count": 14850
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

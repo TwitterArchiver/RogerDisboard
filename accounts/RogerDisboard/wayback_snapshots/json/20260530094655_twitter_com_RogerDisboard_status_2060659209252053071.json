@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060657032555065597",
+    "created_at": "2026-05-30T09:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060659209252053071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060659209252053071",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060657032555065597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 抱抱你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060657032555065597",
+        "created_at": "2026-05-30T09:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060659209252053071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060659209252053071",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060657032555065597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 抱抱你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2060657032555065597",
+        "created_at": "2026-05-30T09:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060657032555065597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4rulq/status/2…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/4rulq/status/2060572900898623555",
+              "start": 34,
+              "url": "https://t.co/PZteoL9Pun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060657032555065597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060572900898623555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "別人發想亖都有很多跨友來關心為什麼貓貓的沒有喵⋯更想亖掉了呢喵⋯😭 https://t.co/PZteoL9Pun"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 975,
+          "like_count": 7234,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1693
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "ここがいいちゃんだよ\n私は🍥MTF🏳️‍⚧️ですね（7日間食べたことがあるにゃん）\nたくさんいいちゃんのこと、よろしくね～\n公式：@mapo_q\n電子製品の修理⌚️🖥️⌨️📱📲💻🛠️\nプロの楽奏者🎹🎷🥁🎸🪉🎺\n音楽作曲🎛️🎚️\n大好きな彼氏@TouhouSeigen_、@Dong42620",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "mapo_q"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "TouhouSeigen_"
+              },
+              {
+                "end": 145,
+                "start": 135,
+                "username": "Dong42620"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "name": "いいちゃん/貓貓🍥🏳️‍⚧️（皆さん重度依賴）",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 685,
+          "like_count": 2660,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 2644
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

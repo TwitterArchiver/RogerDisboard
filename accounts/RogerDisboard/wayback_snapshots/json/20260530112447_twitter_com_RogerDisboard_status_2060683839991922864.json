@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060683839991922864",
+    "created_at": "2026-05-30T11:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060683839991922864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2060632417153503234",
+          "start": 3,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060683839991922864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060643875161530866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsahinaShikure: 大号年龄被锁了😭彻底没有办法了😭\n只能搞个新号用了，麻烦大家重新follow了😭\n这个号以后应该都会用简体发推，就算是彻底加入中推圈了吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060683839991922864",
+        "created_at": "2026-05-30T11:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060683839991922864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2060632417153503234",
+              "start": 3,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060683839991922864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060643875161530866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsahinaShikure: 大号年龄被锁了😭彻底没有办法了😭\n只能搞个新号用了，麻烦大家重新follow了😭\n这个号以后应该都会用简体发推，就算是彻底加入中推圈了吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060632417153503234",
+        "conversation_id": "2060643875161530866",
+        "created_at": "2026-05-30T08:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060643875161530866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060643875161530866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大号年龄被锁了😭彻底没有办法了😭\n只能搞个新号用了，麻烦大家重新follow了😭\n这个号以后应该都会用简体发推，就算是彻底加入中推圈了吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 975,
+          "like_count": 7255,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1699
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "新加坡🇸🇬中三学生/14岁/MtF🏳️‍⚧️/尚未HRT/世界计划/mfy激推/不od/可键政/社会自由主义/新号寻fo中/🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷均可/格里芬联邦共和国总统/政府官网https://t.co/o8LDTBhpgz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 113,
+                "expanded_url": "http://gov-urg.net",
+                "start": 90,
+                "url": "https://t.co/o8LDTBhpgz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/RUiH6Cf04O"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "location": "中区 新加坡🇸🇬",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2060643875161530866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 74,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/RUiH6Cf04O",
+        "username": "AsahinaShikure",
+        "verified": false
+      }
+    ]
+  }
+}

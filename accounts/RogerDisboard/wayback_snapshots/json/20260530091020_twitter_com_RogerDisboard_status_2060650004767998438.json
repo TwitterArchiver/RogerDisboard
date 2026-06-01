@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060647410800447526",
+    "created_at": "2026-05-30T09:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060650004767998438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1870336533342932992",
+          "start": 0,
+          "username": "Asahina_Shikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060650004767998438",
+    "in_reply_to_user_id": "1870336533342932992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060647410800447526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asahina_Shikure 点开会回到现在的号【疑惑】"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060647410800447526",
+        "created_at": "2026-05-30T09:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060650004767998438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870336533342932992",
+              "start": 0,
+              "username": "Asahina_Shikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060650004767998438",
+        "in_reply_to_user_id": "1870336533342932992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060647410800447526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asahina_Shikure 点开会回到现在的号【疑惑】"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870336533342932992",
+        "conversation_id": "2060647410800447526",
+        "created_at": "2026-05-30T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060647410800447526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "新国🇸🇬中三学生/14岁/MtF🏳️‍⚧️/世界计划/新号寻fo中",
+              "display_url": "x.com/asahinashikure…",
+              "end": 50,
+              "expanded_url": "https://x.com/asahinashikure?s=21",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2060647412453056514/vZjf5BVh?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060647412453056514/vZjf5BVh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️ (@AsahinaShikure) on X",
+              "unwound_url": "https://x.com/asahinashikure?s=21",
+              "url": "https://t.co/E3X4nUjevj"
+            },
+            {
+              "display_url": "x.com/asahina_shikur…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/asahina_shikure/status/2060643631103447224",
+              "start": 51,
+              "url": "https://t.co/ua3CpLSEe8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060647410800447526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060643631103447224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果点不开的话可能是用户名更新不及时，用下这个链接：\nhttps://t.co/E3X4nUjevj https://t.co/ua3CpLSEe8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 972,
+          "like_count": 7228,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1688
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "新号@AsahinaShikure /Singaporean🇸🇬/Junior High Sec 3 student/Age 14/MtF🏳️‍⚧️/Radical transgenderism/Project Sekai/Langs:🇺🇸🇹🇼🇯🇵🇫🇷/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "AsahinaShikure"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "Asahina Shikure 朝比奈丶志暮🏳️‍⚧️",
+        "pinned_tweet_id": "2060643631103447224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057840599999639552/7hAGSJcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 697,
+          "like_count": 3038,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "Asahina_Shikure",
+        "verified": false
+      }
+    ]
+  }
+}

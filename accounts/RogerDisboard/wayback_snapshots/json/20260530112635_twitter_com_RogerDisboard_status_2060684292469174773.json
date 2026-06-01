@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2060684292469174773",
+    "created_at": "2026-05-30T11:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060684292469174773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asahinashikure…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/asahinashikure/status/2060680998593999228",
+          "start": 88,
+          "url": "https://t.co/B1lzMtJn9B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060684292469174773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060680998593999228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🟩支持同性婚姻\n🟥毒品除罪化\n🟩堕胎合法化\n🟩承认跨性别\n🟩同意第三种性别的存在\n🟩废除死刑\n🟨世俗主义\n🟨女性主义\n🟩反对体罚小孩\n🟩允许多边恋\n\n🟥不同意\n🟨中立\n🟩同意 https://t.co/B1lzMtJn9B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2060684292469174773",
+        "created_at": "2026-05-30T11:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060684292469174773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asahinashikure…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/asahinashikure/status/2060680998593999228",
+              "start": 88,
+              "url": "https://t.co/B1lzMtJn9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060684292469174773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060680998593999228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🟩支持同性婚姻\n🟥毒品除罪化\n🟩堕胎合法化\n🟩承认跨性别\n🟩同意第三种性别的存在\n🟩废除死刑\n🟨世俗主义\n🟨女性主义\n🟩反对体罚小孩\n🟩允许多边恋\n\n🟥不同意\n🟨中立\n🟩同意 https://t.co/B1lzMtJn9B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060632417153503234",
+        "conversation_id": "2060680998593999228",
+        "created_at": "2026-05-30T11:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060680998593999228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wellingtonpixe…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/wellingtonpixel/status/2060655416090968322",
+              "start": 88,
+              "url": "https://t.co/TWhFMS5d6M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060680998593999228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060655416090968322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🟩支持同性婚姻\n🟩毒品除罪化\n🟩堕胎合法化\n🟩承认跨性别\n🟩同意第三种性别的存在\n🟩废除死刑\n🟩世俗主义\n🟨女性主义\n🟩反对体罚小孩\n🟩允许多边恋\n\n🟥不同意\n🟨中立\n🟩同意 https://t.co/TWhFMS5d6M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2059671761973842241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 975,
+          "like_count": 7255,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1700
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "新加坡🇸🇬中三学生/14岁/MtF🏳️‍⚧️/尚未HRT/世界计划/mfy激推/不od/可键政/社会自由主义/新号寻fo中/🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷均可/格里芬联邦共和国总统/政府官网https://t.co/o8LDTBhpgz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 113,
+                "expanded_url": "http://gov-urg.net",
+                "start": 90,
+                "url": "https://t.co/o8LDTBhpgz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/RUiH6Cf04O"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "location": "中区 新加坡🇸🇬",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2060643875161530866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 77,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "https://t.co/RUiH6Cf04O",
+        "username": "AsahinaShikure",
+        "verified": false
+      }
+    ]
+  }
+}
