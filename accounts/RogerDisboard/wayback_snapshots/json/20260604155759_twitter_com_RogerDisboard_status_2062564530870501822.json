@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062563450145190036",
+    "created_at": "2026-06-04T15:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062564530870501822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062564530870501822",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062563450145190036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan （笑）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2062563381907996672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-yd8lawAAlw6p.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062563450145190036",
+        "created_at": "2026-06-04T15:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062564530870501822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062564530870501822",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062563450145190036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan （笑）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062563381907996672"
+          ]
+        },
+        "author_id": "1748064252521545731",
+        "conversation_id": "2062563450145190036",
+        "created_at": "2026-06-04T15:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062563450145190036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmccrAJBgG",
+              "end": 36,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2062563450145190036/photo/1",
+              "media_key": "3_2062563381907996672",
+              "start": 13,
+              "url": "https://t.co/wmccrAJBgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062563450145190036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嘴上说丑\n身体很诚实说是 https://t.co/wmccrAJBgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 1029,
+          "like_count": 7835,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1888
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "✂……………………………………………………",
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2062549162135363924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 488,
+          "like_count": 3430,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 3579
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

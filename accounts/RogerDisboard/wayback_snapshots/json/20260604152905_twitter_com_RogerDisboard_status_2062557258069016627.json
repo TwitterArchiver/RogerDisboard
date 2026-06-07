@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062545868394496362",
+    "created_at": "2026-06-04T15:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062557258069016627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042786439738327042",
+          "start": 0,
+          "username": "tiancun520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062557258069016627",
+    "in_reply_to_user_id": "2042786439738327042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062545868394496362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiancun520 我的天啊\n边狱巴士最高的山，最长的河\n不可超越的伞夫大人\n哈加！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062545843056750592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ihDRbMAAt8M0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062545868394496362",
+        "created_at": "2026-06-04T15:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062557258069016627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042786439738327042",
+              "start": 0,
+              "username": "tiancun520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062557258069016627",
+        "in_reply_to_user_id": "2042786439738327042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062545868394496362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancun520 我的天啊\n边狱巴士最高的山，最长的河\n不可超越的伞夫大人\n哈加！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062545843056750592"
+          ]
+        },
+        "author_id": "2042786439738327042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062545868394496362",
+        "created_at": "2026-06-04T14:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062545868394496362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YnVx5kdP3",
+              "end": 28,
+              "expanded_url": "https://x.com/tiancun520/status/2062545868394496362/photo/1",
+              "media_key": "3_2062545843056750592",
+              "start": 5,
+              "url": "https://t.co/7YnVx5kdP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062545868394496362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/7YnVx5kdP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 1027,
+          "like_count": 7811,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1886
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T02:07:11.000Z",
+        "description": "2007－11－13",
+        "id": "2042786439738327042",
+        "location": "南京",
+        "name": "田村",
+        "pinned_tweet_id": "2053374065667383446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053374536255762433/0zNnoUBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 537,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 443
+        },
+        "username": "tiancun520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062815548476703004",
+    "created_at": "2026-06-05T10:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062846119336653006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759598042704207872",
+          "start": 0,
+          "username": "Oyama_Tsuimei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062846119336653006",
+    "in_reply_to_user_id": "1759598042704207872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062815548476703004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Oyama_Tsuimei tyw是个自私自利的SB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062815548476703004",
+        "created_at": "2026-06-05T10:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062846119336653006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759598042704207872",
+              "start": 0,
+              "username": "Oyama_Tsuimei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062846119336653006",
+        "in_reply_to_user_id": "1759598042704207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062815548476703004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Oyama_Tsuimei tyw是个自私自利的SB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759598042704207872",
+        "conversation_id": "2062815548476703004",
+        "created_at": "2026-06-05T08:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062815548476703004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2062453803253989773",
+              "start": 27,
+              "url": "https://t.co/44p8W3iwxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062815548476703004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062453803253989773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "所以我说王烟洛就是cjb白银巨婴炒作狗\n有人有意见么 https://t.co/44p8W3iwxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 1034,
+          "like_count": 7884,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1902
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "有象斯有对 对必反其为 有反斯有仇 仇必和而解\n也许不是人类\n没有米线，不吃压力\n可以叫我坠明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsu1me1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsu1me1",
+                "start": 0,
+                "url": "https://t.co/AghfCSrRUi"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "location": "恐虐的黄铜王座上",
+        "name": "Tsu1me1,the Leviathan",
+        "pinned_tweet_id": "2037089987309818231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060998769022582784/d9D3naC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 1291,
+          "like_count": 1140,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 3979
+        },
+        "url": "https://t.co/AghfCSrRUi",
+        "username": "Oyama_Tsuimei",
+        "verified": true
+      }
+    ]
+  }
+}

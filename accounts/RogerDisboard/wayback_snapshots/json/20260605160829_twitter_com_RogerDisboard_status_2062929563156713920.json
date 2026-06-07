@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062929563156713920",
+    "created_at": "2026-06-05T16:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062929563156713920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809604484173295620",
+          "start": 3,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062929563156713920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062686427012600171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @for_4ngel: 有些人能不能别为了满足自己的救世主情节去做让他人痛苦的事，自私成啥了😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062929563156713920",
+        "created_at": "2026-06-05T16:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062929563156713920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809604484173295620",
+              "start": 3,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062929563156713920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062686427012600171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @for_4ngel: 有些人能不能别为了满足自己的救世主情节去做让他人痛苦的事，自私成啥了😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062686427012600171",
+        "created_at": "2026-06-05T00:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062686427012600171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2062684793444442162",
+              "start": 36,
+              "url": "https://t.co/IqjB0DMVnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062686427012600171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4736,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062684793444442162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些人能不能别为了满足自己的救世主情节去做让他人痛苦的事，自私成啥了😁 https://t.co/IqjB0DMVnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我会一直憎恶下去/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062926442569359581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 1048,
+          "like_count": 7997,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 1948
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 491,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 558
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

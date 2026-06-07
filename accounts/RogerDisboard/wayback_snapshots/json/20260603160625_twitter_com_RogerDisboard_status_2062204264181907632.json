@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062203583953817854",
+    "created_at": "2026-06-03T16:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062204264181907632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727277830025973760",
+          "start": 0,
+          "username": "yuriano3479"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062204264181907632",
+    "in_reply_to_user_id": "1727277830025973760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062203583953817854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuriano3479 生日快乐喵～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062203525455831040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5rLi1aYAAvj_8.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062203583953817854",
+        "created_at": "2026-06-03T16:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062204264181907632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727277830025973760",
+              "start": 0,
+              "username": "yuriano3479"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062204264181907632",
+        "in_reply_to_user_id": "1727277830025973760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062203583953817854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuriano3479 生日快乐喵～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062203525455831040"
+          ]
+        },
+        "author_id": "1727277830025973760",
+        "conversation_id": "2062203583953817854",
+        "created_at": "2026-06-03T16:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062203583953817854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ayGeuW0aW",
+              "end": 36,
+              "expanded_url": "https://x.com/yuriano3479/status/2062203583953817854/photo/1",
+              "media_key": "3_2062203525455831040",
+              "start": 13,
+              "url": "https://t.co/4ayGeuW0aW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062203583953817854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日快乐 yuriちゃん https://t.co/4ayGeuW0aW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1006,
+          "like_count": 7732,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1867
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "我是优理。我喜欢猫和烟 喜欢我就请关注吧^什么都发｜中文/日本語/Eng｜不回复dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "location": "天国",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2061472896267300951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 374,
+          "like_count": 5554,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

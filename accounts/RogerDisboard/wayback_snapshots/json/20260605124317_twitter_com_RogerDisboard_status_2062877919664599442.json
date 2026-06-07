@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062877518471082040",
+    "created_at": "2026-06-05T12:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062877919664599442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062877919664599442",
+    "in_reply_to_user_id": "1946593949180993536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062877518471082040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？！\n我干脆卖号跑路的了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2062877515589496832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDQK7vaMAAGd2o.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062877518471082040",
+        "created_at": "2026-06-05T12:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062877919664599442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062877919664599442",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062877518471082040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？！\n我干脆卖号跑路的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062877515589496832"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062877518471082040",
+        "created_at": "2026-06-05T12:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062877518471082040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infinitetweet.me/account-worth?…",
+              "end": 46,
+              "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2062166829720903681/QyEwx27x?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062166829720903681/QyEwx27x?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "url": "https://t.co/mqXf23JShk"
+            },
+            {
+              "display_url": "pic.x.com/sVcAQ9gA5Z",
+              "end": 70,
+              "expanded_url": "https://x.com/RogerDisboard/status/2062877518471082040/photo/1",
+              "media_key": "3_2062877515589496832",
+              "start": 47,
+              "url": "https://t.co/sVcAQ9gA5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062877518471082040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特价值是: ¥3,651.80\n\n➡️ https://t.co/mqXf23JShk https://t.co/sVcAQ9gA5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将会继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 1042,
+          "like_count": 7910,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 1918
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2061474213312274681",
+    "created_at": "2026-06-02T14:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061819042323992636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1257822205905219584",
+          "start": 0,
+          "username": "dzcwys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061819042323992636",
+    "in_reply_to_user_id": "1257822205905219584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061676387149488385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzcwys 就是的，明明我没有公务员的想法什么的还逼我搞\n我们班有一个希特勒狂热爱好者兼种族主义者甚至都在团里\n感觉就是纯形式主义\n贻笑大方来的\n\n好在我爸支持我不入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2061474213312274681",
+        "created_at": "2026-06-02T14:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061819042323992636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1257822205905219584",
+              "start": 0,
+              "username": "dzcwys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061819042323992636",
+        "in_reply_to_user_id": "1257822205905219584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061676387149488385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzcwys 就是的，明明我没有公务员的想法什么的还逼我搞\n我们班有一个希特勒狂热爱好者兼种族主义者甚至都在团里\n感觉就是纯形式主义\n贻笑大方来的\n\n好在我爸支持我不入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257822205905219584",
+        "conversation_id": "2061474213312274681",
+        "created_at": "2026-06-02T05:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061676387149488385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            },
+            {
+              "end": 26,
+              "id": "1946593949180993536",
+              "start": 12,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061676387149488385",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061600820026859984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 @RogerDisboard 直接别入，上学的时候入团入党纯是在搞笑，嘴上说着什么工作的时候有必要，结果是在逗人玩。真的有觉悟的时候不让入，根本不想入的时候在哪里哔哔赖赖的，全是神人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2061093771270643882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 999,
+          "like_count": 7555,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1812
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T23:59:22.000Z",
+        "description": "爱读轻小说，喜欢可爱的事物，是🍥xyn～，世界的观察者🍥（hrt→2023/02/03）",
+        "id": "1257822205905219584",
+        "location": "梦幻中的伊甸园",
+        "name": "樱下 琉璃🏳️‍⚧️",
+        "pinned_tweet_id": "1610804435109974017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002104162159636483/8n4PwQqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 619,
+          "like_count": 4207,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 1394
+        },
+        "username": "dzcwys",
+        "verified": false
+      }
+    ]
+  }
+}

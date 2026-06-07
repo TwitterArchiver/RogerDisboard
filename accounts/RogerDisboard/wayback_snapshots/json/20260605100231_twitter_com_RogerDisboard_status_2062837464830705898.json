@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062566520669286632",
+    "created_at": "2026-06-05T10:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062837464830705898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062837464830705898",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062732112747474965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 抱抱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062566520669286632",
+        "created_at": "2026-06-05T10:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062837464830705898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660586167807664129",
+              "start": 0,
+              "username": "ttttk567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062837464830705898",
+        "in_reply_to_user_id": "1660586167807664129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062732112747474965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttk567 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660586167807664129",
+        "conversation_id": "2062566520669286632",
+        "created_at": "2026-06-05T03:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062732112747474965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062732112747474965",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062566520669286632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 加油哦，抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 1034,
+          "like_count": 7862,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1896
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / AuDHD ？ 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客https://t.co/e90qOe4ADO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 90,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 67,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "nowhere",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978063307694329856/viV6SIGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 928,
+          "like_count": 2104,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 754
+        },
+        "username": "ttttk567",
+        "verified": true
+      }
+    ]
+  }
+}

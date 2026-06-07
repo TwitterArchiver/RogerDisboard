@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062897198703259648"
+      ],
+      "media_source_tweet_id": [
+        "2062897238658158618"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062899901240135814",
+    "created_at": "2026-06-05T14:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062899901240135814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1748064252521545731",
+          "start": 3,
+          "username": "mihuanhuanhuan"
+        },
+        {
+          "end": 36,
+          "id": "2007397795532333056",
+          "start": 20,
+          "username": "shaoxiancao1314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zv9B2Zaklj",
+          "end": 66,
+          "expanded_url": "https://x.com/mihuanhuanhuan/status/2062897238658158618/photo/1",
+          "media_key": "3_2062897198703259648",
+          "start": 43,
+          "url": "https://t.co/zv9B2Zaklj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062899901240135814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062897238658158618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mihuanhuanhuan: @shaoxiancao1314 \n快点救人 https://t.co/zv9B2Zaklj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062897198703259648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDiEpDbMAA9Yji.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062897198703259648"
+          ],
+          "media_source_tweet_id": [
+            "2062897238658158618"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062899901240135814",
+        "created_at": "2026-06-05T14:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062899901240135814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1748064252521545731",
+              "start": 3,
+              "username": "mihuanhuanhuan"
+            },
+            {
+              "end": 36,
+              "id": "2007397795532333056",
+              "start": 20,
+              "username": "shaoxiancao1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zv9B2Zaklj",
+              "end": 66,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2062897238658158618/photo/1",
+              "media_key": "3_2062897198703259648",
+              "start": 43,
+              "url": "https://t.co/zv9B2Zaklj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062899901240135814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062897238658158618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mihuanhuanhuan: @shaoxiancao1314 \n快点救人 https://t.co/zv9B2Zaklj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062897198703259648"
+          ]
+        },
+        "author_id": "1748064252521545731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062897238658158618",
+        "created_at": "2026-06-05T14:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062897238658158618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007397795532333056",
+              "start": 0,
+              "username": "shaoxiancao1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zv9B2Zaklj",
+              "end": 46,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2062897238658158618/photo/1",
+              "media_key": "3_2062897198703259648",
+              "start": 23,
+              "url": "https://t.co/zv9B2Zaklj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062897238658158618",
+        "in_reply_to_user_id": "2007397795532333056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao1314 \n快点救人 https://t.co/zv9B2Zaklj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将会继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1043,
+          "like_count": 7934,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 1924
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "杭州无业游民，大龄肥猪mtx，懂点心理学，经济和美学，偶尔会画画，如果能帮到你很荣幸\n鱼鱼妹妹：@siuuuuneo\n\n如果你有自杀倾向请远离我谢谢，我不想承受",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "siuuuuneo"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2062549162135363924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 496,
+          "like_count": 3420,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 3668
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "低价🍥客服\n https://t.co/PBMuiF9RT5\ntg公告通知频道https://t.co/JRh1GMpZFp\ntg售后聊天群https://t.co/bCgbn8KY2x\n蓝V互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qianxian1314520",
+                "end": 30,
+                "expanded_url": "http://t.me/qianxian1314520",
+                "start": 7,
+                "url": "https://t.co/PBMuiF9RT5"
+              },
+              {
+                "display_url": "t.me/tangyuwendetan…",
+                "end": 62,
+                "expanded_url": "http://t.me/tangyuwendetang520",
+                "start": 39,
+                "url": "https://t.co/JRh1GMpZFp"
+              },
+              {
+                "display_url": "t.me/+EVeqakNumwY5O…",
+                "end": 93,
+                "expanded_url": "https://t.me/+EVeqakNumwY5OTNh",
+                "start": 70,
+                "url": "https://t.co/bCgbn8KY2x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesmtf.com",
+                "end": 23,
+                "expanded_url": "http://yesmtf.com",
+                "start": 0,
+                "url": "https://t.co/Z6vEIn46JX"
+              }
+            ]
+          }
+        },
+        "id": "2007397795532333056",
+        "name": "烧仙草🍥🏳️‍⚧️（糖🍥商）",
+        "pinned_tweet_id": "2021027137004896416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029278451736485888/iKkTT_aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 463,
+          "like_count": 6265,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/Z6vEIn46JX",
+        "username": "shaoxiancao1314",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062746235879006534",
+    "created_at": "2026-06-05T10:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062840693136175554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641796973077618688",
+          "start": 0,
+          "username": "Madarame_NZM"
+        },
+        {
+          "end": 22,
+          "id": "1962302660541079552",
+          "start": 14,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062840693136175554",
+    "in_reply_to_user_id": "1641796973077618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062832021597208695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Madarame_NZM @yuerQwQ 哇还有泰君"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062746235879006534",
+        "created_at": "2026-06-05T10:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062840693136175554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641796973077618688",
+              "start": 0,
+              "username": "Madarame_NZM"
+            },
+            {
+              "end": 22,
+              "id": "1962302660541079552",
+              "start": 14,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062840693136175554",
+        "in_reply_to_user_id": "1641796973077618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062832021597208695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Madarame_NZM @yuerQwQ 哇还有泰君"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641796973077618688",
+        "conversation_id": "2062746235879006534",
+        "created_at": "2026-06-05T09:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062832021597208695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062832021597208695",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062746235879006534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ “你感到有个邪恶的东西在看着你……”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 1034,
+          "like_count": 7870,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1899
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T13:38:24.000Z",
+        "description": "日本在住😶｜♂️？｜観察者であり👁‍🗨\nそれぞれの情報を発信💻｜一応クリエイター（創作者）\n#Vtuber #個人勢｜HRT計画中｜TBI+C-PTSD\n投資再検討中😇｜お仕事募集中💲\nゲーム、遊戲｜サプリメント、營養補充品相關🥦\nlanguage：🇭🇰🇨🇳🇹🇼🇯🇵🇬🇧🇺🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "Vtuber"
+              },
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "個人勢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-nzm",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@user-nzm",
+                "start": 0,
+                "url": "https://t.co/48vTFODmRs"
+              }
+            ]
+          }
+        },
+        "id": "1641796973077618688",
+        "location": "日本",
+        "name": "班目望 (Madarame Nozomi)",
+        "pinned_tweet_id": "2031611137654141054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641797093739364353/l-9WCqgl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1011,
+          "like_count": 16983,
+          "listed_count": 3,
+          "media_count": 1141,
+          "tweet_count": 6941
+        },
+        "url": "https://t.co/48vTFODmRs",
+        "username": "Madarame_NZM",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062829521649496428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 1051,
+          "like_count": 11747,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 2400
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

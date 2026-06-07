@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2061845604561739946",
+    "created_at": "2026-06-02T16:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061845604561739946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827985418438279168",
+          "start": 3,
+          "username": "kawa_chise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061845604561739946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061841000658764200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawa_chise: 互fo都来转发一下QWQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2061845604561739946",
+        "created_at": "2026-06-02T16:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061845604561739946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827985418438279168",
+              "start": 3,
+              "username": "kawa_chise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061845604561739946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061841000658764200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawa_chise: 互fo都来转发一下QWQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827985418438279168",
+        "conversation_id": "2061841000658764200",
+        "created_at": "2026-06-02T16:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061841000658764200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawa_chise/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/kawa_chise/status/2061839152161968211",
+              "start": 13,
+              "url": "https://t.co/iZnu5D7ady"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061841000658764200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061839152161968211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互fo都来转发一下QWQ https://t.co/iZnu5D7ady"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2061093771270643882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 999,
+          "like_count": 7601,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1824
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T08:24:30.000Z",
+        "description": "@Chise_awa 的里推~~~\n虽然很少用这个号（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Chise_awa"
+              }
+            ]
+          }
+        },
+        "id": "1827985418438279168",
+        "name": "千千千千千千世~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979791980801519616/po1szga9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 100,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "username": "kawa_chise",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2061835676417757285",
+    "created_at": "2026-06-02T16:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061849388536979655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061849388536979655",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061835676417757285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ 好诶😺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 488,
+        "media_key": "3_2061835668431802369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0cncobkAEJBMG.jpg",
+        "width": 1357
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2061835676417757285",
+        "created_at": "2026-06-02T16:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061849388536979655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061849388536979655",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061835676417757285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 好诶😺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061835668431802369"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2061835676417757285",
+        "created_at": "2026-06-02T15:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061835676417757285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CvyqSpWGSF",
+              "end": 97,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2061835676417757285/photo/1",
+              "media_key": "3_2061835668431802369",
+              "start": 74,
+              "url": "https://t.co/CvyqSpWGSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061835676417757285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 267,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖预热！！！\n\n推特达到3333fo后将会推出\n\n小红包or愈美片！\n\nAureliax17 &amp; 唐毓文 唐毓文亲笔签名纹身贴☝️🤓❗️ https://t.co/CvyqSpWGSF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2061093771270643882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 999,
+          "like_count": 7615,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1829
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 621,
+          "like_count": 6724,
+          "listed_count": 6,
+          "media_count": 527,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

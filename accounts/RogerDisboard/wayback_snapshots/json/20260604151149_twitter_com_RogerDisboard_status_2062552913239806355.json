@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062549005356405199",
+    "created_at": "2026-06-04T15:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062552913239806355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360161759257104384",
+          "start": 0,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062552913239806355",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062549005356405199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AspiLin0 😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062549005356405199",
+        "created_at": "2026-06-04T15:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062552913239806355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062552913239806355",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062549005356405199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2062549005356405199",
+        "created_at": "2026-06-04T14:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062549005356405199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062549005356405199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是否认同病人需要帮助?\n是\n你是认同精神病患者是病人?\n是\n你是否认同精神病患者需要帮助?\n否\n((("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 1026,
+          "like_count": 7803,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1881
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只北极狐/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多/MtX🏳️‍⚧️/是@ntfuko的小狐狸💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 80,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 752,
+          "like_count": 20974,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 4939
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

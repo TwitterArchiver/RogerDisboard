@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062840261617848534",
+    "created_at": "2026-06-05T10:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062847017274269812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008812080099672064",
+          "start": 0,
+          "username": "Xiaoyi_0324"
+        },
+        {
+          "end": 20,
+          "id": "1959893383633358848",
+          "start": 13,
+          "username": "Cbscfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062847017274269812",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062846216002756955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyi_0324 @Cbscfe 我觉得不经他人同意就注销他人账号是很可耻的\n明明有更好的解决方案却不愿意思考\n也不考虑后续的影响\n只知道自己秉持自己的逻辑和正义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062840261617848534",
+        "created_at": "2026-06-05T10:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062847017274269812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 20,
+              "id": "1959893383633358848",
+              "start": 13,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062847017274269812",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062846216002756955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 @Cbscfe 我觉得不经他人同意就注销他人账号是很可耻的\n明明有更好的解决方案却不愿意思考\n也不考虑后续的影响\n只知道自己秉持自己的逻辑和正义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2062840261617848534",
+        "created_at": "2026-06-05T10:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062846216002756955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 22,
+              "id": "1959893383633358848",
+              "start": 15,
+              "username": "Cbscfe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20627…",
+              "end": 79,
+              "expanded_url": "https://x.com/i/status/2062704425001701833",
+              "start": 56,
+              "url": "https://t.co/nkVfDDv01o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062846216002756955",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062704425001701833",
+            "type": "quoted"
+          },
+          {
+            "id": "2062840261617848534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard @Cbscfe 注销账号也是有原因的 虽然我不知道为什么不申请停用创作者收益……\nhttps://t.co/nkVfDDv01o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 1034,
+          "like_count": 7885,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1903
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|碎碎念移步@NiaoYou83766|部分简介在:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 321,
+          "like_count": 1570,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 679,
+          "like_count": 24276,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 5923
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

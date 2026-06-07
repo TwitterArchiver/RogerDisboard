@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2062542799854043602",
+    "created_at": "2026-06-04T15:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062551776839241807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062551776839241807",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062551621150666839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 www好可爱咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_2062551617686102016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-nxLcWYAA0rp6.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062542799854043602",
+        "created_at": "2026-06-04T15:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062551776839241807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062551776839241807",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062551621150666839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 www好可爱咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062551617686102016"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2062542799854043602",
+        "created_at": "2026-06-04T15:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062551621150666839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AucjJKVqDi",
+              "end": 44,
+              "expanded_url": "https://x.com/xian_zi17640/status/2062551621150666839/photo/1",
+              "media_key": "3_2062551617686102016",
+              "start": 21,
+              "url": "https://t.co/AucjJKVqDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062551621150666839",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062551334763790369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 不行不能喵 https://t.co/AucjJKVqDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 1025,
+          "like_count": 7801,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1878
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "不知道写什么挂个链接喵\nhttps://t.co/Qntfz9TedO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 35,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 12,
+                "url": "https://t.co/Qntfz9TedO"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ",
+        "pinned_tweet_id": "2061293941786325423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 386,
+          "like_count": 2392,
+          "listed_count": 0,
+          "media_count": 677,
+          "tweet_count": 2339
+        },
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}
