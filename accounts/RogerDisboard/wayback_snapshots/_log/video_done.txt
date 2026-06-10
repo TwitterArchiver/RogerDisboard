@@ -96,3 +96,6 @@ https://video.twimg.com/ext_tw_video/2050135017049985024/pu/vid/avc1/720x1280/aC
 https://video.twimg.com/tweet_video/HJi22R3awAAAuIX.mp4
 https://video.twimg.com/tweet_video/HJimMLsbEAABkdK.mp4
 https://video.twimg.com/tweet_video/HJ5bnKmbgAA3vYo.mp4
+https://video.twimg.com/tweet_video/HKOjeFUboAAvTfv.mp4
+https://video.twimg.com/tweet_video/HKOJG6KbUAAxbTf.mp4
+https://video.twimg.com/tweet_video/HKOYd4ra0AAl6H0.mp4
