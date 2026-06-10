@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2063997183872172323",
+    "created_at": "2026-06-08T14:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063997183872172323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luo_240110/sta…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/luo_240110/status/2063955640536719791",
+          "start": 95,
+          "url": "https://t.co/ufxOAlXjcL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063997183872172323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063955640536719791",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我各个学科水平：\n语文：你好，再见\n数学：大概到积分变换左右\n英语：学过一点点托福\n物理：学过物竞（放弃了）\n化学：高中水平\n地理：地理竞赛省一\n政治：【CENSORED】\n生物：高中水平 https://t.co/ufxOAlXjcL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2063997183872172323",
+        "created_at": "2026-06-08T14:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063997183872172323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luo_240110/sta…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/luo_240110/status/2063955640536719791",
+              "start": 95,
+              "url": "https://t.co/ufxOAlXjcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063997183872172323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063955640536719791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：你好，再见\n数学：大概到积分变换左右\n英语：学过一点点托福\n物理：学过物竞（放弃了）\n化学：高中水平\n地理：地理竞赛省一\n政治：【CENSORED】\n生物：高中水平 https://t.co/ufxOAlXjcL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010816143846768640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2063955640536719791",
+        "created_at": "2026-06-08T12:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063955640536719791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/smiroyama/status/2063922049496850590",
+              "start": 65,
+              "url": "https://t.co/ANqPndkl12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063955640536719791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 449,
+          "like_count": 11,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063922049496850590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：你好\n数学：1+1=2\n英语：Hi\n物理：忘光了\n化学：忘光了\n地理：忘光了\n政治：不敢说\n生物：忘光了 https://t.co/ANqPndkl12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我会一直憎恶下去/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2063451049537773665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 1085,
+          "like_count": 8412,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 2112
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T20:48:47.000Z",
+        "description": "話したくない｜Ciallo～(∠・ω ≤ )︵★四代目\n一代目@YunoQiu56649｜二代目@Ciallo_114_514｜三代目@qi_bu64350",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "qi_bu64350"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wrin520t",
+                "end": 23,
+                "expanded_url": "http://t.me/Wrin520t",
+                "start": 0,
+                "url": "https://t.co/qKIDVMQsor"
+              }
+            ]
+          }
+        },
+        "id": "2010816143846768640",
+        "location": "地球",
+        "name": "Ciallo🍥",
+        "pinned_tweet_id": "2058950293937958932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058074498285617152/2kdhJxKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 247,
+          "like_count": 416,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/qKIDVMQsor",
+        "username": "luo_240110",
+        "verified": false
+      }
+    ]
+  }
+}

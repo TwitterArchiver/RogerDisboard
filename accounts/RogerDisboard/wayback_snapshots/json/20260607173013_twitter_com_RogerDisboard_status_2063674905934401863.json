@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2063670159907377420",
+    "created_at": "2026-06-07T17:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063674905934401863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1655982200205238273",
+          "start": 0,
+          "username": "hn6873175266975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063674905934401863",
+    "in_reply_to_user_id": "1655982200205238273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063670159907377420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hn6873175266975 好诶喵\n我来喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2063668927415386112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOf9KibAAAJ-Q-.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2063670159907377420",
+        "created_at": "2026-06-07T17:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063674905934401863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1655982200205238273",
+              "start": 0,
+              "username": "hn6873175266975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063674905934401863",
+        "in_reply_to_user_id": "1655982200205238273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063670159907377420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hn6873175266975 好诶喵\n我来喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063668927415386112"
+          ]
+        },
+        "author_id": "1655982200205238273",
+        "conversation_id": "2063670159907377420",
+        "created_at": "2026-06-07T17:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063670159907377420"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "断箭"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "药娘"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H5R8szEbzW",
+              "end": 54,
+              "expanded_url": "https://x.com/hn6873175266975/status/2063670159907377420/photo/1",
+              "media_key": "3_2063668927415386112",
+              "start": 31,
+              "url": "https://t.co/H5R8szEbzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063670159907377420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要和咱一起打炮吗？当,当然是说断箭啦\n#断箭 #药娘 #黑丝 https://t.co/H5R8szEbzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我会一直憎恶下去/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2063451049537773665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 1083,
+          "like_count": 8341,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 2097
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T17:05:10.000Z",
+        "description": "我讨厌早八\n不鉴证/ 刀剑乱舞 es drb 雀魂麻将 雷 塔科夫等等 缺爱的烂人 对愿意陪我的人非常黏人咕\n喜欢玩游戏 什么游戏都会试一试\nmtf   🏳️‍⚧\n06.04.25 学中医的大龄药娘",
+        "id": "1655982200205238273",
+        "location": "河南",
+        "name": "喻🍥",
+        "pinned_tweet_id": "2060283234899079439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060284889862438912/pEafUT_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 136,
+          "like_count": 6675,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 675
+        },
+        "username": "hn6873175266975",
+        "verified": true
+      }
+    ]
+  }
+}

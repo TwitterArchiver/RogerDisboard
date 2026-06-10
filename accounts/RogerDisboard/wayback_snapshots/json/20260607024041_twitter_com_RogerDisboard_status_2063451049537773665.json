@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063451040981319680"
+      ]
+    },
+    "author_id": "1946593949180993536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063451049537773665",
+    "created_at": "2026-06-07T02:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063451049537773665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lXj25JqufR",
+          "end": 94,
+          "expanded_url": "https://x.com/RogerDisboard/status/2063451049537773665/photo/1",
+          "media_key": "3_2063451040981319680",
+          "start": 71,
+          "url": "https://t.co/lXj25JqufR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063451049537773665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再度声明：\ntyw所做的一切都是他的个人行为，与其他人无关\n章鱼已经和tyw进行切割\n\nRoger个人意见：\ntyw这种畜生不如早点死比较好 https://t.co/lXj25JqufR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1215,
+        "media_key": "3_2063451040981319680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLZygUaAAAcR3j.jpg",
+        "width": 1250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063451040981319680"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063451049537773665",
+        "created_at": "2026-06-07T02:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063451049537773665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXj25JqufR",
+              "end": 94,
+              "expanded_url": "https://x.com/RogerDisboard/status/2063451049537773665/photo/1",
+              "media_key": "3_2063451040981319680",
+              "start": 71,
+              "url": "https://t.co/lXj25JqufR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063451049537773665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再度声明：\ntyw所做的一切都是他的个人行为，与其他人无关\n章鱼已经和tyw进行切割\n\nRoger个人意见：\ntyw这种畜生不如早点死比较好 https://t.co/lXj25JqufR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我会一直憎恶下去/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2063192451008077884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 1075,
+          "like_count": 8201,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 2030
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}
