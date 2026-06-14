@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2064359950374338836",
+    "created_at": "2026-06-09T15:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064367634540625988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688792465292374016",
+          "start": 0,
+          "username": "unitedly_37400"
+        },
+        {
+          "end": 28,
+          "id": "2059475041126055936",
+          "start": 16,
+          "username": "Hshdhhd7ofy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064367634540625988",
+    "in_reply_to_user_id": "1688792465292374016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064367198366523544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unitedly_37400 @Hshdhhd7ofy 没事只是显示问题罢了\n我用小号投过票了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2064359950374338836",
+        "created_at": "2026-06-09T15:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064367634540625988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688792465292374016",
+              "start": 0,
+              "username": "unitedly_37400"
+            },
+            {
+              "end": 28,
+              "id": "2059475041126055936",
+              "start": 16,
+              "username": "Hshdhhd7ofy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064367634540625988",
+        "in_reply_to_user_id": "1688792465292374016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064367198366523544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unitedly_37400 @Hshdhhd7ofy 没事只是显示问题罢了\n我用小号投过票了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688792465292374016",
+        "conversation_id": "2064359950374338836",
+        "created_at": "2026-06-09T15:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064367198366523544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 27,
+              "id": "2059475041126055936",
+              "start": 15,
+              "username": "Hshdhhd7ofy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064367198366523544",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064366070618890750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard @Hshdhhd7ofy 恭喜，目前大约有0个人在意你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我会一直憎恶下去/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2063451049537773665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1092,
+          "like_count": 8573,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 2184
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰but大阪メトロ跟我半毛钱关系没有就是🤡｜（以前的）名字看着像假账号但我懒得改（划掉）终于改名了 ｜🇯🇵 🇺🇦 🏳️‍⚧️👍｜微查成分，不要太极端都会回fo😽😽😽｜小号👉@tsurumi_37400 欢迎关注喵｜@arashi5official｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 108,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "arashi5official"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "United States of Constel ",
+        "name": "中井鶴見)⌒★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 552,
+          "like_count": 77235,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1522
+        },
+        "username": "unitedly_37400",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影王者，想以火影为主，全天在线，网瘾大，互fo聊天",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2061780619114463597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 95,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 265
+        },
+        "username": "Hshdhhd7ofy",
+        "verified": true
+      }
+    ]
+  }
+}
