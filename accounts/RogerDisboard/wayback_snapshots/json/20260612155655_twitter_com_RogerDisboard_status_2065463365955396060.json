@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2065463365955396060",
+    "created_at": "2026-06-12T15:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065463365955396060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2034865150499725313",
+          "start": 3,
+          "username": "Weberkaliro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065463365955396060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065298915143143675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Weberkaliro: 其实情侣舌吻的时候其实是配位键\n缝在一起其实是共价键\n都切一半插在一起是离子键\n抱在一起是原子捕获\n做爱是放热反应\n吵架其实是酸碱中和\n出轨其实是混合物\n分手是分解反应\n换妻是置换反应\nPUA其实是勒夏特列原理\n一夫多妻其实是多侧链大分子\n乱伦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2065463365955396060",
+        "created_at": "2026-06-12T15:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065463365955396060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2034865150499725313",
+              "start": 3,
+              "username": "Weberkaliro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065463365955396060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065298915143143675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Weberkaliro: 其实情侣舌吻的时候其实是配位键\n缝在一起其实是共价键\n都切一半插在一起是离子键\n抱在一起是原子捕获\n做爱是放热反应\n吵架其实是酸碱中和\n出轨其实是混合物\n分手是分解反应\n换妻是置换反应\nPUA其实是勒夏特列原理\n一夫多妻其实是多侧链大分子\n乱伦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034865150499725313",
+        "conversation_id": "2065298915143143675",
+        "created_at": "2026-06-12T05:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065298915143143675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065298915143143675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 443,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实情侣舌吻的时候其实是配位键\n缝在一起其实是共价键\n都切一半插在一起是离子键\n抱在一起是原子捕获\n做爱是放热反应\n吵架其实是酸碱中和\n出轨其实是混合物\n分手是分解反应\n换妻是置换反应\nPUA其实是勒夏特列原理\n一夫多妻其实是多侧链大分子\n乱伦其实是聚合反应"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2065456245080010844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1107,
+          "like_count": 8909,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 2356
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T05:30:58.000Z",
+        "description": "MTF|ZH/ENG/DE/LAT|Medicine or O-Chemistry|Medicine Student in CN|Love: @emm101215| 重度焦虑 重度抑郁 双相 精分 社交障碍 躁郁qwq|家暴-天残-无证含糖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "emm101215"
+              }
+            ]
+          }
+        },
+        "id": "2034865150499725313",
+        "name": "科利尔🏳️‍⚧️Kaliro🍥（学医期末复习限定）",
+        "pinned_tweet_id": "2034961012794024311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865262240178178/A0F7SCg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 1319,
+          "like_count": 3902,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 593
+        },
+        "username": "Weberkaliro",
+        "verified": false
+      }
+    ]
+  }
+}

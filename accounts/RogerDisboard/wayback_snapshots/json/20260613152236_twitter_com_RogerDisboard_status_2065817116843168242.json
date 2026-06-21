@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1946593949180993536",
+    "conversation_id": "2065817116843168242",
+    "created_at": "2026-06-13T15:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065817116843168242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1942179909079875584",
+          "start": 8,
+          "username": "mendong_tian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rogerdisboard/…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/rogerdisboard/status/2065721861602992199",
+          "start": 59,
+          "url": "https://t.co/OUiKH6sEDV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065817116843168242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065721861602992199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没事了\n下午和@mendong_tian 吵架了很难受…\n抱歉让所有人担心了\n在这里为我浪费了大家时间和精力而致歉 https://t.co/OUiKH6sEDV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2065817116843168242",
+        "created_at": "2026-06-13T15:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065817116843168242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1942179909079875584",
+              "start": 8,
+              "username": "mendong_tian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rogerdisboard/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/rogerdisboard/status/2065721861602992199",
+              "start": 59,
+              "url": "https://t.co/OUiKH6sEDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065817116843168242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065721861602992199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没事了\n下午和@mendong_tian 吵架了很难受…\n抱歉让所有人担心了\n在这里为我浪费了大家时间和精力而致歉 https://t.co/OUiKH6sEDV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2065721861602992199",
+        "created_at": "2026-06-13T09:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065721861602992199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065721861602992199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1363,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好累…\n而且好难受…\n是时候说再见了…\n\n那么\nさよなら…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2065721861602992199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 1119,
+          "like_count": 9053,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 2402
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T11:12:56.000Z",
+        "description": "这里是天门冬，对象@RogerDisboard\ninfp-t/高中生（住校，周末随机刷新）/福瑞控\n究极社恐，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "RogerDisboard"
+              }
+            ]
+          }
+        },
+        "id": "1942179909079875584",
+        "name": "天门冬",
+        "pinned_tweet_id": "2051571891643863201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053116966005837824/wYSZISXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 442,
+          "like_count": 2558,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 83
+        },
+        "username": "mendong_tian",
+        "verified": false
+      }
+    ]
+  }
+}
