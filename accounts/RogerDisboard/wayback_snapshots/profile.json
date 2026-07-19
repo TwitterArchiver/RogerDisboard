@@ -1,7 +1,7 @@
 {
   "name": "DISBOARDの神様Roger",
   "username": "@RogerDisboard",
-  "bio": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+  "bio": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
   "location": "Disboard",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,10 +10,16 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 34,
-        "start": 20,
-        "username": "mengdong_tian"
+        "end": 57,
+        "start": 43,
+        "username": "Aureliax17QwQ"
+      },
+      {
+        "end": 114,
+        "start": 101,
+        "username": "mendong_tian"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg"
 }
